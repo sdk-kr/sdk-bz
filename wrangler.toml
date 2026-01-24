@@ -1,0 +1,9 @@
+# Cloudflare Pages 설정
+# TODO: 프로젝트 이름 변경 필요
+name = "your-app-name"
+compatibility_date = "2024-01-01"
+
+# KV 네임스페이스 바인딩 (필요시 주석 해제)
+# [[kv_namespaces]]
+# binding = "CACHE"
+# id = "YOUR_KV_NAMESPACE_ID"
