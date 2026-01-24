@@ -11,19 +11,19 @@
 			sections: [
 				{
 					heading: 'Data Collection',
-					text: 'SDK.ac does not collect, store, or transmit any personal data. All processing happens locally in your browser.'
+					text: 'SDK.bz does not collect, store, or transmit any personal or financial data. All calculations happen locally in your browser.'
 				},
 				{
 					heading: 'Local Storage',
 					text: 'We use browser local storage only for saving your preferences (theme, language). This data never leaves your device.'
 				},
 				{
-					heading: 'Analytics',
-					text: 'We may use privacy-respecting analytics to understand general usage patterns. No personally identifiable information is collected.'
+					heading: 'Financial Data',
+					text: 'Your financial inputs (loan amounts, interest rates, crypto values, etc.) are processed entirely in your browser and are never sent to our servers.'
 				},
 				{
-					heading: 'Cookies',
-					text: 'SDK.ac does not use tracking cookies. Essential cookies may be used for basic functionality only.'
+					heading: 'Analytics',
+					text: 'We may use privacy-respecting analytics to understand general usage patterns. No personally identifiable information is collected.'
 				},
 				{
 					heading: 'Third-Party Services',
@@ -31,7 +31,7 @@
 				},
 				{
 					heading: 'Contact',
-					text: 'For privacy-related questions, contact us at hello@sdk.ac'
+					text: 'For privacy-related questions, contact us at hello@sdk.bz'
 				}
 			]
 		},
@@ -41,19 +41,19 @@
 			sections: [
 				{
 					heading: '데이터 수집',
-					text: 'SDK.ac는 개인 데이터를 수집, 저장 또는 전송하지 않습니다. 모든 처리는 브라우저에서 로컬로 이루어집니다.'
+					text: 'SDK.bz는 개인 또는 금융 데이터를 수집, 저장, 전송하지 않습니다. 모든 계산은 브라우저에서 로컬로 처리됩니다.'
 				},
 				{
 					heading: '로컬 스토리지',
 					text: '브라우저 로컬 스토리지는 환경설정(테마, 언어)을 저장하는 데만 사용됩니다. 이 데이터는 기기를 벗어나지 않습니다.'
 				},
 				{
-					heading: '분석',
-					text: '일반적인 사용 패턴을 이해하기 위해 개인정보를 존중하는 분석을 사용할 수 있습니다. 개인 식별 정보는 수집되지 않습니다.'
+					heading: '금융 데이터',
+					text: '금융 입력값(대출 금액, 이자율, 암호화폐 가치 등)은 브라우저에서만 처리되며 서버로 전송되지 않습니다.'
 				},
 				{
-					heading: '쿠키',
-					text: 'SDK.ac는 추적 쿠키를 사용하지 않습니다. 기본 기능을 위한 필수 쿠키만 사용될 수 있습니다.'
+					heading: '분석',
+					text: '일반적인 사용 패턴을 이해하기 위해 개인정보를 존중하는 분석을 사용할 수 있습니다. 개인 식별 정보는 수집되지 않습니다.'
 				},
 				{
 					heading: '제3자 서비스',
@@ -61,7 +61,7 @@
 				},
 				{
 					heading: '연락처',
-					text: '개인정보 관련 질문은 hello@sdk.ac로 문의해 주세요.'
+					text: '개인정보 관련 질문은 hello@sdk.bz로 문의해 주세요.'
 				}
 			]
 		},
@@ -71,19 +71,19 @@
 			sections: [
 				{
 					heading: 'データ収集',
-					text: 'SDK.acは個人データを収集、保存、または送信しません。すべての処理はブラウザ内でローカルに行われます。'
+					text: 'SDK.bzは個人データや金融データを収集、保存、送信しません。すべての計算はブラウザ内でローカルに行われます。'
 				},
 				{
 					heading: 'ローカルストレージ',
 					text: 'ブラウザのローカルストレージは、設定（テーマ、言語）の保存にのみ使用されます。このデータがデバイスから出ることはありません。'
 				},
 				{
-					heading: '分析',
-					text: '一般的な使用パターンを理解するために、プライバシーを尊重した分析を使用する場合があります。個人を特定できる情報は収集されません。'
+					heading: '金融データ',
+					text: '金融入力（ローン金額、金利、暗号通貨価値など）は完全にブラウザ内で処理され、サーバーに送信されることはありません。'
 				},
 				{
-					heading: 'クッキー',
-					text: 'SDK.acはトラッキングクッキーを使用しません。基本機能のための必須クッキーのみ使用される場合があります。'
+					heading: '分析',
+					text: '一般的な使用パターンを理解するために、プライバシーを尊重した分析を使用する場合があります。個人を特定できる情報は収集されません。'
 				},
 				{
 					heading: 'サードパーティサービス',
@@ -91,7 +91,7 @@
 				},
 				{
 					heading: 'お問い合わせ',
-					text: 'プライバシーに関するご質問はhello@sdk.acまでご連絡ください。'
+					text: 'プライバシーに関するご質問はhello@sdk.bzまでご連絡ください。'
 				}
 			]
 		},
@@ -101,19 +101,19 @@
 			sections: [
 				{
 					heading: '数据收集',
-					text: 'SDK.ac 不收集、存储或传输任何个人数据。所有处理都在您的浏览器中本地进行。'
+					text: 'SDK.bz 不收集、存储或传输任何个人或财务数据。所有计算都在您的浏览器中本地进行。'
 				},
 				{
 					heading: '本地存储',
 					text: '我们仅使用浏览器本地存储来保存您的偏好设置（主题、语言）。这些数据永远不会离开您的设备。'
 				},
 				{
-					heading: '分析',
-					text: '我们可能使用尊重隐私的分析来了解一般使用模式。不收集任何个人身份信息。'
+					heading: '财务数据',
+					text: '您的财务输入（贷款金额、利率、加密货币价值等）完全在浏览器中处理，不会发送到我们的服务器。'
 				},
 				{
-					heading: 'Cookies',
-					text: 'SDK.ac 不使用跟踪 cookies。仅可能使用基本功能所需的必要 cookies。'
+					heading: '分析',
+					text: '我们可能使用尊重隐私的分析来了解一般使用模式。不收集任何个人身份信息。'
 				},
 				{
 					heading: '第三方服务',
@@ -121,7 +121,7 @@
 				},
 				{
 					heading: '联系方式',
-					text: '如有隐私相关问题，请联系 hello@sdk.ac'
+					text: '如有隐私相关问题，请联系 hello@sdk.bz'
 				}
 			]
 		}
@@ -131,7 +131,7 @@
 </script>
 
 <svelte:head>
-	<title>{t.title} - SDK.ac</title>
+	<title>{t.title} - SDK.bz</title>
 </svelte:head>
 
 <div class="max-w-3xl mx-auto px-4 py-12">
