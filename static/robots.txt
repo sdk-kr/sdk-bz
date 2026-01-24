@@ -1,0 +1,5 @@
+# SDK.bz - Financial & Crypto Calculators
+User-agent: *
+Allow: /
+
+Sitemap: https://sdk.bz/sitemap.xml
