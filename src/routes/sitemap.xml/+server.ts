@@ -1,4 +1,5 @@
 import type { RequestHandler } from './$types';
+import { getAllBlogPosts } from '$lib/data/blog-posts';
 
 const SITE = 'https://sdk.bz';
 const LANGS = ['en', 'ko', 'ja', 'zh'];
@@ -30,7 +31,9 @@ const PAGES = [
 	'/guide/profit',
 	'/guide/dca',
 	'/guide/staking',
-	'/guide/mining'
+	'/guide/mining',
+	'/blog',
+	...getAllBlogPosts().map(p => `/blog/${p.slug}`)
 ];
 
 export const GET: RequestHandler = async () => {
