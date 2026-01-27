@@ -54,6 +54,7 @@
 			</a>
 
 			<div class="flex items-center gap-4">
+				<a href="{basePath}/blog" class="text-gray-600 dark:text-dark-300 hover:text-green-500 transition-colors text-sm">Blog</a>
 				<!-- 테마 토글 -->
 				<button
 					on:click={() => theme.toggle()}
