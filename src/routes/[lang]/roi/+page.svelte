@@ -22,6 +22,8 @@
 <svelte:head>
 	<title>{t('roi.title')} - SDK.bz</title>
 	<meta name="description" content={t('roi.desc')} />
+	<meta property="og:title" content="{t('roi.title')} - SDK.bz" />
+	<meta property="og:description" content={t('roi.desc')} />
 </svelte:head>
 
 <div class="max-w-4xl mx-auto px-4 py-8">

@@ -28,6 +28,8 @@
 <svelte:head>
 	<title>{t('mortgage.title')} - SDK.bz</title>
 	<meta name="description" content={t('mortgage.desc')} />
+	<meta property="og:title" content="{t('mortgage.title')} - SDK.bz" />
+	<meta property="og:description" content={t('mortgage.desc')} />
 </svelte:head>
 
 <div class="max-w-4xl mx-auto px-4 py-8">

@@ -21,8 +21,31 @@
 </script>
 
 <svelte:head>
-	{#if post}<title>{post.title[lang] || post.title.en} - SDK.bz Blog</title><meta name="description" content={post.description[lang] || post.description.en} />
-	{:else}<title>{t.notFound} - SDK.bz</title>{/if}
+	{#if post}
+		<title>{post.title[lang] || post.title.en} - SDK.bz Blog</title>
+		<meta name="description" content={post.description[lang] || post.description.en} />
+		{@html `<script type="application/ld+json">${JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": "BlogPosting",
+			"headline": post.title[lang] || post.title.en,
+			"description": post.description[lang] || post.description.en,
+			"datePublished": post.date,
+			"author": { "@type": "Organization", "name": "SDKLABS" },
+			"publisher": { "@type": "Organization", "name": "SDKLABS" },
+			"mainEntityOfPage": { "@type": "WebPage", "@id": `https://sdk.bz/${lang}/blog/${slug}` }
+		})}</script>`}
+		{@html `<script type="application/ld+json">${JSON.stringify({
+			"@context": "https://schema.org",
+			"@type": "BreadcrumbList",
+			"itemListElement": [
+				{ "@type": "ListItem", "position": 1, "name": "Home", "item": `https://sdk.bz/${lang}` },
+				{ "@type": "ListItem", "position": 2, "name": "Blog", "item": `https://sdk.bz/${lang}/blog` },
+				{ "@type": "ListItem", "position": 3, "name": post.title[lang] || post.title.en, "item": `https://sdk.bz/${lang}/blog/${slug}` }
+			]
+		})}</script>`}
+	{:else}
+		<title>{t.notFound} - SDK.bz</title>
+	{/if}
 </svelte:head>
 
 <div class="max-w-3xl mx-auto px-4 py-12">

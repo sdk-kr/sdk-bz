@@ -26,6 +26,8 @@
 <svelte:head>
 	<title>{t('loan.title')} - SDK.bz</title>
 	<meta name="description" content={t('loan.desc')} />
+	<meta property="og:title" content="{t('loan.title')} - SDK.bz" />
+	<meta property="og:description" content={t('loan.desc')} />
 </svelte:head>
 
 <div class="max-w-4xl mx-auto px-4 py-8">

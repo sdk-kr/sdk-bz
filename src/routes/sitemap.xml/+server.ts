@@ -46,7 +46,7 @@ export const GET: RequestHandler = async () => {
 		<loc>${SITE}/${lang}${page}</loc>
 		<lastmod>${today}</lastmod>
 		<changefreq>weekly</changefreq>
-		<priority>${page === '' ? '1.0' : page.startsWith('/guide') ? '0.7' : '0.8'}</priority>
+		<priority>${page === '' ? '1.0' : page.startsWith('/blog') ? '0.6' : page.startsWith('/guide') ? '0.7' : '0.8'}</priority>
 	</url>`
 		)
 	).join('');

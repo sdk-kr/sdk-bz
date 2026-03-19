@@ -31,6 +31,8 @@
 <svelte:head>
 	<title>{t('dca.title')} - SDK.bz</title>
 	<meta name="description" content={t('dca.desc')} />
+	<meta property="og:title" content="{t('dca.title')} - SDK.bz" />
+	<meta property="og:description" content={t('dca.desc')} />
 </svelte:head>
 
 <div class="max-w-4xl mx-auto px-4 py-8">

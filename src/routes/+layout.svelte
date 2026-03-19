@@ -38,6 +38,12 @@
 </script>
 
 <svelte:head>
+	<link rel="canonical" href="https://sdk.bz{$page.url.pathname}" />
+	<meta property="og:url" content="https://sdk.bz{$page.url.pathname}" />
+	<meta property="og:type" content="website" />
+	<meta property="og:site_name" content="SDK.bz" />
+	<meta property="og:locale" content={currentLang === 'ko' ? 'ko_KR' : currentLang === 'ja' ? 'ja_JP' : currentLang === 'zh' ? 'zh_CN' : 'en_US'} />
+	<meta name="twitter:card" content="summary" />
 	{#each locales as loc}
 		<link rel="alternate" hreflang={loc} href="https://sdk.bz/{loc}{$page.url.pathname.replace(/^\/(en|ko|ja|zh)/, '')}" />
 	{/each}
