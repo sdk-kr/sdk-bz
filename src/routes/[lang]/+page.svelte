@@ -26,6 +26,21 @@
 <svelte:head>
 	<title>{t('home.title')} - SDK.bz</title>
 	<meta name="description" content={t('home.subtitle')} />
+	{@html `<script type="application/ld+json">${JSON.stringify({
+		'@context': 'https://schema.org',
+		'@type': 'WebSite',
+		name: 'SDK.bz',
+		url: 'https://sdk.bz',
+		description: 'Free financial and crypto calculators for educational purposes'
+	})}</` + `script>`}
+	{@html `<script type="application/ld+json">${JSON.stringify({
+		'@context': 'https://schema.org',
+		'@type': 'Organization',
+		name: 'SDK.bz',
+		url: 'https://sdk.bz',
+		logo: 'https://sdk.bz/og-image.png',
+		sameAs: ['https://github.com/sdk-kr']
+	})}</` + `script>`}
 </svelte:head>
 
 <div class="max-w-7xl mx-auto px-4 py-12">
