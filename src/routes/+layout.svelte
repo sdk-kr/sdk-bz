@@ -113,12 +113,21 @@
 
 	<!-- 푸터 -->
 	<footer class="bg-white dark:bg-dark-900 border-t border-gray-200 dark:border-dark-700 px-4 py-8 transition-colors">
-		<div class="max-w-7xl mx-auto">
-			<div class="flex flex-col md:flex-row justify-between items-center gap-4">
+		<div class="max-w-7xl mx-auto space-y-6">
+			<div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-4">
 				<p class="text-gray-500 dark:text-dark-400 text-sm">{t('footer.copyright')}</p>
-				<div class="flex items-center gap-6 text-sm">
+				<div class="flex flex-wrap items-center gap-x-6 gap-y-2 text-sm">
 					<a href="{basePath}/about" class="text-gray-500 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-200 transition-colors">
 						{t('footer.about')}
+					</a>
+					<a href="{basePath}/blog" class="text-gray-500 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-200 transition-colors">
+						Blog
+					</a>
+					<a href="{basePath}/contact" class="text-gray-500 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-200 transition-colors">
+						Contact
+					</a>
+					<a href="{basePath}/faq" class="text-gray-500 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-200 transition-colors">
+						FAQ
 					</a>
 					<a href="{basePath}/privacy" class="text-gray-500 dark:text-dark-400 hover:text-gray-700 dark:hover:text-dark-200 transition-colors">
 						{t('footer.privacy')}
@@ -127,6 +136,10 @@
 						{t('footer.terms')}
 					</a>
 				</div>
+			</div>
+			<div class="border-t border-gray-200 dark:border-dark-700 pt-4 text-xs text-gray-500 dark:text-dark-500 leading-relaxed">
+				<p>SDK.bz — Free finance & crypto calculators for educational purposes only. Not financial advice.</p>
+				<p>Operated by SDK Co., Ltd. · Contact: <a href="mailto:contact@sdk.bz" class="hover:underline">contact@sdk.bz</a></p>
 			</div>
 		</div>
 	</footer>
