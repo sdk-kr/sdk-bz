@@ -6629,6 +6629,2062 @@ Use our Crypto Tax Calculator to estimate your cryptocurrency tax liability.
 **Disclaimer:** 本内容仅供教育目的，不构成财务建议。`
 		},
 		date: '2026-03-28', category: 'crypto'
+	},
+	{
+		slug: '401k-vs-ira-comparison',
+		title: { en: '401(k) vs IRA: Retirement Accounts Compared', ko: '401(k) vs IRA: 은퇴 계좌 비교', ja: '401(k) vs IRA: 退職口座比較', zh: '401(k) vs IRA: 退休账户比较' },
+		description: { en: 'Understand contribution limits, tax treatment, and which account fits your situation.', ko: '기여 한도, 세금 처리, 본인 상황에 맞는 계좌 이해.', ja: '拠出限度、税制処理、自分の状況に合う口座を理解。', zh: '了解供款限额、税务处理以及适合您情况的账户。' },
+		content: { en: `In the US, 401(k) and IRA accounts are the two main retirement vehicles. They are not interchangeable, and most workers benefit from both.
+
+## 401(k): Through Your Employer
+
+A 401(k) is set up by your employer. Money comes out before taxes (traditional) or after (Roth) directly from your paycheck.
+
+**2026 contribution limits:**
+- Employee: $23,500 (under 50) / $31,000 (50+)
+- Combined employer + employee: $70,000
+
+**Pros:**
+- Employer match — typically 3-6% of salary, free money
+- Higher contribution limits than IRA
+- Automatic payroll deduction reduces decision fatigue
+
+**Cons:**
+- Limited investment menu chosen by employer
+- Fees vary widely; some plans have expense ratios over 1%
+- Cannot access without 10% penalty before 59½ (with exceptions)
+
+## IRA: You Open It Yourself
+
+An IRA is opened at any brokerage. You control the investments.
+
+**2026 contribution limits:**
+- $7,500 (under 50) / $8,500 (50+)
+- Roth IRA phases out above income limits ($165k single, $246k joint)
+
+**Pros:**
+- Any investment available (low-cost index funds, individual stocks, ETFs)
+- Cheap or free at major brokerages
+- Roth IRA allows tax-free withdrawals in retirement
+
+**Cons:**
+- Lower contribution limits
+- No employer match
+- Roth income limits restrict high earners
+
+## Roth vs Traditional
+
+- **Traditional**: deduct now, pay tax on withdrawal. Better if you expect lower tax bracket in retirement.
+- **Roth**: pay tax now, withdraw tax-free. Better for younger workers and those expecting higher future tax rates.
+
+## The Standard Order
+
+1. Contribute to 401(k) up to employer match (free money)
+2. Max out Roth IRA if eligible
+3. Return to 401(k) and max it out
+4. After-tax brokerage for additional savings
+
+## Backdoor Roth
+
+High earners locked out of direct Roth IRA contributions can convert from a traditional IRA. Tax mechanics are subtle; consult a professional.
+
+**Educational only. Not financial advice.** Tax laws and limits change; verify current numbers with the IRS or a CPA.`, ko: `미국에서 401(k)와 IRA는 두 가지 주요 은퇴 수단입니다.
+
+## 401(k): 고용주를 통해
+
+급여에서 세전(traditional) 또는 세후(Roth)로 차감.
+
+**2026년 한도:**
+- 직원: $23,500 (50세 미만) / $31,000 (50세+)
+- 고용주+직원 합계: $70,000
+
+## IRA: 본인 개설
+
+브로커리지에서 직접 개설.
+
+**2026년 한도:**
+- $7,500 / $8,500
+
+## Roth vs Traditional
+
+- Traditional: 지금 공제, 인출 시 과세
+- Roth: 지금 과세, 인출 시 비과세
+
+## 표준 순서
+
+1. 401(k) 매칭까지
+2. Roth IRA 최대화
+3. 401(k) 최대화
+4. 세후 브로커리지
+
+**Educational only. Not financial advice.**`, ja: `米国では401(k)とIRAが主な退職口座です。
+
+## 401(k)
+
+給与から税前または税後で差し引かれる。
+
+**2026年限度:**
+- 従業員: $23,500 / $31,000
+
+## IRA
+
+ブローカーで自分で開設。
+
+**2026年限度:**
+- $7,500 / $8,500
+
+## Roth vs Traditional
+
+- Traditional: 今控除、引き出し時課税
+- Roth: 今課税、引き出し時非課税
+
+**Educational only. Not financial advice.**`, zh: `在美国，401(k)和IRA是两种主要退休工具。
+
+## 401(k)
+
+通过雇主，从工资中税前或税后扣除。
+
+**2026年限额:**
+- 员工: $23,500 / $31,000
+
+## IRA
+
+在经纪商自行开设。
+
+**2026年限额:**
+- $7,500 / $8,500
+
+## Roth vs Traditional
+
+- Traditional: 现在扣除、提取时纳税
+- Roth: 现在纳税、提取时免税
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-30', category: 'retirement'
+	},
+	{
+		slug: 'emergency-fund-3-vs-6-months',
+		title: { en: 'Emergency Fund: 3 vs 6 Months Debate', ko: '비상금: 3개월 vs 6개월 논쟁', ja: '緊急資金: 3ヶ月 vs 6ヶ月の議論', zh: '应急基金: 3个月 vs 6个月之辩' },
+		description: { en: 'How much should sit in your emergency fund? It depends on income stability and obligations.', ko: '비상금에 얼마나 두어야 할까? 소득 안정성과 부담에 달려 있습니다.', ja: '緊急資金にいくら置くべき? 収入の安定性と義務によります。', zh: '应急基金应该有多少? 这取决于收入稳定性和义务。' },
+		content: { en: `"Three to six months of expenses" is the canned answer to emergency fund sizing. The actual right number depends on your situation.
+
+## Why an Emergency Fund
+
+Without a buffer, every car repair, vet bill, or job loss becomes a credit card balance compounding at 22%. The fund's job is to prevent the cascade.
+
+## Calculate Monthly Need
+
+Add up only essential expenses:
+- Housing (rent or mortgage + insurance + property tax)
+- Utilities, internet, phone
+- Groceries (not dining out)
+- Insurance premiums
+- Minimum debt payments
+- Transportation to work
+
+This is typically 60-70% of normal monthly spending.
+
+## When 3 Months Is Enough
+
+- Dual income household; both jobs are stable
+- High-demand skills with quick rehire potential
+- No dependents
+- Low fixed obligations
+
+## When You Need 6+ Months
+
+- Single income
+- Self-employed or commission-based
+- Specialized skills with longer job search timelines
+- Children, dependents, or chronic medical needs
+- High mortgage relative to savings
+
+## Where to Park It
+
+- **High-yield savings account** — 4-5% APY in 2026, FDIC insured, instant access
+- **Money market funds** — slightly higher yield, T+1 settlement
+- **Treasury bills (4-13 weeks)** — competitive yield, ladder for liquidity
+
+Avoid stocks, crypto, or anything that can drop 30% the day you need it.
+
+## Order of Operations
+
+1. Save $1,000 starter buffer
+2. Pay off any debt over 8% APR
+3. Build to 1 month of expenses
+4. Max employer 401(k) match
+5. Build to 3-6 months of expenses
+6. Continue investing
+
+**Educational only. Not financial advice.**`, ko: `"3-6개월 지출"이 비상금 규모의 정형 답변입니다.
+
+## 월 필요액 계산
+
+필수 지출만: 주거, 공과금, 식료품, 보험료, 최소 부채 상환, 출퇴근. 일반 월 지출의 60-70%.
+
+## 3개월이면 충분할 때
+
+맞벌이, 수요 많은 기술, 부양가족 없음.
+
+## 6개월+ 필요할 때
+
+단일 소득, 자영업, 부양가족, 만성 질환.
+
+## 어디에 둘까
+
+- 고이율 저축(2026년 4-5% APY)
+- 머니 마켓 펀드
+- T-bill 사다리
+
+**Educational only. Not financial advice.**`, ja: `「3〜6ヶ月の支出」が緊急資金サイズの定型回答です。
+
+## 月必要額
+
+住居、公共料金、食料品、保険料、最低債務返済、通勤交通費。通常月支出の60-70%。
+
+## 3ヶ月で十分
+
+共働き、需要のあるスキル、扶養なし。
+
+## 6ヶ月以上必要
+
+単一収入、自営業、扶養家族。
+
+## 置き場所
+
+- 高利回り貯蓄(2026年4-5% APY)
+- マネーマーケットファンド
+
+**Educational only. Not financial advice.**`, zh: `"3-6个月支出"是应急基金规模的标准答案。
+
+## 月度需求
+
+仅基本支出: 住房、水电费、食品、保险费、最低债务还款、通勤。通常月支出的60-70%。
+
+## 3个月就够
+
+双收入、需求技能、无抚养。
+
+## 需要6个月以上
+
+单一收入、自雇、抚养家属。
+
+## 存放位置
+
+- 高息储蓄(2026年4-5% APY)
+- 货币市场基金
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-29', category: 'savings'
+	},
+	{
+		slug: 'crypto-wallet-types-explained',
+		title: { en: 'Crypto Wallet Types Explained', ko: '암호화폐 지갑 유형 설명', ja: '暗号通貨ウォレットの種類説明', zh: '加密货币钱包类型解释' },
+		description: { en: 'Hot, cold, custodial, multi-sig: which wallet matches your risk tolerance?', ko: '핫, 콜드, 커스터디, 멀티시그: 어떤 지갑이 본인 위험 허용도에 맞나?', ja: 'ホット、コールド、カストディアル、マルチシグ: あなたのリスク許容度に合うウォレットは?', zh: '热钱包、冷钱包、托管、多签: 哪种钱包符合您的风险承受能力?' },
+		content: { en: `Owning crypto means managing keys. The wallet you choose determines how secure those keys are and who actually controls them.
+
+## Custodial vs Non-Custodial
+
+- **Custodial** — exchange holds your keys (Coinbase, Binance). Convenient, recoverable, but you do not own the coins; the exchange owes them to you.
+- **Non-custodial** — you hold the keys. Full control, full responsibility.
+
+The crypto saying "not your keys, not your coins" is the difference.
+
+## Hot Wallets
+
+Software wallets connected to the internet. Examples: MetaMask, Phantom, Rabby, Trust Wallet.
+
+**Pros**: Easy daily use, integrates with dApps. **Cons**: Vulnerable to phishing, malware, browser extension attacks.
+
+Use only for amounts you would carry as cash.
+
+## Cold Wallets
+
+Hardware devices that sign transactions offline. Ledger, Trezor, Keystone, Coldcard.
+
+**Pros**: Keys never touch an internet-connected device. **Cons**: Cost ($60-200), small learning curve.
+
+For significant holdings (over a few months' income), cold storage is appropriate.
+
+## Multisig
+
+Requires multiple signatures to move funds. 2-of-3 is common.
+
+\`\`\`
+Key 1 — your phone
+Key 2 — hardware wallet at home
+Key 3 — hardware wallet in safety deposit box
+\`\`\`
+
+Tools: Casa, Unchained, Gnosis Safe.
+
+## Seed Phrase Security
+
+The seed phrase (12-24 words) IS the wallet. Anyone with the phrase has the funds.
+
+- Never store digitally (cloud backups, photos, password managers)
+- Engrave on stainless steel for fire/water resistance
+- Never type it into any web form ever
+
+**Educational only. Not financial advice. Crypto is high-risk.**`, ko: `암호화폐 보유는 키 관리를 의미합니다.
+
+## 커스터디 vs 논커스터디
+
+- 커스터디: 거래소가 키 보유
+- 논커스터디: 본인 키 보유
+
+## 핫 월렛
+
+MetaMask, Phantom 등 인터넷 연결 소프트웨어. 일상 소액만.
+
+## 콜드 월렛
+
+Ledger, Trezor. 키가 인터넷 기기에 닿지 않음. 상당 보유분에 적합.
+
+## 멀티시그
+
+2-of-3 일반. Casa, Gnosis Safe.
+
+## 시드 문구
+
+12-24 단어가 지갑 자체. 디지털 저장 금지, 스테인리스 스틸에 새김.
+
+**Educational only. Not financial advice.**`, ja: `暗号通貨保有はキー管理を意味します。
+
+## カストディアル vs ノンカストディアル
+
+「キーがなければコインもない。」
+
+## ホット/コールド
+
+ホット: MetaMaskなど。コールド: Ledger、Trezor。
+
+## マルチシグ
+
+2-of-3が一般的。
+
+## シードフレーズ
+
+12-24語がウォレット。デジタル保存禁止。
+
+**Educational only. Not financial advice.**`, zh: `持有加密货币意味着管理密钥。
+
+## 托管 vs 非托管
+
+"没有密钥就没有币。"
+
+## 热/冷
+
+热: MetaMask等。冷: Ledger、Trezor。
+
+## 多签
+
+2-of-3常见。
+
+## 助记词
+
+12-24个词就是钱包。绝不数字存储。
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-28', category: 'crypto'
+	},
+	{
+		slug: 'bitcoin-halving-2028-impact',
+		title: { en: 'Bitcoin Halving 2028: Expected Impact', ko: '2028년 비트코인 반감기: 예상 영향', ja: '2028年ビットコイン半減期: 予想される影響', zh: '2028年比特币减半: 预期影响' },
+		description: { en: 'How the upcoming halving could affect Bitcoin supply, miner economics, and price.', ko: '다가오는 반감기가 비트코인 공급, 채굴자 경제, 가격에 미칠 영향.', ja: '次の半減期がビットコイン供給、マイナー経済、価格に与える影響。', zh: '即将到来的减半如何影响比特币供应、矿工经济和价格。' },
+		content: { en: `Bitcoin halvings happen roughly every four years, cutting block rewards in half. The next is scheduled for 2028 at block 1,050,000.
+
+## What Halving Does
+
+Block reward changes:
+- 2009-2012: 50 BTC
+- 2012-2016: 25 BTC
+- 2016-2020: 12.5 BTC
+- 2020-2024: 6.25 BTC
+- 2024-2028: 3.125 BTC
+- 2028-2032: 1.5625 BTC (projected)
+
+The supply schedule is hard-coded; only roughly 21 million BTC will ever exist.
+
+## Effect on Miners
+
+Mining revenue per block drops by half overnight. Miners with high electricity costs become unprofitable.
+
+## Historic Price Patterns
+
+After previous halvings, BTC reached new all-time highs within 12-18 months. This is correlation, not causation.
+
+## What Could Be Different in 2028
+
+- **Spot ETF demand** — institutional flow now mediates supply shocks
+- **Lightning Network maturity**
+- **State-level holdings**
+- **Macro environment**
+
+## Miner Fee Dynamics
+
+Block subsidies fall toward zero over time; transaction fees must eventually fund security.
+
+## Risks
+
+- Mining centralization concerns post-halving
+- Regulatory shifts in major jurisdictions
+- Quantum computing threat (long-term)
+
+**Educational only. Not financial advice. Cryptocurrency is highly volatile and speculative.**`, ko: `비트코인 반감기는 약 4년마다.
+
+## 블록 보상
+
+- 2024-2028: 3.125 BTC
+- 2028-2032: 1.5625 BTC (예상)
+
+21M BTC만 존재.
+
+## 채굴자 영향
+
+블록당 수익이 하룻밤에 절반.
+
+## 과거 가격 패턴
+
+이전 반감기 후 12-18개월 내 신고가.
+
+## 2028년 다를 점
+
+현물 ETF 수요, Lightning 성숙, 국가 보유, 거시 환경.
+
+**Educational only. Not financial advice.**`, ja: `ビットコイン半減期は約4年ごと。
+
+## ブロック報酬
+
+- 2024-2028: 3.125 BTC
+- 2028-2032: 1.5625 BTC (予想)
+
+## マイナーへの影響
+
+ブロックあたり収益が半減。
+
+## 過去のパターン
+
+過去半減期後12-18ヶ月以内に新高値。
+
+**Educational only. Not financial advice.**`, zh: `比特币减半大约每四年。
+
+## 区块奖励
+
+- 2024-2028: 3.125 BTC
+- 2028-2032: 1.5625 BTC (预计)
+
+## 对矿工的影响
+
+每区块收入一夜减半。
+
+## 历史模式
+
+过去减半后12-18个月内创新高。
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-27', category: 'crypto'
+	},
+	{
+		slug: 'defi-yield-farming-risks',
+		title: { en: 'DeFi Yield Farming: Understanding the Risks', ko: 'DeFi 일드 파밍: 위험 이해', ja: 'DeFiイールドファーミング: リスクを理解する', zh: 'DeFi收益挖矿: 了解风险' },
+		description: { en: 'High APYs come with smart contract, liquidity, and impermanent loss risks.', ko: '높은 APY는 스마트 컨트랙트, 유동성, 비영구 손실 위험을 동반합니다.', ja: '高いAPYはスマートコントラクト、流動性、インパーマネントロスのリスクを伴います。', zh: '高APY伴随智能合约、流动性和无常损失风险。' },
+		content: { en: `Yield farming offers headline returns of 20%, 100%, sometimes more. The returns are real for some; so are the risks that wipe out principal.
+
+## Sources of Yield
+
+- **Lending** — Aave, Compound: borrowers pay interest
+- **Liquidity provision** — Uniswap, Curve: traders pay swap fees
+- **Staking** — protocol pays for securing the network
+- **Liquidity mining** — protocol prints its token to bootstrap usage
+
+The first three are sustainable; the fourth is essentially marketing.
+
+## Smart Contract Risk
+
+Every contract is software. Bugs result in total loss:
+
+- Ronin Bridge: $625M
+- Wormhole: $325M
+- Beanstalk: $182M
+
+Audits reduce but do not eliminate risk.
+
+## Impermanent Loss
+
+When providing liquidity to a pool, your position rebalances as prices move. If one token rises sharply, you end up holding less of it than if you had simply held both tokens.
+
+## Bridge and Rollup Risk
+
+Cross-chain yields often require bridging assets. Bridges are the highest-risk component in DeFi by historical exploit volume.
+
+## Rug Pulls
+
+New protocols on new chains advertising 1000% APY are usually deliberate exit scams.
+
+## Stablecoin De-pegs
+
+Yield on USDC or DAI assumes the peg holds. Algorithmic stablecoins (UST in 2022) have collapsed entirely.
+
+## Sensible Approach
+
+Limit DeFi exposure to capital you can fully lose. Stick to established protocols.
+
+**Educational only. Not financial advice. DeFi involves total loss risk.**`, ko: `일드 파밍은 20%, 100% 수익률을 제공하지만 위험도 진짜.
+
+## 수익 원천
+
+- 대출 (Aave, Compound)
+- 유동성 공급 (Uniswap, Curve)
+- 스테이킹
+- 유동성 마이닝
+
+## 스마트 컨트랙트 위험
+
+Ronin $625M, Wormhole $325M, Beanstalk $182M.
+
+## 비영구 손실
+
+가격 변동 시 재균형, 한 토큰 급등하면 손실.
+
+## 브리지 위험
+
+역사적 익스플로잇 규모로 가장 고위험.
+
+## 합리적 접근
+
+완전히 잃을 수 있는 자본만.
+
+**Educational only. Not financial advice.**`, ja: `イールドファーミングは20%、100%リターンを提供しますがリスクも本物。
+
+## 利回り源
+
+- 貸付 (Aave)
+- 流動性提供 (Uniswap)
+- ステーキング
+
+## スマートコントラクトリスク
+
+Ronin $625M、Wormhole $325M。
+
+## インパーマネントロス
+
+価格変動でリバランス、片方急騰で損失。
+
+**Educational only. Not financial advice.**`, zh: `收益挖矿提供20%、100%回报，但风险也真。
+
+## 收益来源
+
+- 借贷 (Aave)
+- 流动性供应 (Uniswap)
+- 质押
+
+## 智能合约风险
+
+Ronin $625M、Wormhole $325M。
+
+## 无常损失
+
+价格变动重新平衡，一种代币飙升则损失。
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-26', category: 'crypto'
+	},
+	{
+		slug: 'nft-investment-guide',
+		title: { en: 'NFT Investment Guide: After the Hype', ko: 'NFT 투자 가이드: 과열 이후', ja: 'NFT投資ガイド: ハイプ後', zh: 'NFT投资指南: 炒作之后' },
+		description: { en: 'A sober look at NFT investing in 2026: utility, royalties, and what survived.', ko: '2026년 NFT 투자에 대한 냉정한 시선.', ja: '2026年のNFT投資の冷静な見方。', zh: '2026年NFT投资的冷静观察。' },
+		content: { en: `The NFT market crashed roughly 95% from 2021-2022 highs. What remains is a smaller, more functional market with clearer use cases.
+
+## What Survived the Crash
+
+- **Established blue chips** — CryptoPunks, Bored Apes still have liquidity
+- **Generative art** — Art Blocks, fxhash continue
+- **Utility NFTs** — game items, domain names (ENS), event tickets
+- **Music and creator royalties** — niche but real
+
+The pure-speculation collections that drove 2021 mania mostly went to zero.
+
+## Royalties: The Broken Promise
+
+The early NFT pitch included perpetual royalties to creators. By 2024-2025, most marketplaces made royalties optional or removed them.
+
+## What to Evaluate
+
+- Floor price history (12+ months)
+- Wash trading volume
+- Holder distribution
+- Real utility
+- Team transparency
+
+## Use Cases That Make Sense
+
+- Domain names (ENS)
+- Game items
+- Event tickets
+- Membership passes
+
+## Valuation Reality
+
+Most NFTs have no cash flow, no underlying asset, and no scarcity outside the issuing contract.
+
+## Sensible Allocation
+
+Treat NFTs as a discretionary entertainment line item, not a portfolio allocation.
+
+**Educational only. Not financial advice. NFTs are highly illiquid and speculative.**`, ko: `NFT 시장은 2021-2022 고점 대비 약 95% 폭락.
+
+## 살아남은 것
+
+블루칩 (CryptoPunks), 제너러티브 아트, 유틸리티 NFT, 음악/창작자 로열티.
+
+## 로열티: 깨진 약속
+
+대부분 마켓플레이스가 옵션화/제거.
+
+## 평가 항목
+
+12개월+ 바닥, 워시 트레이딩, 홀더 분포, 유틸리티, 팀 투명성.
+
+## 합리적 배분
+
+재량적 엔터테인먼트, 포트폴리오 배분 아님.
+
+**Educational only. Not financial advice.**`, ja: `NFT市場は2021-2022年高値から約95%下落。
+
+## 生き延びたもの
+
+ブルーチップ、ジェネラティブアート、ユーティリティNFT、ロイヤリティ。
+
+## ロイヤリティ: 破られた約束
+
+ほとんどのマーケットプレイスがオプション化または削除。
+
+## 用途
+
+ドメイン、ゲームアイテム、チケット、メンバーシップ。
+
+**Educational only. Not financial advice.**`, zh: `NFT市场从2021-2022高点下跌约95%。
+
+## 幸存的
+
+蓝筹、生成艺术、实用NFT、版税。
+
+## 版税: 破灭承诺
+
+大多数市场使其变为可选或移除。
+
+## 用途
+
+域名、游戏物品、票证、会员通行证。
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-25', category: 'crypto'
+	},
+	{
+		slug: 'robo-advisors-vs-self-directed',
+		title: { en: 'Robo-Advisors vs Self-Directed Investing', ko: '로보어드바이저 vs 직접 투자', ja: 'ロボアドバイザー vs 自己主導投資', zh: '机器人顾问 vs 自主投资' },
+		description: { en: 'When automation pays off and when DIY beats the algorithm.', ko: '자동화가 효과적일 때와 DIY가 알고리즘을 이길 때.', ja: '自動化が効果を発揮する時と、DIYがアルゴリズムに勝る時。', zh: '何时自动化有效以及DIY何时胜过算法。' },
+		content: { en: `Robo-advisors automate portfolio management for an annual fee, typically 0.25-0.50%. Self-directed investing means you handle allocation and rebalancing yourself.
+
+## What Robo-Advisors Do
+
+- Build a diversified portfolio based on your risk tolerance
+- Automatic rebalancing
+- Tax-loss harvesting (in taxable accounts)
+- Direct deposits and dividend reinvestment
+
+Major providers: Wealthfront, Betterment, Schwab Intelligent Portfolios, Vanguard Digital Advisor.
+
+## The Cost
+
+A 0.25% management fee on $100,000 is $250/year. Over 30 years at 7% returns, paying 0.25% vs 0% costs roughly $30,000 in foregone returns.
+
+## What DIY Requires
+
+- Research basic asset allocation
+- Pick low-cost index funds
+- Set up automated contributions
+- Rebalance once or twice yearly
+- Tax-loss harvest manually
+- Resist panic-selling in downturns
+
+A 3-fund portfolio outperforms many sophisticated strategies over decades.
+
+## When Robo Wins
+
+- You haven't built a portfolio yet
+- Tax-loss harvesting in a large taxable account
+- You panic-sell every downturn
+
+## When DIY Wins
+
+- Modest portfolio sizes where 0.25% fees matter
+- You enjoy learning the basics
+- You hold tax-advantaged accounts only
+
+## Hybrid
+
+Many investors do both: robo for taxable harvesting, DIY in 401(k) and IRAs.
+
+**Educational only. Not financial advice.**`, ko: `로보어드바이저는 연 0.25-0.50% 수수료로 포트폴리오 자동화.
+
+## 비용
+
+$100,000의 0.25% = 연 $250. 30년에 약 $30,000 차이.
+
+## DIY가 요구하는 것
+
+- 기본 자산 배분 조사
+- 저비용 인덱스 펀드 선택
+- 자동 기여 설정
+- 연 1-2회 리밸런싱
+
+## 로보 승리
+
+미구축, 큰 과세 계좌, 패닉 매도 성격.
+
+## DIY 승리
+
+적당한 크기, 학습 즐김, 세금 우대 계좌만.
+
+**Educational only. Not financial advice.**`, ja: `ロボアドバイザーは年0.25-0.50%手数料で自動化。
+
+## コスト
+
+$100,000の0.25% = 年$250。
+
+## DIY要件
+
+資産配分、低コストインデックス、自動拠出、年次リバランス。
+
+## ロボの勝ち
+
+未構築、大きな課税口座、パニック傾向。
+
+**Educational only. Not financial advice.**`, zh: `机器人顾问以年费0.25-0.50%自动化。
+
+## 成本
+
+$100,000的0.25% = 每年$250。
+
+## DIY要求
+
+资产配置、低成本指数、自动供款、年度再平衡。
+
+## 机器人胜出
+
+未建立、大型应税账户、恐慌倾向。
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-24', category: 'investing'
+	},
+	{
+		slug: 'options-vs-futures-basics',
+		title: { en: 'Options vs Futures: Derivatives Basics', ko: '옵션 vs 선물: 파생상품 기초', ja: 'オプション vs 先物: デリバティブの基礎', zh: '期权 vs 期货: 衍生品基础' },
+		description: { en: 'How options and futures contracts differ, and which fits which strategy.', ko: '옵션과 선물 계약의 차이와 어떤 전략에 맞는지.', ja: 'オプションと先物の違いと、どの戦略に合うか。', zh: '期权和期货的区别以及哪种适合哪种策略。' },
+		content: { en: `Both options and futures are derivative contracts — their value derives from an underlying asset.
+
+## Futures: The Obligation
+
+A futures contract is an agreement to buy or sell at a set price on a set future date. Both parties are obligated.
+
+\`\`\`
+Buy 1 ES futures at 5,000 expiring March 2027
+- If S&P at expiration is 5,200: profit ~$10,000
+- If S&P at expiration is 4,800: loss ~$10,000
+\`\`\`
+
+Highly leveraged.
+
+## Options: The Right, Not Obligation
+
+A call option gives the right (not obligation) to buy at a set price. A put gives the right to sell. You pay a premium upfront.
+
+Maximum loss is the premium paid.
+
+## Cost Structure
+
+| | Futures | Options |
+|--|---------|---------|
+| Upfront cost | Margin | Premium |
+| Time decay | Minimal | Significant |
+| Leverage | Very high | Moderate to very high |
+| Max loss | Theoretically unlimited | Premium paid (long) |
+
+## Use Cases
+
+**Futures**: Hedge commodities, index speculation, 24-hour markets.
+**Options**: Define max loss, generate income (covered calls), hedge downside (protective puts), express volatility views.
+
+## The Greeks
+
+Options pricing depends on five factors: delta, gamma, theta, vega, rho.
+
+## Risk
+
+Beginners selling naked options or oversizing futures positions can lose multiples of their account in a single day.
+
+**Educational only. Not financial advice. Derivatives carry high risk.**`, ko: `옵션과 선물 모두 파생상품.
+
+## 선물: 의무
+
+설정 가격으로 미래 매수/매도 합의. 양측 의무.
+
+## 옵션: 권리
+
+콜 매수 권리, 풋 매도 권리. 프리미엄 선납. 최대 손실 = 프리미엄.
+
+## 비용 구조
+
+| | 선물 | 옵션 |
+|--|----|----|
+| 선납 | 마진 | 프리미엄 |
+| 시간 감쇠 | 최소 | 큼 |
+
+## 위험
+
+네이키드 옵션 매도/오버사이즈 선물은 하루에 계좌 수배 손실 가능.
+
+**Educational only. Not financial advice.**`, ja: `両方ともデリバティブ。
+
+## 先物: 義務
+
+設定価格で売買する合意。
+
+## オプション: 権利
+
+最大損失 = プレミアム。
+
+## リスク
+
+ペーパートレードを3ヶ月以上。
+
+**Educational only. Not financial advice.**`, zh: `两者都是衍生品。
+
+## 期货: 义务
+
+约定在未来日期以设定价格买卖。
+
+## 期权: 权利
+
+最大损失 = 已付溢价。
+
+## 风险
+
+先纸面交易至少三个月。
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-23', category: 'investing'
+	},
+	{
+		slug: 'dividend-investing-strategy',
+		title: { en: 'Dividend Investing Strategy', ko: '배당 투자 전략', ja: '配当投資戦略', zh: '股息投资策略' },
+		description: { en: 'Build cash flow and total return through carefully selected dividend stocks.', ko: '신중히 선택한 배당주를 통해 현금흐름과 총수익 구축.', ja: '配当株を通じてキャッシュフローと総合リターンを構築。', zh: '通过股息股票建立现金流和总回报。' },
+		content: { en: `Dividend investing focuses on companies that pay a portion of profits to shareholders regularly.
+
+## Why Dividends Matter
+
+- **Cash flow** — predictable income
+- **Discipline** — companies face shareholders quarterly
+- **Total return** — over decades, reinvested dividends matter
+
+## Yield vs Total Return
+
+Yield = dividend / share price. A 10% yield often signals trouble. Always look at the underlying business.
+
+Sustainable yield in 2026: quality stocks 1-4%, dividend ETFs 2-3%, REITs and utilities 4-7%.
+
+## Key Metrics
+
+- Payout ratio (dividends / earnings)
+- Dividend growth rate (5-10 years consecutive raises)
+- FCF coverage
+- Sector position
+
+## Dividend Aristocrats
+
+S&P 500 companies with 25+ consecutive years of dividend increases.
+
+## Yield Traps
+
+A stock yielding 12% usually telegraphs trouble.
+
+## Tax Treatment in the US
+
+Qualified dividends taxed at long-term capital gains rates (0/15/20%). Non-qualified taxed as ordinary income.
+
+## Sample Allocation
+
+- 50% diversified dividend ETF (SCHD, VYM, NOBL)
+- 30% individual quality dividend payers
+- 20% REITs and preferred shares
+
+**Educational only. Not financial advice.**`, ko: `배당 투자는 정기적으로 이익을 주주에게 지급하는 기업에 집중.
+
+## 중요성
+
+현금흐름, 규율, 총수익.
+
+## 수익률 vs 총수익
+
+10% 수익률은 보통 문제 신호.
+
+2026년: 양질 주식 1-4%, 배당 ETF 2-3%, REIT 4-7%.
+
+## 핵심 지표
+
+배당성향, 배당 성장률, FCF 커버리지, 섹터 위치.
+
+## 배당 귀족주
+
+S&P 500에서 25년+ 연속 배당 인상.
+
+## 미국 세금
+
+적격 배당은 장기 자본이득세율.
+
+**Educational only. Not financial advice.**`, ja: `配当投資は利益を株主に定期支払いする企業に焦点。
+
+## 利回り vs 総合リターン
+
+10%利回りは通常問題のサイン。
+
+## 主要指標
+
+配当性向、配当成長率、FCFカバレッジ。
+
+## 配当貴族
+
+S&P 500で25年以上連続増配。
+
+**Educational only. Not financial advice.**`, zh: `股息投资专注于定期向股东支付利润的公司。
+
+## 收益率 vs 总回报
+
+10%收益率通常是麻烦信号。
+
+## 关键指标
+
+派息率、股息增长率、FCF覆盖率。
+
+## 股息贵族
+
+S&P 500连续25年以上提高股息。
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-22', category: 'investing'
+	},
+	{
+		slug: 'index-funds-explained',
+		title: { en: 'Index Funds Explained', ko: '인덱스 펀드 설명', ja: 'インデックスファンドの説明', zh: '指数基金解释' },
+		description: { en: 'Why low-cost index funds outperform most active managers over decades.', ko: '저비용 인덱스 펀드가 대부분 액티브 매니저를 능가하는 이유.', ja: '低コストインデックスファンドが長期で勝つ理由。', zh: '为什么低成本指数基金长期跑赢大多数主动管理者。' },
+		content: { en: `Index funds buy every stock in an index proportionally.
+
+## How They Work
+
+A fund tracking the S&P 500 holds all 500 stocks weighted by market cap.
+
+## Why Costs Matter
+
+A 1% fee compounds over 30 years at 7% returns:
+
+- 0.04% expense ratio (VTI)
+- 1.0% expense ratio
+- Difference: roughly 22% of final wealth
+
+## Common Indices
+
+- S&P 500
+- Total US Market (VTI)
+- MSCI EAFE
+- Emerging Markets
+- Total Bond Market
+
+## Three-Fund Portfolio
+
+\`\`\`
+60% Total US Stock Market
+30% Total International
+10% Total Bond Market
+\`\`\`
+
+## ETF vs Mutual Fund
+
+Both offer index exposure. ETFs usually more tax-efficient in taxable accounts.
+
+## Common Mistakes
+
+- Picking too many funds (overlap)
+- Tracking errors
+- Leveraged or inverse ETFs
+- Selling during downturns
+
+**Educational only. Not financial advice.**`, ko: `인덱스 펀드는 지수의 모든 주식을 비례적으로 매수.
+
+## 비용 중요성
+
+30년 7%에서 0.04% vs 1.0%은 최종 자산의 약 22% 차이.
+
+## 흔한 지수
+
+S&P 500, VTI, MSCI EAFE, 신흥, 미국 채권.
+
+## 3-펀드 포트폴리오
+
+\`\`\`
+60% 미국 전체 주식
+30% 국제 전체
+10% 미국 채권 전체
+\`\`\`
+
+**Educational only. Not financial advice.**`, ja: `インデックスファンドは指数の全銘柄を比例購入。
+
+## コスト重要性
+
+30年7%で0.04% vs 1.0%は最終資産の約22%差。
+
+## 3ファンドポートフォリオ
+
+\`\`\`
+60% 米国全株
+30% 国際全体
+10% 米国債券全体
+\`\`\`
+
+**Educational only. Not financial advice.**`, zh: `指数基金按比例购买指数中的所有股票。
+
+## 成本重要性
+
+30年7%中0.04% vs 1.0%是最终财富的约22%差异。
+
+## 三基金组合
+
+\`\`\`
+60% 美国全股
+30% 国际全市场
+10% 美国债券全市场
+\`\`\`
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-21', category: 'investing'
+	},
+	{
+		slug: 'bond-yields-explained',
+		title: { en: 'Bond Yields Explained', ko: '채권 수익률 설명', ja: '債券利回り説明', zh: '债券收益率解释' },
+		description: { en: 'Coupon, current yield, yield to maturity: what each number actually tells you.', ko: '쿠폰, 현재 수익률, 만기 수익률.', ja: 'クーポン、現在利回り、満期利回り。', zh: '票面利率、当前收益率、到期收益率。' },
+		content: { en: `Bonds look simple but the yield numbers used to compare them mean different things.
+
+## The Basics
+
+A bond pays a fixed coupon and returns face value at maturity. Bonds trade in the secondary market.
+
+## Coupon Rate
+
+\`\`\`
+$1,000 par bond with 5% coupon = $50/year
+\`\`\`
+
+Set at issue, doesn't change.
+
+## Current Yield
+
+\`\`\`
+Current Yield = Annual Coupon / Current Price
+\`\`\`
+
+Ignores gain or loss at maturity.
+
+## Yield to Maturity (YTM)
+
+The all-in expected return if you hold to maturity. Standard for comparing bonds.
+
+## Yield Curve
+
+Plot of yields by maturity. Inverted curve historically signals recession.
+
+## Real vs Nominal
+
+5% nominal yield with 3% inflation = roughly 2% real. TIPS pay real yield directly.
+
+## Credit Spread
+
+Corporate bonds yield more than Treasuries to compensate for default risk.
+
+## Duration
+
+Bond price sensitivity to interest rate changes. Duration of 7 means 1% rate rise drops price ~7%.
+
+## Tax Treatment
+
+US Treasury interest exempt from state tax. Municipal bond interest typically exempt from federal tax.
+
+**Educational only. Not financial advice.**`, ko: `채권은 단순해 보이지만 수익률 숫자들은 서로 다른 의미.
+
+## 기초
+
+고정 쿠폰 지급, 만기 액면 반환.
+
+## 현재 수익률
+
+연 쿠폰 / 현재 가격.
+
+## 만기 수익률 (YTM)
+
+만기까지 보유 시 총 예상 수익. 비교 표준.
+
+## 수익률 곡선
+
+역전된 곡선은 역사적 경기침체 신호.
+
+## 듀레이션
+
+듀레이션 7은 금리 1% 상승 시 가격 ~7% 하락.
+
+**Educational only. Not financial advice.**`, ja: `債券はシンプルに見えるが、利回り数字はそれぞれ異なる意味。
+
+## 基本
+
+固定クーポン支払い、満期に額面返還。
+
+## 満期利回り(YTM)
+
+満期保有の総合期待リターン。
+
+## イールドカーブ
+
+逆転は歴史的に景気後退の兆候。
+
+## デュレーション
+
+デュレーション7は金利1%上昇で価格〜7%下落。
+
+**Educational only. Not financial advice.**`, zh: `债券看似简单但收益率数字含义不同。
+
+## 基础
+
+支付固定票息，到期返还面值。
+
+## 到期收益率(YTM)
+
+持有到期的总预期回报。
+
+## 收益率曲线
+
+倒挂历史上是衰退信号。
+
+## 久期
+
+久期7意味利率上升1%价格下跌~7%。
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-20', category: 'investing'
+	},
+	{
+		slug: 'inflation-hedging-strategies',
+		title: { en: 'Inflation Hedging Strategies', ko: '인플레이션 헤지 전략', ja: 'インフレヘッジ戦略', zh: '通胀对冲策略' },
+		description: { en: 'How investors protect purchasing power when inflation runs above target.', ko: '인플레이션이 목표를 넘을 때 구매력 보호.', ja: 'インフレが目標を上回る時の購買力保護。', zh: '通胀超过目标时保护购买力。' },
+		content: { en: `Inflation erodes purchasing power. 3% inflation for 25 years cuts purchasing power roughly in half.
+
+## TIPS
+
+Treasury Inflation-Protected Securities adjust principal by CPI. The yield quoted is real.
+
+## I Bonds
+
+US savings bonds with fixed real rate plus inflation adjustment. $10k/year per person.
+
+## Real Estate
+
+Rental income tends to rise with inflation. REITs offer liquid exposure.
+
+## Commodities
+
+Oil, agriculture, industrial metals, gold. ETFs (DBC, PDBC) provide diversified exposure.
+
+## Stocks (selectively)
+
+Companies with pricing power pass inflation through.
+
+## Gold
+
+Long-debated. 5-10% allocation common.
+
+## What Doesn't Hedge
+
+- Long-duration nominal bonds
+- Cash above emergency-fund needs
+- High-multiple unprofitable growth stocks
+
+## Sample Tilt
+
+\`\`\`
+50% diversified stocks
+20% TIPS / I Bonds
+15% REITs and commodities
+10% short-duration bonds
+5% gold
+\`\`\`
+
+**Educational only. Not financial advice.**`, ko: `인플레이션은 구매력을 깎아냅니다.
+
+## TIPS
+
+미국 인플레이션 보호 채권. 원금이 CPI로 조정.
+
+## I Bonds
+
+연 $10k/인 한도.
+
+## 부동산
+
+임대료가 인플레이션과 함께 상승.
+
+## 원자재
+
+석유, 농산물, 금속, 금.
+
+## 주식 (선택적)
+
+가격 결정력 있는 기업.
+
+## 인플레이션 저항 틸트
+
+\`\`\`
+50% 분산 주식
+20% TIPS / I Bonds
+15% REIT/원자재
+10% 단기 채권
+5% 금
+\`\`\`
+
+**Educational only. Not financial advice.**`, ja: `インフレは購買力を侵食。
+
+## TIPS
+
+米国インフレ保護債券。
+
+## I Bonds
+
+年$10k/人。
+
+## 不動産
+
+賃料がインフレとともに上昇。
+
+## コモディティ
+
+石油、農産物、金属、金。
+
+**Educational only. Not financial advice.**`, zh: `通胀侵蚀购买力。
+
+## TIPS
+
+美国通胀保护债券。
+
+## I Bonds
+
+每人每年$10k。
+
+## 房地产
+
+租金随通胀上升。
+
+## 大宗商品
+
+石油、农产品、金属、黄金。
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-19', category: 'investing'
+	},
+	{
+		slug: 'value-vs-growth-investing',
+		title: { en: 'Value vs Growth Investing', ko: '가치 vs 성장 투자', ja: 'バリュー vs グロース投資', zh: '价值 vs 成长投资' },
+		description: { en: 'Two enduring investment philosophies that have traded leadership for decades.', ko: '수십 년간 교차해온 두 투자 철학.', ja: '数十年にわたり交替してきた2つの投資哲学。', zh: '几十年来交替领导的两种投资哲学。' },
+		content: { en: `Value and growth are the two main investment styles.
+
+## Value Investing
+
+Buy companies trading at a discount to intrinsic value:
+- Low P/E, low P/B
+- High dividend yield
+- Strong FCF
+
+Champions: Graham, Buffett, Marks.
+
+## Growth Investing
+
+Buy companies expected to grow earnings faster:
+- High earnings growth
+- High revenue growth
+- Expanding margins
+
+Champions: Fisher, Lynch, Wood.
+
+## Performance History
+
+- 1990s: growth dominated (tech bubble)
+- 2000s: value dominated
+- 2010s: growth dominated (FAANG)
+- 2020-2025: leadership traded
+
+Mean reversion is real but unpredictable.
+
+## GARP Hybrid
+
+Growth at a Reasonable Price. 15-25% growth at 15-20x earnings.
+
+## Quality Screen
+
+Strong balance sheet, consistent FCF, capable management, competitive moat.
+
+## Behavioral Trap
+
+Investors chase whatever style won the last 5 years.
+
+**Educational only. Not financial advice.**`, ko: `가치와 성장은 두 가지 주요 투자 스타일.
+
+## 가치 투자
+
+내재 가치 대비 할인. Graham, Buffett.
+
+## 성장 투자
+
+빠른 이익 성장. Fisher, Lynch, Wood.
+
+## 성과 역사
+
+- 1990s: 성장 압승
+- 2000s: 가치 압승
+- 2010s: 성장 지배
+
+## GARP
+
+합리적 가격의 성장.
+
+**Educational only. Not financial advice.**`, ja: `バリューとグロースは2つの主要スタイル。
+
+## バリュー投資
+
+内在価値に対し割引で取引。
+
+## グロース投資
+
+速く利益が成長する企業。
+
+## パフォーマンス史
+
+- 1990s: グロース圧勝
+- 2000s: バリュー圧勝
+- 2010s: グロース支配
+
+**Educational only. Not financial advice.**`, zh: `价值和成长是两种主要投资风格。
+
+## 价值投资
+
+按低于内在价值折扣。
+
+## 成长投资
+
+预期收益增长快。
+
+## 表现历史
+
+- 1990s: 成长大胜
+- 2000s: 价值大胜
+- 2010s: 成长主导
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-18', category: 'investing'
+	},
+	{
+		slug: 'dollar-cost-averaging-deep-dive',
+		title: { en: 'Dollar-Cost Averaging Deep Dive', ko: '적립식 투자 심층 분석', ja: 'ドルコスト平均法詳細解説', zh: '定投深入剖析' },
+		description: { en: 'When DCA helps, when lump-sum wins, and how to combine the two.', ko: 'DCA가 도움될 때, 일시불이 이길 때, 결합 방법.', ja: 'DCAが有効な時、一括投資が勝つ時、組み合わせ方。', zh: 'DCA何时有用、何时一次性投资获胜以及如何结合。' },
+		content: { en: `Dollar-cost averaging means investing equal amounts at fixed intervals regardless of price.
+
+## Mechanics
+
+Invest $500 monthly. When prices are low, buys more shares; when high, fewer.
+
+## What DCA Wins At
+
+Behavior, not returns.
+- DCA underperforms lump sum about 65-70% of the time over 10-year windows
+- DCA reduces regret of investing right before a crash
+- DCA provides discipline
+
+## When Lump Sum Wins
+
+Vanguard's research shows lump-sum beats 12-month DCA in roughly two-thirds of historical periods.
+
+## When DCA Wins
+
+- Highly volatile markets
+- When you don't have a lump sum (most investors via paychecks)
+- Behavioral protection against panic-selling
+
+## Hybrid Approach
+
+\`\`\`
+50% invest immediately
+50% DCA over 6-12 months
+\`\`\`
+
+## Automating DCA
+
+The best DCA is the one you don't have to think about.
+
+**Educational only. Not financial advice.**`, ko: `적립식 투자는 가격과 관계없이 정기 투자.
+
+## DCA가 이기는 것
+
+수익률이 아니라 행동. 10년 창에서 일시불 대비 65-70% 시간 열위.
+
+## 일시불 승리
+
+Vanguard 조사: 일시불이 12개월 DCA를 약 2/3 시간 이김.
+
+## DCA 승리
+
+고변동성, 일시불 없을 때, 패닉 매도 방어.
+
+## 하이브리드
+
+\`\`\`
+50% 즉시 투자
+50% 6-12개월 DCA
+\`\`\`
+
+**Educational only. Not financial advice.**`, ja: `ドルコスト平均法は価格に関係なく定期投資。
+
+## DCAが勝つもの
+
+リターンではなく行動。
+
+## 一括投資の勝ち
+
+Vanguard調査: 一括投資が12ヶ月DCAを2/3で上回る。
+
+## ハイブリッド
+
+\`\`\`
+50% 即時投資
+50% 6-12ヶ月DCA
+\`\`\`
+
+**Educational only. Not financial advice.**`, zh: `定投意味着无论价格定期投资相同金额。
+
+## DCA实际赢在
+
+行为而非回报。
+
+## 一次性投资获胜
+
+Vanguard研究: 一次性投资在2/3时间击败12个月DCA。
+
+## 混合方法
+
+\`\`\`
+50% 立即投资
+50% 6-12个月DCA
+\`\`\`
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-17', category: 'investing'
+	},
+	{
+		slug: 'portfolio-rebalancing-when',
+		title: { en: 'Portfolio Rebalancing: When and How', ko: '포트폴리오 리밸런싱', ja: 'ポートフォリオリバランシング', zh: '投资组合再平衡' },
+		description: { en: 'Rebalancing controls risk, not returns.', ko: '리밸런싱은 위험 제어.', ja: 'リバランスはリスク制御。', zh: '再平衡控制风险。' },
+		content: { en: `Rebalancing means selling assets that have grown beyond target and buying those that have fallen below. The point is risk control.
+
+## Why It Matters
+
+Without rebalancing, a 60/40 stock/bond portfolio drifts to 80/20 during a bull market.
+
+## Calendar Rebalancing
+
+- Annual on January 1 or birthday
+- Semiannual
+- Quarterly (over-trading)
+
+Annual is the most common compromise.
+
+## Threshold Rebalancing
+
+Rebalance when any asset drifts more than X%:
+- 5% absolute drift
+- 25% relative drift
+
+## Costs
+
+- Trading commissions: near zero in 2026
+- Taxes: selling in taxable accounts triggers gains
+- Bid-ask spreads
+
+## Tax-Smart Order
+
+1. Direct dividends to underweight asset
+2. Direct new contributions to underweight
+3. Rebalance within tax-advantaged accounts
+4. Last resort: sell in taxable
+
+## When Not to Rebalance
+
+- Brand new portfolio
+- Tax cost exceeds expected risk reduction
+
+## Automation
+
+Target-date funds rebalance internally. Robo-advisors handle it.
+
+**Educational only. Not financial advice.**`, ko: `리밸런싱은 목표 초과 자산을 팔고 미달 자산을 사는 것.
+
+## 캘린더
+
+연 1회가 일반적.
+
+## 임계값
+
+5% 절대 또는 25% 상대 표류 시.
+
+## 비용
+
+수수료 거의 0, 세금이 큼.
+
+## 세금 스마트 순서
+
+1. 배당을 미달 자산으로
+2. 신규 기여를 미달 자산으로
+3. 세금 우대 계좌 내 리밸런싱
+4. 최후: 과세 매도
+
+**Educational only. Not financial advice.**`, ja: `リバランスはターゲット超過資産を売り、未満資産を買う。
+
+## カレンダー
+
+年1回が一般的。
+
+## 閾値
+
+5%絶対または25%相対ドリフト。
+
+## 税金スマート
+
+1. 配当を未満資産へ
+2. 新規拠出を未満資産へ
+3. 税優遇口座内リバランス
+
+**Educational only. Not financial advice.**`, zh: `再平衡意味着出售超过目标的资产并购买低于目标的资产。
+
+## 日历
+
+每年一次最常见。
+
+## 阈值
+
+5%绝对或25%相对漂移时。
+
+## 税务智能
+
+1. 股息流向不足资产
+2. 新供款流向不足
+3. 税优账户内再平衡
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-16', category: 'investing'
+	},
+	{
+		slug: 'crypto-tax-loss-harvesting',
+		title: { en: 'Crypto Tax-Loss Harvesting', ko: '암호화폐 세금 손실 수확', ja: '暗号通貨タックスロスハーベスティング', zh: '加密货币税收损失收割' },
+		description: { en: 'Use crypto volatility to capture losses without giving up market exposure.', ko: '시장 노출 유지하며 손실 수확.', ja: '市場エクスポージャー維持で損失収穫。', zh: '保持市场敞口的同时收割损失。' },
+		content: { en: `Tax-loss harvesting (TLH) means selling at a loss to offset gains, then reinvesting in something similar.
+
+## How TLH Works
+
+\`\`\`
+Bought 1 BTC at $80,000
+Currently $60,000 (paper loss $20,000)
+Sell BTC: realize $20,000 loss
+Buy ETH or different BTC product immediately
+Use loss to offset gains elsewhere
+\`\`\`
+
+## Wash Sale Rules
+
+For stocks, the IRS wash sale rule disallows the loss if you buy "substantially identical" security within 30 days. As of 2026, the wash sale rule does not apply to crypto in the US — though legislation has been proposed.
+
+## Income Offset (US)
+
+- Capital losses offset capital gains
+- Up to $3,000/year of net capital losses offsets ordinary income
+- Excess carries forward indefinitely
+
+## Tracking
+
+Tools: Koinly, CoinTracker, ZenLedger.
+
+## When to Harvest
+
+- Year-end review (Oct-Dec)
+- After large drawdowns
+- When realizing gains elsewhere
+
+## Common Mistakes
+
+- Forgetting basis tracking
+- Mixing wallets without consolidating
+- Ignoring transfer fees
+- Assuming wash sale exemption is permanent
+
+**Educational only. Not financial advice. Tax laws vary by jurisdiction. Consult a qualified tax professional.**`, ko: `세금 손실 수확(TLH)은 손실 매도로 이득 상계 후 재투자.
+
+## 워시 세일
+
+2026년 미국에서 암호화폐에 워시 세일 규칙 미적용. 매년 입법 시도.
+
+## 미국 소득 상계
+
+- 같은 유형 자본이득 상계
+- 연 $3,000 일반 소득 상계
+- 초과분 무기한 이월
+
+## 추적
+
+Koinly, CoinTracker, ZenLedger.
+
+## 흔한 실수
+
+베이시스 추적 누락, 지갑 통합 안 함, 전송 수수료 무시.
+
+**Educational only. Not financial advice.**`, ja: `タックスロスハーベスティング(TLH)は損失で売り、利益を相殺。
+
+## ワッシュセール
+
+2026年現在、米国で暗号通貨にワッシュセールルール非適用。
+
+## 米国所得相殺
+
+- 同種ゲイン相殺
+- 年$3,000まで通常所得相殺
+
+## 追跡
+
+Koinly、CoinTracker、ZenLedger。
+
+**Educational only. Not financial advice.**`, zh: `税收损失收割(TLH)以损失出售抵消收益。
+
+## Wash Sale
+
+2026年美国加密货币不适用wash sale规则。
+
+## 美国所得抵销
+
+- 同类资本利得抵销
+- 每年$3,000抵销普通收入
+
+## 跟踪
+
+Koinly、CoinTracker、ZenLedger。
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-15', category: 'crypto'
+	},
+	{
+		slug: 'mortgage-refinance-when',
+		title: { en: 'When to Refinance Your Mortgage', ko: '모기지 재융자 시점', ja: '住宅ローン借り換えのタイミング', zh: '何时进行抵押贷款再融资' },
+		description: { en: 'The break-even calculation that determines whether refinancing makes sense.', ko: '재융자 타당성을 결정하는 손익분기 계산.', ja: '借り換えが理にかなうかを決める損益分岐計算。', zh: '决定再融资是否有意义的盈亏平衡计算。' },
+		content: { en: `Refinancing trades closing costs for a lower monthly payment.
+
+## The Core Calculation
+
+\`\`\`
+Closing costs ÷ Monthly savings = Break-even months
+\`\`\`
+
+If refinancing costs $4,000 and saves $200/month, break-even is 20 months.
+
+## Real-World Inputs
+
+- Closing costs: typically 2-5% of loan balance
+- Origination fees, appraisal, title insurance, recording fees
+- Discount points
+
+## When Refinancing Wins
+
+- Rates dropped 0.5-1%+ since origination
+- Loan balance is large
+- You'll own the home another 3+ years past break-even
+- Removing PMI by reaching 20% equity
+- Switching from ARM to fixed before reset
+
+## When Refinancing Loses
+
+- Costs exceed savings within your stay window
+- You are months from selling
+- Resetting a 25-year loan back to 30 years
+
+## Cash-Out Refinance
+
+Borrow more than the existing balance. Risky when used for cars, vacations, or speculation.
+
+## No-Closing-Cost Refinance
+
+Lender pays closing costs in exchange for a higher rate (+0.25-0.5%). Worse over the long term.
+
+**Educational only. Not financial advice.**`, ko: `재융자는 클로징 비용과 월 절감을 교환.
+
+## 핵심 계산
+
+클로징 비용 ÷ 월 절감 = 손익분기 개월수.
+
+## 재융자 유리
+
+- 0.5-1%+ 금리 하락
+- 큰 잔액
+- 손익분기 후 3년+ 거주
+- PMI 제거
+- ARM→고정
+
+## 재융자 불리
+
+거주 기간 내 비용 초과, 매도 임박, 30년 리셋.
+
+**Educational only. Not financial advice.**`, ja: `借り換えはクロージングコストと月額削減を交換。
+
+## 計算
+
+クロージングコスト ÷ 月間削減 = 損益分岐月数。
+
+## 借り換え有利
+
+0.5-1%+ 金利低下、大残高、損益分岐後3年以上、PMI除去。
+
+**Educational only. Not financial advice.**`, zh: `再融资用结案成本换月供降低。
+
+## 计算
+
+结案成本 ÷ 月节省 = 收支平衡月数。
+
+## 再融资获胜
+
+利率下降0.5-1%+、大额贷款、平衡后再住3年以上。
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-14', category: 'real-estate'
+	},
+	{
+		slug: 'credit-score-improvement',
+		title: { en: 'Credit Score Improvement', ko: '신용 점수 향상', ja: 'クレジットスコア向上', zh: '信用评分提升' },
+		description: { en: 'How credit scores are calculated and which actions move them most.', ko: '신용 점수 계산과 효과적 조치.', ja: 'クレジットスコア計算と効果的行動。', zh: '信用评分计算和最有效的行动。' },
+		content: { en: `Your credit score determines mortgage rates, car loan terms, and more.
+
+## What Goes Into a Score
+
+FICO weights:
+- Payment history (35%)
+- Credit utilization (30%)
+- Length of credit history (15%)
+- New credit (10%)
+- Credit mix (10%)
+
+## Highest-Leverage Actions
+
+### 1. Pay on time, every time
+
+A 30-day late payment can drop your score 50-100 points and stays for 7 years.
+
+### 2. Lower utilization
+
+- Below 30% across all cards: decent
+- Below 10%: excellent
+
+### 3. Don't close old cards
+
+Average age of accounts matters.
+
+### 4. Limit new applications
+
+Each hard inquiry drops the score 5-10 points temporarily.
+
+## Quick Wins
+
+- Dispute errors on your credit report
+- Become an authorized user on a parent's account
+- Move credit card debt to a personal loan
+
+## What Doesn't Help
+
+- Closing accounts to "clean up"
+- Carrying a balance to "build credit"
+- Paying for credit repair services
+
+## Score Tiers (US)
+
+- 800+ Excellent
+- 740-799 Very Good
+- 670-739 Good
+- 580-669 Fair
+- Below 580 Poor
+
+**Educational only. Not financial advice.**`, ko: `신용 점수는 모기지 금리, 자동차 대출 등을 결정.
+
+## FICO 가중치
+
+납부 이력 35%, 활용 30%, 이력 15%, 신규 10%, 믹스 10%.
+
+## 최고 레버리지
+
+1. 정시 납부 (자동 설정)
+2. 활용률 낮추기 (10% 미만)
+3. 오래된 카드 유지
+4. 신규 신청 제한
+
+## 점수 티어
+
+- 800+ 우수
+- 740-799 매우 좋음
+- 670-739 좋음
+- 580-669 보통
+
+**Educational only. Not financial advice.**`, ja: `クレジットスコアは住宅ローン金利等を決定。
+
+## FICOウェイト
+
+支払履歴35%、利用率30%、履歴の長さ15%、新規10%、ミックス10%。
+
+## 最高レバレッジ
+
+1. 期限通り支払い
+2. 利用率低下
+3. 古いカード維持
+4. 新規申請制限
+
+**Educational only. Not financial advice.**`, zh: `信用评分决定抵押贷款利率等。
+
+## FICO权重
+
+付款历史35%、使用率30%、历史长度15%、新信用10%、组合10%。
+
+## 最高杠杆
+
+1. 按时付款
+2. 降低使用率
+3. 保留旧卡
+4. 限制新申请
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-13', category: 'credit'
+	},
+	{
+		slug: 'annuities-pros-cons',
+		title: { en: 'Annuities: Pros, Cons, and When They Fit', ko: '연금: 장단점', ja: '年金: 長所、短所', zh: '年金: 优点、缺点' },
+		description: { en: 'Annuities promise guaranteed income but carry costs and complexity.', ko: '연금은 보장된 소득을 약속하지만 비용 동반.', ja: '年金は保証収入を約束するがコスト伴う。', zh: '年金承诺保证收入但有成本。' },
+		content: { en: `Annuities are insurance products that exchange a lump sum for a stream of payments.
+
+## Types
+
+- **Immediate fixed** — pay lump sum, receive monthly payments now
+- **Deferred fixed** — like a CD with longer term and tax deferral
+- **Variable** — payments vary with underlying investments
+- **Indexed** — returns linked to market index with cap and floor
+
+## When They Make Sense
+
+- Longevity insurance (outliving savings)
+- Income flooring (essential expense coverage)
+- Behavioral protection against panic-selling
+
+## When They Don't
+
+- Emergency fund replacement
+- Investment growth
+- Estate planning for heirs
+- Younger ages
+
+## The Fee Problem
+
+Variable annuities can charge 2-3%+ annually layered through mortality and expense charges, admin fees, subaccount fees, rider fees.
+
+## Surrender Charges
+
+5-10 year surrender periods with early withdrawal penalties.
+
+## SPIA: The Simple One
+
+Single Premium Immediate Annuity is the cleanest. Pay $X today, receive fixed payments for life.
+
+## Red Flags
+
+- High "guaranteed" returns
+- Indexed products with adjustable caps
+- Pressure to act quickly
+- "Tax-free" claims (most are tax-deferred)
+
+**Educational only. Not financial advice. Consult a fiduciary advisor.**`, ko: `연금은 일시불을 정기 지급과 교환하는 보험.
+
+## 종류
+
+즉시 고정형, 거치 고정형, 변액형, 지수형.
+
+## 의미 있을 때
+
+장수 보험, 소득 바닥, 행동 보호.
+
+## 의미 없을 때
+
+비상금, 투자 성장, 상속, 젊은 나이.
+
+## 수수료 문제
+
+변액 연금 연 2-3%+.
+
+## SPIA
+
+가장 단순. 일시불 후 평생 고정 지급.
+
+**Educational only. Not financial advice.**`, ja: `年金は一時金を定期支払いに交換する保険商品。
+
+## 種類
+
+即時固定、据置固定、変額、指数型。
+
+## 意味のある時
+
+長寿保険、所得フロア、行動保護。
+
+## 手数料問題
+
+変額年金は年2-3%+。
+
+## SPIA
+
+最もシンプル。
+
+**Educational only. Not financial advice.**`, zh: `年金是将一次性付款换成定期付款的保险产品。
+
+## 类型
+
+即时固定、递延固定、可变、指数。
+
+## 有意义的时机
+
+长寿保险、收入底层、行为保护。
+
+## 费用问题
+
+可变年金每年2-3%+。
+
+## SPIA
+
+最简单。
+
+**Educational only. Not financial advice.**` },
+		date: '2026-04-12', category: 'retirement'
+	},
+	{
+		slug: 'estate-planning-basics',
+		title: { en: 'Estate Planning Basics', ko: '상속 계획 기초', ja: '相続計画の基礎', zh: '遗产规划基础' },
+		description: { en: 'Wills, trusts, beneficiaries, and the documents every adult should have.', ko: '유언장, 신탁, 수혜자.', ja: '遺言、信託、受益者。', zh: '遗嘱、信托、受益人。' },
+		content: { en: `Estate planning is the part of finance no one wants to do — and the part with the highest cost of skipping.
+
+## The Core Documents
+
+- **Will** — directs distribution of probate assets
+- **Durable power of attorney (financial)** — designates financial decision-maker
+- **Healthcare proxy** — designates medical decision-maker
+- **Living will** — documents end-of-life care preferences
+- **Beneficiary designations** — on retirement accounts, life insurance
+
+Beneficiary designations override your will.
+
+## When a Will Is Enough
+
+For most people with simple estates, a properly executed will plus updated beneficiaries handles distribution.
+
+DIY tools: Trust & Will, Nolo, LegalZoom.
+
+## When You Need a Trust
+
+- Minor children inherit substantial assets
+- Privacy (probate is public)
+- Multi-state property
+- Special-needs beneficiaries
+- Estate over federal exemption ($13.6M+ in 2026)
+
+## Beneficiary Designations Audit
+
+Run through every account: 401(k), IRA, life insurance, annuities, bank/brokerage POD/TOD.
+
+Update after marriage, divorce, births, deaths.
+
+## Probate
+
+Court-supervised process. 3-7% of estate value, 6-18 months.
+
+## Estate Tax
+
+Federal applies above $13.6M (2026). State varies.
+
+## Update Triggers
+
+- Every 3-5 years
+- Marriage or divorce
+- Birth or adoption
+- Major asset changes
+- Move to a different state
+
+**Educational only. Not financial or legal advice. Consult a qualified estate planning attorney.**`, ko: `상속 계획은 모두 미루지만 건너뛸 때 비용이 큼.
+
+## 핵심 서류
+
+유언장, 위임장, 의료 대리인, 생전 유언, 수혜자 지정.
+
+수혜자 지정은 유언장에 우선.
+
+## 신탁 필요할 때
+
+미성년 자녀 상속, 프라이버시, 다주 부동산, 특수 요구, 면제 초과.
+
+## 검인
+
+법원 감독 분배. 자산의 3-7% 비용, 6-18개월.
+
+## 상속세
+
+연방 $13.6M 초과 (2026).
+
+**Educational only. Not financial or legal advice.**`, ja: `相続計画は誰もしたくないが、スキップコストは最高。
+
+## 核心書類
+
+遺言、委任状、医療代理人、生前遺言、受益者指定。
+
+## 信託必要時
+
+未成年相続、プライバシー、複数州不動産、特別ニーズ。
+
+## 検認
+
+3-7%コスト、6-18ヶ月。
+
+**Educational only. Not financial or legal advice.**`, zh: `遗产规划没人想做，跳过的成本最高。
+
+## 核心文件
+
+遗嘱、授权书、医疗代理、生前遗嘱、受益人指定。
+
+## 何时需要信托
+
+未成年继承、隐私、多州房产、特殊需求。
+
+## 遗嘱认证
+
+3-7%成本、6-18个月。
+
+**Educational only. Not financial or legal advice.**` },
+		date: '2026-04-11', category: 'planning'
 	}
 ];
 
