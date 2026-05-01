@@ -104,6 +104,10 @@
 			{ href: '/compound', label: { en: 'Compound Interest', ko: '복리 계산기', ja: '複利計算機', zh: '复利计算器' } },
 			{ href: '/profit', label: { en: 'Profit Calculator', ko: '손익 계산기', ja: '損益計算機', zh: '盈亏计算器' } },
 			{ href: '/roi', label: { en: 'ROI Calculator', ko: 'ROI 계산기', ja: 'ROI計算機', zh: 'ROI计算器' } }
+		],
+		externalRefs: [
+			{ href: 'https://www.investopedia.com/terms/d/dollarcostaveraging.asp', label: 'Investopedia: Dollar-Cost Averaging' },
+			{ href: 'https://www.sec.gov/about/reports-publications/investor-publications/saving-investing', label: 'SEC: Saving and Investing' }
 		]
 	};
 
@@ -198,5 +202,17 @@
 		</div>
 	</div>
 
-	<ToolContent {lang} content={toolContent} />
+	<ToolContent
+		{lang}
+		toolName="DCA Calculator"
+		toolUrl="https://sdk.bz/{lang}/dca"
+		lastUpdated="2026-04-30"
+		category="Finance Calculator"
+		breadcrumb={[
+			{ name: 'Home', url: `https://sdk.bz/${lang}` },
+			{ name: 'Tools', url: `https://sdk.bz/${lang}` },
+			{ name: 'DCA Calculator', url: `https://sdk.bz/${lang}/dca` }
+		]}
+		content={toolContent}
+	/>
 </div>

@@ -104,6 +104,10 @@
 			{ href: '/loan', label: { en: 'Loan Calculator', ko: '대출 계산기', ja: 'ローン計算機', zh: '贷款计算器' } },
 			{ href: '/compound', label: { en: 'Compound Interest', ko: '복리 계산기', ja: '複利計算機', zh: '复利计算器' } },
 			{ href: '/retirement', label: { en: 'Retirement Calculator', ko: '은퇴 계산기', ja: '退職計算機', zh: '退休计算器' } }
+		],
+		externalRefs: [
+			{ href: 'https://www.consumerfinance.gov/owning-a-home/', label: 'CFPB: Owning a Home' },
+			{ href: 'https://www.investopedia.com/terms/m/mortgage.asp', label: 'Investopedia: Mortgage' }
 		]
 	};
 
@@ -189,5 +193,17 @@
 		</div>
 	</div>
 
-	<ToolContent {lang} content={toolContent} />
+	<ToolContent
+		{lang}
+		toolName="Mortgage Calculator"
+		toolUrl="https://sdk.bz/{lang}/mortgage"
+		lastUpdated="2026-04-30"
+		category="Finance Calculator"
+		breadcrumb={[
+			{ name: 'Home', url: `https://sdk.bz/${lang}` },
+			{ name: 'Tools', url: `https://sdk.bz/${lang}` },
+			{ name: 'Mortgage Calculator', url: `https://sdk.bz/${lang}/mortgage` }
+		]}
+		content={toolContent}
+	/>
 </div>

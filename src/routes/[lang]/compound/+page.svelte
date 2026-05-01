@@ -104,6 +104,10 @@
 			{ href: '/dca', label: { en: 'DCA Calculator', ko: 'DCA 계산기', ja: 'DCA計算機', zh: 'DCA计算器' } },
 			{ href: '/retirement', label: { en: 'Retirement Calculator', ko: '은퇴 계산기', ja: '退職計算機', zh: '退休计算器' } },
 			{ href: '/roi', label: { en: 'ROI Calculator', ko: 'ROI 계산기', ja: 'ROI計算機', zh: 'ROI计算器' } }
+		],
+		externalRefs: [
+			{ href: 'https://www.investopedia.com/terms/c/compoundinterest.asp', label: 'Investopedia: Compound Interest' },
+			{ href: 'https://www.sec.gov/about/reports-publications/investor-publications/compound-interest-calculator', label: 'SEC: Compound Interest Calculator' }
 		]
 	};
 
@@ -202,5 +206,17 @@
 		</div>
 	</div>
 
-	<ToolContent {lang} content={toolContent} />
+	<ToolContent
+		{lang}
+		toolName="Compound Interest Calculator"
+		toolUrl="https://sdk.bz/{lang}/compound"
+		lastUpdated="2026-04-30"
+		category="Finance Calculator"
+		breadcrumb={[
+			{ name: 'Home', url: `https://sdk.bz/${lang}` },
+			{ name: 'Tools', url: `https://sdk.bz/${lang}` },
+			{ name: 'Compound Interest Calculator', url: `https://sdk.bz/${lang}/compound` }
+		]}
+		content={toolContent}
+	/>
 </div>

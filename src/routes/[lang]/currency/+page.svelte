@@ -104,6 +104,10 @@
 			{ href: '/profit', label: { en: 'Profit Calculator', ko: '손익 계산기', ja: '損益計算機', zh: '盈亏计算器' } },
 			{ href: '/roi', label: { en: 'ROI Calculator', ko: 'ROI 계산기', ja: 'ROI計算機', zh: 'ROI计算器' } },
 			{ href: '/dca', label: { en: 'DCA Calculator', ko: 'DCA 계산기', ja: 'DCA計算機', zh: 'DCA计算器' } }
+		],
+		externalRefs: [
+			{ href: 'https://www.iso.org/iso-4217-currency-codes.html', label: 'ISO 4217 Currency Codes' },
+			{ href: 'https://www.imf.org/en/About/Factsheets/Sheets/2023/special-drawing-rights-sdr', label: 'IMF: Exchange Rates' }
 		]
 	};
 
@@ -195,5 +199,17 @@
 		<p class="text-xs text-gray-500 dark:text-dark-500 text-center">Exchange rates are for reference only and may not reflect real-time market rates.</p>
 	</div>
 
-	<ToolContent {lang} content={toolContent} />
+	<ToolContent
+		{lang}
+		toolName="Currency Converter"
+		toolUrl="https://sdk.bz/{lang}/currency"
+		lastUpdated="2026-04-30"
+		category="Finance Calculator"
+		breadcrumb={[
+			{ name: 'Home', url: `https://sdk.bz/${lang}` },
+			{ name: 'Tools', url: `https://sdk.bz/${lang}` },
+			{ name: 'Currency Converter', url: `https://sdk.bz/${lang}/currency` }
+		]}
+		content={toolContent}
+	/>
 </div>

@@ -104,6 +104,10 @@
 			{ href: '/staking', label: { en: 'Staking Calculator', ko: '스테이킹 계산기', ja: 'ステーキング計算機', zh: '质押计算器' } },
 			{ href: '/profit', label: { en: 'Profit Calculator', ko: '손익 계산기', ja: '損益計算機', zh: '盈亏计算器' } },
 			{ href: '/roi', label: { en: 'ROI Calculator', ko: 'ROI 계산기', ja: 'ROI計算機', zh: 'ROI计算器' } }
+		],
+		externalRefs: [
+			{ href: 'https://en.wikipedia.org/wiki/Bitcoin_mining', label: 'Bitcoin mining - Wikipedia' },
+			{ href: 'https://www.investopedia.com/terms/b/bitcoin-mining.asp', label: 'Investopedia: Bitcoin Mining' }
 		]
 	};
 
@@ -205,5 +209,17 @@
 		</div>
 	</div>
 
-	<ToolContent {lang} content={toolContent} />
+	<ToolContent
+		{lang}
+		toolName="Mining Profit Calculator"
+		toolUrl="https://sdk.bz/{lang}/mining"
+		lastUpdated="2026-04-30"
+		category="Finance Calculator"
+		breadcrumb={[
+			{ name: 'Home', url: `https://sdk.bz/${lang}` },
+			{ name: 'Tools', url: `https://sdk.bz/${lang}` },
+			{ name: 'Mining Profit Calculator', url: `https://sdk.bz/${lang}/mining` }
+		]}
+		content={toolContent}
+	/>
 </div>

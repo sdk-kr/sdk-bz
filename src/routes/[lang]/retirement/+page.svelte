@@ -104,6 +104,10 @@
 			{ href: '/compound', label: { en: 'Compound Interest', ko: '복리 계산기', ja: '複利計算機', zh: '复利计算器' } },
 			{ href: '/dca', label: { en: 'DCA Calculator', ko: 'DCA 계산기', ja: 'DCA計算機', zh: 'DCA计算器' } },
 			{ href: '/roi', label: { en: 'ROI Calculator', ko: 'ROI 계산기', ja: 'ROI計算機', zh: 'ROI计算器' } }
+		],
+		externalRefs: [
+			{ href: 'https://www.ssa.gov/benefits/retirement/', label: 'Social Security: Retirement Benefits' },
+			{ href: 'https://www.investopedia.com/terms/r/retirement-planning.asp', label: 'Investopedia: Retirement Planning' }
 		]
 	};
 
@@ -196,5 +200,17 @@
 		</div>
 	</div>
 
-	<ToolContent {lang} content={toolContent} />
+	<ToolContent
+		{lang}
+		toolName="Retirement Calculator"
+		toolUrl="https://sdk.bz/{lang}/retirement"
+		lastUpdated="2026-04-30"
+		category="Finance Calculator"
+		breadcrumb={[
+			{ name: 'Home', url: `https://sdk.bz/${lang}` },
+			{ name: 'Tools', url: `https://sdk.bz/${lang}` },
+			{ name: 'Retirement Calculator', url: `https://sdk.bz/${lang}/retirement` }
+		]}
+		content={toolContent}
+	/>
 </div>

@@ -104,6 +104,10 @@
 			{ href: '/profit', label: { en: 'Profit Calculator', ko: '손익 계산기', ja: '損益計算機', zh: '盈亏计算器' } },
 			{ href: '/compound', label: { en: 'Compound Interest', ko: '복리 계산기', ja: '複利計算機', zh: '复利计算器' } },
 			{ href: '/dca', label: { en: 'DCA Calculator', ko: 'DCA 계산기', ja: 'DCA計算機', zh: 'DCA计算器' } }
+		],
+		externalRefs: [
+			{ href: 'https://www.investopedia.com/terms/r/returnoninvestment.asp', label: 'Investopedia: Return on Investment (ROI)' },
+			{ href: 'https://corporatefinanceinstitute.com/resources/accounting/return-on-investment-roi-formula/', label: 'CFI: ROI Formula' }
 		]
 	};
 
@@ -170,5 +174,17 @@
 		</div>
 	</div>
 
-	<ToolContent {lang} content={toolContent} />
+	<ToolContent
+		{lang}
+		toolName="ROI Calculator"
+		toolUrl="https://sdk.bz/{lang}/roi"
+		lastUpdated="2026-04-30"
+		category="Finance Calculator"
+		breadcrumb={[
+			{ name: 'Home', url: `https://sdk.bz/${lang}` },
+			{ name: 'Tools', url: `https://sdk.bz/${lang}` },
+			{ name: 'ROI Calculator', url: `https://sdk.bz/${lang}/roi` }
+		]}
+		content={toolContent}
+	/>
 </div>

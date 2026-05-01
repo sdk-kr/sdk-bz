@@ -104,6 +104,10 @@
 			{ href: '/roi', label: { en: 'ROI Calculator', ko: 'ROI 계산기', ja: 'ROI計算機', zh: 'ROI计算器' } },
 			{ href: '/dca', label: { en: 'DCA Calculator', ko: 'DCA 계산기', ja: 'DCA計算機', zh: 'DCA计算器' } },
 			{ href: '/currency', label: { en: 'Currency Converter', ko: '환율 변환기', ja: '通貨換算', zh: '货币换算' } }
+		],
+		externalRefs: [
+			{ href: 'https://www.investopedia.com/terms/p/profit.asp', label: 'Investopedia: Profit' },
+			{ href: 'https://www.investopedia.com/terms/p/profitmargin.asp', label: 'Investopedia: Profit Margin' }
 		]
 	};
 
@@ -172,5 +176,17 @@
 		</div>
 	</div>
 
-	<ToolContent {lang} content={toolContent} />
+	<ToolContent
+		{lang}
+		toolName="Profit Calculator"
+		toolUrl="https://sdk.bz/{lang}/profit"
+		lastUpdated="2026-04-30"
+		category="Finance Calculator"
+		breadcrumb={[
+			{ name: 'Home', url: `https://sdk.bz/${lang}` },
+			{ name: 'Tools', url: `https://sdk.bz/${lang}` },
+			{ name: 'Profit Calculator', url: `https://sdk.bz/${lang}/profit` }
+		]}
+		content={toolContent}
+	/>
 </div>

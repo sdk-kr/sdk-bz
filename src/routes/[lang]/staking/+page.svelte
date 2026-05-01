@@ -104,6 +104,10 @@
 			{ href: '/mining', label: { en: 'Mining Calculator', ko: '채굴 계산기', ja: 'マイニング計算機', zh: '挖矿计算器' } },
 			{ href: '/compound', label: { en: 'Compound Interest', ko: '복리 계산기', ja: '複利計算機', zh: '复利计算器' } },
 			{ href: '/profit', label: { en: 'Profit Calculator', ko: '손익 계산기', ja: '損益計算機', zh: '盈亏计算器' } }
+		],
+		externalRefs: [
+			{ href: 'https://ethereum.org/en/staking/', label: 'Ethereum.org: Staking' },
+			{ href: 'https://www.investopedia.com/what-is-staking-5211386', label: 'Investopedia: What Is Crypto Staking?' }
 		]
 	};
 
@@ -196,5 +200,17 @@
 		</div>
 	</div>
 
-	<ToolContent {lang} content={toolContent} />
+	<ToolContent
+		{lang}
+		toolName="Staking Calculator"
+		toolUrl="https://sdk.bz/{lang}/staking"
+		lastUpdated="2026-04-30"
+		category="Finance Calculator"
+		breadcrumb={[
+			{ name: 'Home', url: `https://sdk.bz/${lang}` },
+			{ name: 'Tools', url: `https://sdk.bz/${lang}` },
+			{ name: 'Staking Calculator', url: `https://sdk.bz/${lang}/staking` }
+		]}
+		content={toolContent}
+	/>
 </div>
