@@ -6634,847 +6634,2012 @@ Use our Crypto Tax Calculator to estimate your cryptocurrency tax liability.
 		slug: '401k-vs-ira-comparison',
 		title: { en: '401(k) vs IRA: Retirement Accounts Compared', ko: '401(k) vs IRA: 은퇴 계좌 비교', ja: '401(k) vs IRA: 退職口座比較', zh: '401(k) vs IRA: 退休账户比较' },
 		description: { en: 'Understand contribution limits, tax treatment, and which account fits your situation.', ko: '기여 한도, 세금 처리, 본인 상황에 맞는 계좌 이해.', ja: '拠出限度、税制処理、自分の状況に合う口座を理解。', zh: '了解供款限额、税务处理以及适合您情况的账户。' },
-		content: { en: `In the US, 401(k) and IRA accounts are the two main retirement vehicles. They are not interchangeable, and most workers benefit from both.
+		content: { en: `In the United States, the 401(k) and the IRA are the two workhorses of retirement saving. They are often framed as rivals, but they are better understood as complements: each has different contribution limits, tax rules, and investment menus, and most diligent savers eventually use both — in a deliberate order that captures free money first and tax advantages second.
 
-## 401(k): Through Your Employer
+## How a 401(k) Works
 
-A 401(k) is set up by your employer. Money comes out before taxes (traditional) or after (Roth) directly from your paycheck.
-
-**2026 contribution limits:**
-- Employee: $23,500 (under 50) / $31,000 (50+)
-- Combined employer + employee: $70,000
-
-**Pros:**
-- Employer match — typically 3-6% of salary, free money
-- Higher contribution limits than IRA
-- Automatic payroll deduction reduces decision fatigue
-
-**Cons:**
-- Limited investment menu chosen by employer
-- Fees vary widely; some plans have expense ratios over 1%
-- Cannot access without 10% penalty before 59½ (with exceptions)
-
-## IRA: You Open It Yourself
-
-An IRA is opened at any brokerage. You control the investments.
+A 401(k) is sponsored by your employer. Contributions come straight out of each paycheck, either before income tax (traditional) or after tax (Roth 401(k)). The money is invested in a menu of funds chosen by the plan administrator and grows without annual taxation. Withdrawals before age 59½ generally incur a 10% penalty on top of ordinary income tax, with exceptions such as the Rule of 55, disability, and certain hardship provisions.
 
 **2026 contribution limits:**
-- $7,500 (under 50) / $8,500 (50+)
-- Roth IRA phases out above income limits ($165k single, $246k joint)
 
-**Pros:**
-- Any investment available (low-cost index funds, individual stocks, ETFs)
-- Cheap or free at major brokerages
-- Roth IRA allows tax-free withdrawals in retirement
+- Employee deferral: $23,500 under age 50; $31,000 with the catch-up allowance at 50 and older
+- Combined employer plus employee contributions: $70,000
 
-**Cons:**
-- Lower contribution limits
-- No employer match
-- Roth income limits restrict high earners
+The single most valuable feature is the employer match. A common formula is 50 cents per dollar on the first 6% of salary. On an $80,000 salary, contributing $4,800 triggers a $2,400 match — an instant, risk-free 50% return before the market does anything at all. No other mainstream investment offers a guaranteed return like that, which is why "capture the full match" sits at the top of nearly every funding checklist.
 
-## Roth vs Traditional
+The weaknesses: the investment menu is limited to whatever the plan offers, and plan costs vary enormously. Large employers often negotiate index funds with 0.02–0.10% expense ratios, while some small-business plans still charge over 1% in combined fund and administration fees.
 
-- **Traditional**: deduct now, pay tax on withdrawal. Better if you expect lower tax bracket in retirement.
-- **Roth**: pay tax now, withdraw tax-free. Better for younger workers and those expecting higher future tax rates.
+## How an IRA Works
 
-## The Standard Order
+An Individual Retirement Account is opened by you, at any brokerage, independent of your employer. You can hold virtually anything the brokerage offers: index funds, ETFs, individual stocks, bonds, CDs.
 
-1. Contribute to 401(k) up to employer match (free money)
-2. Max out Roth IRA if eligible
-3. Return to 401(k) and max it out
-4. After-tax brokerage for additional savings
+**2026 contribution limits:**
 
-## Backdoor Roth
+- $7,500 under age 50; $8,500 at 50 and older
+- Direct Roth IRA contributions phase out at higher incomes (roughly $165,000 for single filers, $246,000 for joint filers)
 
-High earners locked out of direct Roth IRA contributions can convert from a traditional IRA. Tax mechanics are subtle; consult a professional.
+IRAs have no employer match, but they compensate with total investment freedom and, at major brokerages, essentially zero account costs.
 
-**Educational only. Not financial advice.** Tax laws and limits change; verify current numbers with the IRS or a CPA.`, ko: `미국에서 401(k)와 IRA는 두 가지 주요 은퇴 수단입니다.
+## Traditional vs Roth: The Actual Math
 
-## 401(k): 고용주를 통해
+- **Traditional**: contribute pre-tax now, pay ordinary income tax on withdrawals later.
+- **Roth**: contribute after-tax now, withdraw completely tax-free later (for qualified withdrawals).
 
-급여에서 세전(traditional) 또는 세후(Roth)로 차감.
+Here is the key insight: if your tax rate were identical in both periods, the outcomes are mathematically the same. A $10,000 pre-tax contribution that grows 8x becomes $80,000; taxed at 24% on withdrawal, it leaves $60,800. The Roth route taxes the $10,000 first, leaving $7,600 to invest, which grows 8x to exactly $60,800. Multiplication is commutative — the decision therefore hinges entirely on whether your marginal tax rate today is higher or lower than your expected rate in retirement.
 
-**2026년 한도:**
-- 직원: $23,500 (50세 미만) / $31,000 (50세+)
+Practical rules of thumb:
+
+- Early career, modest income (12–22% bracket): Roth usually wins, because you lock in today's low rate.
+- Peak earning years (32%+ bracket): traditional usually wins; you deduct at a high rate and will likely withdraw at a lower effective rate.
+- Genuinely uncertain? Splitting contributions between both types hedges future tax-law risk.
+
+## Fees Compound Just Like Returns
+
+Suppose you invest $500 per month for 30 years. At a 7% annual return, the balance grows to roughly $610,000. Shave 0.8 percentage points off for fees — netting 6.2% — and the same contributions end near $522,000. That quiet 0.8% fee consumed about $88,000. This is why an expensive 401(k) changes the funding order: beyond the match, a cheap IRA often beats a high-fee 401(k).
+
+## The Standard Funding Order
+
+1. Contribute to the 401(k) up to the full employer match — free money first.
+2. Max the IRA (Roth if eligible and it fits your tax picture), because you control costs and investment choices.
+3. Return to the 401(k) and work toward the full $23,500.
+4. If you have a qualifying health plan, fund an HSA — triple tax-advantaged when used for medical costs.
+5. Anything beyond that goes to a regular taxable brokerage account.
+
+## Common Mistakes
+
+- **Leaving the match on the table.** Contributing less than the match threshold is refusing part of your compensation.
+- **Cashing out when changing jobs.** A $20,000 cash-out in the 24% bracket loses $4,800 to tax plus a $2,000 penalty — roughly a third of the balance, plus all its future compounding. Roll it into an IRA or the new employer's plan instead.
+- **Ignoring the vesting schedule.** Employer contributions may vest over 3–6 years; leaving shortly before a vesting date can forfeit thousands.
+- **Contributing to a Roth IRA above the income limit.** Excess contributions trigger a 6% excise tax for every year they remain uncorrected.
+- **Forgetting old accounts.** Orphaned 401(k)s frequently sit in high-fee plans for decades; consolidate them.
+
+## The Backdoor Roth, Briefly
+
+High earners locked out of direct Roth IRA contributions can fund a non-deductible traditional IRA and convert it to Roth. It works, but the pro-rata rule counts all of your traditional IRA balances when computing the taxable portion of the conversion, which surprises many people. If you already hold pre-tax IRA money, get professional advice before attempting it.
+
+## Tax Treatment: The Fine Print
+
+Traditional accounts impose required minimum distributions (RMDs) starting at age 73 under current law; Roth IRAs do not during the owner's lifetime. Limits, brackets, and phase-outs are adjusted almost every year, so treat every figure in this article as a snapshot: verify current numbers with the IRS, and consult a CPA or fee-only planner before conversions, rollovers, or decisions involving large balances.
+
+This article is educational content, not financial or tax advice. State taxes, plan quality, and your expected retirement income can change the right answer entirely.`, ko: `미국에서 401(k)와 IRA는 은퇴 저축의 두 축입니다. 흔히 경쟁 관계처럼 소개되지만 실제로는 상호 보완적입니다. 기여 한도, 세금 규정, 투자 상품 구성이 서로 다르며, 성실하게 저축하는 사람 대부분은 결국 두 계좌를 모두 사용합니다. 순서는 명확합니다. 공짜 돈(매칭)을 먼저 확보하고, 그다음 세제 혜택을 극대화하는 것입니다.
+
+## 401(k)의 작동 방식
+
+401(k)는 고용주가 제공하는 플랜입니다. 급여에서 자동으로 공제되며, 세전(traditional) 또는 세후(Roth 401(k)) 방식을 선택할 수 있습니다. 자금은 플랜 관리자가 정한 펀드 메뉴에 투자되고, 매년 과세되지 않고 성장합니다. 59.5세 이전에 인출하면 일반 소득세에 더해 10% 페널티가 부과됩니다(Rule of 55, 장애, 특정 긴급 상황 등 예외 있음).
+
+**2026년 기여 한도:**
+
+- 직원 본인: 50세 미만 $23,500 / 50세 이상 캐치업 포함 $31,000
 - 고용주+직원 합계: $70,000
 
-## IRA: 본인 개설
+가장 가치 있는 기능은 고용주 매칭입니다. 흔한 공식은 "급여의 6%까지, 1달러당 50센트 매칭"입니다. 연봉 $80,000이라면 $4,800을 기여할 때 고용주가 $2,400을 추가해 줍니다. 시장이 움직이기도 전에 무위험으로 50% 수익을 얻는 셈입니다. 이런 확정 수익을 주는 주류 투자 상품은 없기 때문에, "매칭 전액 확보"가 거의 모든 자금 배분 체크리스트의 1순위입니다.
 
-브로커리지에서 직접 개설.
+약점도 있습니다. 투자 선택지가 플랜이 제공하는 메뉴로 제한되고, 플랜 비용 편차가 큽니다. 대기업은 보수율 0.02~0.10%의 인덱스 펀드를 협상해 오지만, 일부 중소기업 플랜은 펀드+운영 수수료 합계가 1%를 넘기도 합니다.
 
-**2026년 한도:**
-- $7,500 / $8,500
+## IRA의 작동 방식
 
-## Roth vs Traditional
+IRA(개인 은퇴 계좌)는 고용주와 무관하게 본인이 아무 증권사에서나 개설합니다. 인덱스 펀드, ETF, 개별 주식, 채권, CD 등 증권사가 제공하는 거의 모든 상품을 담을 수 있습니다.
 
-- Traditional: 지금 공제, 인출 시 과세
-- Roth: 지금 과세, 인출 시 비과세
+**2026년 기여 한도:**
 
-## 표준 순서
+- 50세 미만 $7,500 / 50세 이상 $8,500
+- Roth IRA 직접 기여는 고소득 구간에서 단계적 제한(싱글 약 $165,000, 부부 합산 약 $246,000)
 
-1. 401(k) 매칭까지
-2. Roth IRA 최대화
-3. 401(k) 최대화
-4. 세후 브로커리지
+IRA에는 고용주 매칭이 없지만, 완전한 투자 자유와 (대형 증권사 기준) 사실상 0원의 계좌 비용으로 이를 보완합니다.
 
-**Educational only. Not financial advice.**`, ja: `米国では401(k)とIRAが主な退職口座です。
+## Traditional vs Roth: 실제 수학
 
-## 401(k)
+- **Traditional**: 지금 세전으로 기여하고, 나중에 인출할 때 일반 소득세를 냅니다.
+- **Roth**: 지금 세후로 기여하고, 나중에 (적격 인출 시) 완전히 비과세로 인출합니다.
 
-給与から税前または税後で差し引かれる。
+핵심 통찰은 이것입니다. 두 시점의 세율이 같다면 결과는 수학적으로 동일합니다. 세전 $10,000이 8배로 성장하면 $80,000이 되고, 인출 시 24% 과세 후 $60,800이 남습니다. Roth 방식은 $10,000에 먼저 과세해 $7,600을 투자하고, 이것이 8배로 성장하면 정확히 $60,800입니다. 곱셈은 교환법칙이 성립하므로, 결정은 전적으로 "지금의 한계세율이 은퇴 후 예상 세율보다 높은가 낮은가"에 달려 있습니다.
 
-**2026年限度:**
-- 従業員: $23,500 / $31,000
+실용적인 경험칙:
 
-## IRA
+- 사회초년생, 소득이 낮은 구간(12~22% 세율): 지금의 낮은 세율을 확정하는 Roth가 대체로 유리
+- 소득 정점 시기(32% 이상 세율): 높은 세율에서 공제받고 낮은 실효세율로 인출하는 traditional이 대체로 유리
+- 정말 불확실하다면? 두 유형에 나눠 기여하면 미래 세법 변화 위험을 헤지할 수 있습니다
 
-ブローカーで自分で開設。
+## 수수료도 복리로 불어난다
 
-**2026年限度:**
-- $7,500 / $8,500
+30년간 매달 $500을 투자한다고 합시다. 연 7% 수익률이면 잔고는 약 $610,000이 됩니다. 수수료로 0.8%포인트가 깎여 순수익률 6.2%가 되면, 같은 기여로 약 $522,000에 그칩니다. 조용한 0.8%의 수수료가 약 $88,000을 삼킨 것입니다. 그래서 비싼 401(k)는 자금 순서를 바꿉니다. 매칭 한도를 넘어서면, 저렴한 IRA가 고비용 401(k)보다 나은 경우가 많습니다.
 
-## Roth vs Traditional
+## 표준 자금 배분 순서
 
-- Traditional: 今控除、引き出し時課税
-- Roth: 今課税、引き出し時非課税
+1. 401(k)에 고용주 매칭 한도까지 기여 — 공짜 돈이 최우선
+2. IRA 최대화(자격이 되고 세금 상황에 맞으면 Roth) — 비용과 투자 선택을 본인이 통제
+3. 다시 401(k)로 돌아가 $23,500 한도까지 채우기
+4. 적격 건강보험이 있다면 HSA 적립 — 의료비에 쓰면 삼중 세제 혜택
+5. 그 이상은 일반 과세 증권 계좌로
 
-**Educational only. Not financial advice.**`, zh: `在美国，401(k)和IRA是两种主要退休工具。
+## 흔한 실수
 
-## 401(k)
+- **매칭을 놓치는 것.** 매칭 기준보다 적게 기여하는 것은 보상의 일부를 거절하는 것과 같습니다.
+- **이직 시 현금 인출.** 24% 세율 구간에서 $20,000을 인출하면 세금 $4,800 + 페널티 $2,000, 즉 잔고의 약 3분의 1과 미래의 복리 성장을 모두 잃습니다. IRA나 새 회사 플랜으로 롤오버하세요.
+- **베스팅 일정 무시.** 고용주 기여분은 3~6년에 걸쳐 베스팅되는 경우가 많아, 베스팅 직전 퇴사는 수천 달러를 포기하는 결과가 됩니다.
+- **소득 한도 초과 상태에서 Roth IRA 기여.** 초과 기여는 시정될 때까지 매년 6%의 가산세가 부과됩니다.
+- **옛 계좌 방치.** 방치된 401(k)는 수십 년간 고비용 플랜에 머무는 경우가 흔합니다. 통합하세요.
 
-通过雇主，从工资中税前或税后扣除。
+## 백도어 Roth, 간단히
 
-**2026年限额:**
-- 员工: $23,500 / $31,000
+소득 한도로 Roth IRA 직접 기여가 막힌 고소득자는 공제 불가 traditional IRA에 기여한 뒤 Roth로 전환할 수 있습니다. 유효한 방법이지만, 전환 시 과세 비율을 계산할 때 프로라타(pro-rata) 규칙이 보유 중인 모든 traditional IRA 잔고를 합산하기 때문에 많은 사람이 예상치 못한 세금을 맞습니다. 이미 세전 IRA 자금이 있다면 시도 전에 전문가 상담을 받으세요.
 
-## IRA
+## 세금 처리: 세부 사항
 
-在经纪商自行开设。
+현행법상 traditional 계좌는 73세부터 최소 인출 의무(RMD)가 시작되지만, Roth IRA는 소유자 생전에는 RMD가 없습니다. 한도, 세율 구간, 단계적 제한은 거의 매년 조정되므로 이 글의 모든 수치는 스냅샷으로 취급하세요. 최신 수치는 IRS에서 확인하고, 전환·롤오버·큰 잔고 관련 결정 전에는 CPA나 수수료 기반 재무설계사와 상담하시기 바랍니다.
 
-**2026年限额:**
-- $7,500 / $8,500
+이 글은 교육 목적의 콘텐츠이며 금융·세무 자문이 아닙니다. 주(州) 세금, 플랜 품질, 예상 은퇴 소득에 따라 정답이 완전히 달라질 수 있습니다.`, ja: `米国では、401(k)とIRAが退職貯蓄の二大柱です。よくライバルのように語られますが、実際には補完関係にあります。拠出限度額、税制、投資メニューがそれぞれ異なり、真剣に貯蓄する人の多くは最終的に両方を使います。順序は明快です。まず「タダのお金」(マッチング)を確保し、次に税制優遇を最大化することです。
 
-## Roth vs Traditional
+## 401(k)の仕組み
 
-- Traditional: 现在扣除、提取时纳税
-- Roth: 现在纳税、提取时免税
+401(k)は雇用主が提供するプランです。給与から自動的に天引きされ、税引前(traditional)か税引後(Roth 401(k))かを選べます。資金はプラン管理者が選んだファンドメニューに投資され、毎年課税されずに成長します。59.5歳より前に引き出すと、通常の所得税に加えて10%のペナルティが課されます(Rule of 55、障害、特定の困窮事由などの例外あり)。
 
-**Educational only. Not financial advice.**` },
+**2026年の拠出限度額:**
+
+- 従業員本人: 50歳未満 $23,500 / 50歳以上はキャッチアップ込みで $31,000
+- 雇用主+従業員の合計: $70,000
+
+最も価値のある機能は雇用主マッチングです。よくある方式は「給与の6%まで、1ドルにつき50セントをマッチング」。年収$80,000なら、$4,800を拠出すると雇用主が$2,400を上乗せしてくれます。市場が動く前に、リスクなしで50%のリターンを得るのと同じです。こうした確定リターンを提供する主流の投資商品は他になく、だからこそ「マッチングを満額確保する」がほぼすべての資金配分チェックリストの最上位に置かれます。
+
+弱点もあります。投資の選択肢はプランが提供するメニューに限られ、プランのコスト差が非常に大きいのです。大企業は経費率0.02〜0.10%のインデックスファンドを交渉で確保しますが、一部の中小企業プランではファンドと管理の手数料合計が1%を超えることもあります。
+
+## IRAの仕組み
+
+IRA(個人退職口座)は、雇用主とは無関係に、自分で好きな証券会社に開設します。インデックスファンド、ETF、個別株、債券、CDなど、証券会社が扱うほぼすべての商品を保有できます。
+
+**2026年の拠出限度額:**
+
+- 50歳未満 $7,500 / 50歳以上 $8,500
+- Roth IRAへの直接拠出は高所得層で段階的に制限(独身で約$165,000、夫婦合算で約$246,000)
+
+IRAには雇用主マッチングがありませんが、完全な投資の自由と、大手証券会社なら実質ゼロの口座コストでそれを補います。
+
+## Traditional vs Roth: 実際の数学
+
+- **Traditional**: 今は税引前で拠出し、将来の引き出し時に所得税を払う。
+- **Roth**: 今は税引後で拠出し、将来は(適格な引き出しなら)完全に非課税で引き出す。
+
+核心はこうです。もし両時点の税率が同じなら、結果は数学的に同一です。税引前の$10,000が8倍に成長すると$80,000になり、引き出し時に24%課税されると$60,800が残ります。Roth方式では先に$10,000へ課税して$7,600を投資し、それが8倍になるとちょうど$60,800です。掛け算は交換可能なので、判断は「今の限界税率が退職後の想定税率より高いか低いか」だけにかかっています。
+
+実用的な目安:
+
+- キャリア初期で所得が低い(税率12〜22%)なら、今の低い税率を確定できるRothが有利なことが多い
+- 所得のピーク期(税率32%以上)なら、高い税率で控除し、より低い実効税率で引き出せるtraditionalが有利なことが多い
+- 本当に不確実なら? 両タイプに分けて拠出すれば、将来の税制変更リスクをヘッジできます
+
+## 手数料も複利で膨らむ
+
+30年間、毎月$500を投資するとします。年率7%なら残高は約$610,000になります。手数料で0.8%ポイント削られ、正味6.2%になると、同じ拠出でも約$522,000にとどまります。静かな0.8%の手数料が約$88,000を飲み込んだのです。だからこそ高コストな401(k)は資金の順序を変えます。マッチングを超えた分については、低コストのIRAが高コストの401(k)に勝ることが多いのです。
+
+## 標準的な資金配分の順序
+
+1. 401(k)に雇用主マッチングの上限まで拠出 — タダのお金が最優先
+2. IRAを満額に(資格があり税務上合うならRoth) — コストと投資先を自分で管理できる
+3. 401(k)に戻り、$23,500の上限を目指す
+4. 適格な健康保険があればHSAに拠出 — 医療費に使えば三重の税制優遇
+5. それ以上は通常の課税証券口座へ
+
+## よくある間違い
+
+- **マッチングの取りこぼし。** マッチング基準未満の拠出は、報酬の一部を放棄しているのと同じです。
+- **転職時の現金化。** 税率24%の層で$20,000を現金化すると、税金$4,800+ペナルティ$2,000で残高の約3分の1と将来の複利成長をすべて失います。IRAか新しい雇用主のプランにロールオーバーしましょう。
+- **ベスティング(権利確定)スケジュールの無視。** 雇用主拠出分は3〜6年かけて確定することが多く、確定直前の退職は数千ドルの放棄になり得ます。
+- **所得制限超過でのRoth IRA拠出。** 超過拠出は是正されるまで毎年6%の加算税が課されます。
+- **古い口座の放置。** 放置された401(k)は高コストのプランに何十年も留まりがちです。統合しましょう。
+
+## バックドアRoth、手短に
+
+所得制限でRoth IRAへの直接拠出ができない高所得者は、控除不可のtraditional IRAに拠出してからRothへ転換できます。有効な手法ですが、転換時の課税割合を計算する際、プロラタ(按分)ルールが保有するすべてのtraditional IRA残高を合算するため、想定外の税金に驚く人が少なくありません。すでに税引前のIRA資金があるなら、実行前に専門家に相談してください。
+
+## 税制: 細かい注意点
+
+現行法では、traditional口座は73歳から最低引き出し義務(RMD)が始まりますが、Roth IRAには所有者の生存中はRMDがありません。限度額、税率区分、段階的制限はほぼ毎年調整されるため、本記事の数値はすべてスナップショットとして扱ってください。最新の数値はIRSで確認し、転換・ロールオーバー・大きな残高に関わる決定の前にはCPAや報酬ベースのファイナンシャルプランナーに相談することをお勧めします。
+
+本記事は教育目的のコンテンツであり、金融・税務アドバイスではありません。州税、プランの質、想定される退職後の所得によって、最適解は大きく変わり得ます。`, zh: `在美国，401(k)和IRA是退休储蓄的两大主力账户。它们常被描述成竞争对手，但更准确的理解是互补关系：两者的供款限额、税务规则和投资菜单各不相同，认真储蓄的人最终大多两个都用——并且按照明确的顺序：先拿到"免费的钱"(雇主匹配)，再最大化税收优惠。
+
+## 401(k)如何运作
+
+401(k)由雇主设立。供款直接从每次工资中扣除，可选择税前(traditional)或税后(Roth 401(k))。资金投入由计划管理人选定的基金菜单，增长过程中无需每年纳税。59.5岁之前取款，除了缴纳普通所得税外一般还要付10%罚金(Rule of 55、残障和某些困难情形等例外)。
+
+**2026年供款限额:**
+
+- 员工个人: 50岁以下 $23,500；50岁及以上含追加额度 $31,000
+- 雇主+员工合计: $70,000
+
+最有价值的特性是雇主匹配。常见公式是"工资的6%以内，每供款1美元匹配50美分"。年薪$80,000时，供款$4,800即可获得$2,400的匹配——在市场还没开始波动之前，就锁定了无风险的50%回报。没有任何主流投资能提供这样的确定回报，因此"拿满匹配"几乎排在所有资金分配清单的第一位。
+
+弱点在于：投资选择仅限于计划提供的菜单，而且计划成本差异极大。大公司往往能谈到费用率0.02–0.10%的指数基金，而一些小企业计划的基金加管理费合计仍超过1%。
+
+## IRA如何运作
+
+IRA(个人退休账户)由你自己在任意券商开设，与雇主无关。可以持有券商提供的几乎所有产品：指数基金、ETF、个股、债券、存单。
+
+**2026年供款限额:**
+
+- 50岁以下 $7,500；50岁及以上 $8,500
+- 高收入者的Roth IRA直接供款会逐步受限(单身约$165,000，夫妻合报约$246,000)
+
+IRA没有雇主匹配，但以完全的投资自由和(在大型券商)几乎为零的账户成本作为补偿。
+
+## Traditional vs Roth: 真正的数学
+
+- **Traditional**: 现在税前供款，将来取款时缴纳普通所得税。
+- **Roth**: 现在税后供款，将来(合格取款)完全免税。
+
+关键洞察是：如果两个时点的税率相同，结果在数学上完全一样。税前$10,000增长8倍变成$80,000，取款时按24%纳税后剩$60,800。Roth路径则先对$10,000纳税，剩$7,600用于投资，增长8倍后恰好也是$60,800。乘法满足交换律——所以决策完全取决于你现在的边际税率与退休后预期税率孰高孰低。
+
+实用经验法则:
+
+- 职业早期、收入不高(12–22%税率档): 通常Roth更优，因为锁定了今天的低税率
+- 收入巅峰期(32%以上税率档): 通常traditional更优，高税率时抵扣、以更低的实际税率取出
+- 实在拿不准? 在两种类型之间分散供款，可对冲未来税法变化的风险
+
+## 费用也在复利增长
+
+假设每月投资$500，持续30年。年回报7%时，余额约为$610,000。若被费用削去0.8个百分点、净回报6.2%，同样的供款最终只有约$522,000。悄无声息的0.8%费用吞掉了约$88,000。这就是为什么高费用的401(k)会改变资金顺序：超出匹配部分后，低成本的IRA往往胜过高费用的401(k)。
+
+## 标准资金分配顺序
+
+1. 向401(k)供款至拿满雇主匹配——免费的钱优先
+2. 把IRA供满(若符合资格且适合你的税务状况则选Roth)——成本和投资选择由你掌控
+3. 回到401(k)，向$23,500的上限迈进
+4. 若有合格健康保险计划，供款HSA——用于医疗支出时享受三重税收优惠
+5. 更多的钱进入普通应税券商账户
+
+## 常见错误
+
+- **放弃匹配。** 供款低于匹配门槛，等于拒绝了自己薪酬的一部分。
+- **换工作时套现。** 在24%税率档套现$20,000，要付$4,800税款加$2,000罚金——损失约三分之一的余额，外加全部未来复利。应转存(rollover)到IRA或新雇主的计划。
+- **忽视归属(vesting)时间表。** 雇主供款往往需要3–6年才完全归属，在归属日前离职可能白白损失数千美元。
+- **超过收入限额仍向Roth IRA供款。** 超额供款在纠正之前每年被征收6%的惩罚税。
+- **遗忘旧账户。** 被遗忘的401(k)常常在高费用计划里躺几十年，应及时整合。
+
+## 简谈后门Roth
+
+被收入限额挡在Roth IRA门外的高收入者，可以先向不可抵扣的traditional IRA供款，再转换为Roth。方法有效，但计算转换应税比例时，按比例(pro-rata)规则会合并计算你所有traditional IRA余额，让许多人措手不及。如果你已有税前IRA资金，操作前请咨询专业人士。
+
+## 税务处理: 细节提醒
+
+按现行法律，traditional账户从73岁起有最低提取要求(RMD)；Roth IRA在持有人生前没有RMD。限额、税率档和收入门槛几乎每年调整，请把本文所有数字当作某一时点的快照：以IRS公布的最新数字为准，涉及转换、转存或大额余额的决定，请咨询注册会计师(CPA)或收费制理财规划师。
+
+本文为教育性内容，不构成金融或税务建议。州税、计划质量和你预期的退休收入都可能彻底改变最优答案。` },
 		date: '2026-04-30', category: 'retirement'
 	},
 	{
 		slug: 'emergency-fund-3-vs-6-months',
 		title: { en: 'Emergency Fund: 3 vs 6 Months Debate', ko: '비상금: 3개월 vs 6개월 논쟁', ja: '緊急資金: 3ヶ月 vs 6ヶ月の議論', zh: '应急基金: 3个月 vs 6个月之辩' },
 		description: { en: 'How much should sit in your emergency fund? It depends on income stability and obligations.', ko: '비상금에 얼마나 두어야 할까? 소득 안정성과 부담에 달려 있습니다.', ja: '緊急資金にいくら置くべき? 収入の安定性と義務によります。', zh: '应急基金应该有多少? 这取决于收入稳定性和义务。' },
-		content: { en: `"Three to six months of expenses" is the canned answer to emergency fund sizing. The actual right number depends on your situation.
+		content: { en: `"Three to six months of expenses" is the canned answer to emergency fund sizing. It is a decent starting point and a poor ending point, because the right number depends on how stable your income is, how many people depend on it, and how quickly you could replace it. Let's turn the slogan into an actual calculation.
 
-## Why an Emergency Fund
+## Why the Fund Exists: The Math of the Cascade
 
-Without a buffer, every car repair, vet bill, or job loss becomes a credit card balance compounding at 22%. The fund's job is to prevent the cascade.
+Without a cash buffer, every surprise becomes debt. A $3,000 transmission repair placed on a credit card at 22% APR, paid at $100 per month, takes about 41 months to clear and costs roughly $1,200 in interest — the repair effectively costs 40% more. Worse, minimum payments crowd out saving, so the next surprise lands on the same card. The emergency fund's job is not to earn a return; it is to break that cascade and to keep a job loss from forcing you to sell investments at the bottom of a bear market.
 
-## Calculate Monthly Need
+## Step 1: Calculate Your Monthly Essential Number
 
-Add up only essential expenses:
-- Housing (rent or mortgage + insurance + property tax)
+Count only what you must pay to keep the household running:
+
+- Housing: rent or mortgage, insurance, property tax
 - Utilities, internet, phone
-- Groceries (not dining out)
-- Insurance premiums
+- Groceries (not restaurants)
+- Insurance premiums (health, auto)
 - Minimum debt payments
-- Transportation to work
+- Transportation to work, childcare
 
-This is typically 60-70% of normal monthly spending.
+For most households this lands at 60–70% of normal monthly spending. Example: a family spending $5,500 per month might have an essential number of $3,600. Three months is then $10,800; six months is $21,600. Notice how different that is from "three months of income" — sizing on gross income overshoots by thousands.
 
 ## When 3 Months Is Enough
 
-- Dual income household; both jobs are stable
-- High-demand skills with quick rehire potential
-- No dependents
-- Low fixed obligations
+- Dual-income household where both jobs are stable and in different industries — the probability of losing both incomes simultaneously is far lower than losing one
+- In-demand skills with historically short job searches
+- No dependents and flexible fixed costs (you could downsize quickly)
+- Access to other liquidity you would genuinely use, such as a Roth IRA's contribution basis
 
-## When You Need 6+ Months
+## When You Need 6 Months or More
 
-- Single income
-- Self-employed or commission-based
-- Specialized skills with longer job search timelines
-- Children, dependents, or chronic medical needs
-- High mortgage relative to savings
+- Single income supporting the household
+- Self-employed, commission-based, or seasonal income — here the fund also smooths normal variation, not just disasters
+- Specialized or senior roles where the equivalent job search takes 6–12 months
+- Dependents, chronic medical needs, or an older home and car that generate their own surprises
+- A mortgage large relative to savings, where missed payments have severe consequences
+
+Some situations justify 12 months: the years just before retirement (to avoid selling stocks in a downturn — sequence-of-returns risk) or a one-employer town.
 
 ## Where to Park It
 
-- **High-yield savings account** — 4-5% APY in 2026, FDIC insured, instant access
-- **Money market funds** — slightly higher yield, T+1 settlement
-- **Treasury bills (4-13 weeks)** — competitive yield, ladder for liquidity
+The fund must be liquid and boring:
 
-Avoid stocks, crypto, or anything that can drop 30% the day you need it.
+- **High-yield savings account** — around 4–5% APY in 2026, FDIC-insured, same-day access
+- **Money market funds** — comparable yield at brokerages, typically next-day settlement
+- **Treasury bills (4–13 weeks)** — competitive yield, exempt from state income tax, easy to ladder
+
+On $15,000 the difference between a 0.01% checking account and a 4.5% HYSA is about $675 per year — meaningful, but secondary to safety. Do not hold the fund in stocks or crypto: in 2022 the S&P 500 fell roughly 25% peak-to-trough at the same time layoffs were accelerating — exactly when funds get used.
+
+A practical tiering: keep one month of essentials in the account your bills come from, and the remainder in a HYSA or T-bill ladder.
+
+## Yes, Inflation Erodes It — That's the Premium
+
+If inflation runs 3% and your HYSA pays 4.5%, the real return is modest; in low-rate years it can be negative. Accept it. The fund is insurance, and mild erosion is the premium you pay for never being a forced seller.
+
+## Common Mistakes
+
+- **Counting available credit as the fund.** Credit lines get cut in recessions, precisely when you need them.
+- **Investing the fund for yield.** A 30% drawdown the week you're laid off defeats the purpose.
+- **Never replenishing.** After using the fund, pause investing and rebuild it first.
+- **Over-saving in cash.** Holding $50,000 beyond your target for 20 years at a 2.5% real-return sacrifice versus a diversified portfolio costs tens of thousands in foregone growth. Once the target is hit, redirect new savings to investments.
+- **Sizing on income instead of essential expenses.**
 
 ## Order of Operations
 
-1. Save $1,000 starter buffer
-2. Pay off any debt over 8% APR
-3. Build to 1 month of expenses
-4. Max employer 401(k) match
-5. Build to 3-6 months of expenses
-6. Continue investing
+1. Save a $1,000 starter buffer
+2. Pay off any debt above roughly 8% APR — its guaranteed cost exceeds expected market returns
+3. Build one month of essential expenses
+4. Capture any employer 401(k) match
+5. Build to your 3–6 month target
+6. Redirect surplus to investing
 
-**Educational only. Not financial advice.**`, ko: `"3-6개월 지출"이 비상금 규모의 정형 답변입니다.
+## A Note on Taxes
 
-## 월 필요액 계산
+Interest from savings accounts and money market funds is taxed as ordinary income in the US; T-bill interest is exempt from state and local tax, which matters in high-tax states. Keep the fund's tax drag in perspective — it is the cost of safety — and consult a tax professional for your specific situation.
 
-필수 지출만: 주거, 공과금, 식료품, 보험료, 최소 부채 상환, 출퇴근. 일반 월 지출의 60-70%.
+This is educational content, not financial advice. Your own stability, obligations, and risk tolerance set the right number.`, ko: `"생활비 3~6개월치"는 비상금 규모에 대한 정형화된 답입니다. 출발점으로는 괜찮지만 결론으로는 부족합니다. 올바른 숫자는 소득이 얼마나 안정적인지, 몇 명이 그 소득에 의존하는지, 소득이 끊겼을 때 얼마나 빨리 대체할 수 있는지에 달려 있기 때문입니다. 슬로건을 실제 계산으로 바꿔 봅시다.
 
-## 3개월이면 충분할 때
+## 비상금이 존재하는 이유: 연쇄 부채의 수학
 
-맞벌이, 수요 많은 기술, 부양가족 없음.
+현금 버퍼가 없으면 모든 돌발 상황이 빚이 됩니다. $3,000짜리 자동차 수리비를 연 22% 신용카드에 얹고 매달 $100씩 갚으면 청산까지 약 41개월이 걸리고 이자만 약 $1,200이 붙습니다. 수리비가 사실상 40% 비싸지는 셈입니다. 더 나쁜 것은 최소 상환액이 저축을 밀어내서, 다음 돌발 상황도 같은 카드로 가게 된다는 점입니다. 비상금의 역할은 수익을 내는 것이 아니라 이 연쇄를 끊고, 실직했을 때 약세장 바닥에서 투자 자산을 강제로 팔지 않게 하는 것입니다.
 
-## 6개월+ 필요할 때
+## 1단계: 월 필수 지출 계산
 
-단일 소득, 자영업, 부양가족, 만성 질환.
+가계를 유지하는 데 반드시 필요한 것만 계산합니다.
 
-## 어디에 둘까
+- 주거: 월세 또는 주택담보대출, 보험, 재산세
+- 공과금, 인터넷, 통신비
+- 식료품(외식 제외)
+- 보험료(건강, 자동차)
+- 부채 최소 상환액
+- 출퇴근 교통비, 보육비
 
-- 고이율 저축(2026년 4-5% APY)
-- 머니 마켓 펀드
-- T-bill 사다리
+대부분의 가정에서 이는 평소 월 지출의 60~70% 수준입니다. 예를 들어 월 $5,500을 쓰는 가정의 필수 지출은 $3,600 정도일 수 있습니다. 그러면 3개월치는 $10,800, 6개월치는 $21,600입니다. "월 소득 3개월치"와 얼마나 다른지 보세요. 총소득 기준으로 잡으면 수천 달러를 과잉 적립하게 됩니다.
 
-**Educational only. Not financial advice.**`, ja: `「3〜6ヶ月の支出」が緊急資金サイズの定型回答です。
+## 3개월이면 충분한 경우
 
-## 月必要額
+- 맞벌이이고 두 직장이 안정적이며 서로 다른 업종인 경우 — 두 소득을 동시에 잃을 확률은 하나를 잃을 확률보다 훨씬 낮습니다
+- 수요가 많은 기술을 보유해 역사적으로 구직 기간이 짧은 경우
+- 부양가족이 없고 고정비가 유연한 경우(빠르게 규모를 줄일 수 있음)
+- Roth IRA 기여 원금처럼 실제로 쓸 수 있는 다른 유동성이 있는 경우
 
-住居、公共料金、食料品、保険料、最低債務返済、通勤交通費。通常月支出の60-70%。
+## 6개월 이상 필요한 경우
 
-## 3ヶ月で十分
+- 가계를 책임지는 단일 소득
+- 자영업, 성과급, 계절성 소득 — 이 경우 비상금은 재난뿐 아니라 평상시 소득 변동도 완충합니다
+- 동급 일자리를 찾는 데 6~12개월 걸리는 전문직·고위직
+- 부양가족, 만성 질환, 또는 돌발 비용을 스스로 만들어내는 오래된 집과 차
+- 저축 대비 큰 주택담보대출 — 연체의 결과가 치명적
 
-共働き、需要のあるスキル、扶養なし。
+12개월이 정당화되는 상황도 있습니다. 은퇴 직전 시기(하락장에서 주식을 팔지 않기 위한 수익률 순서 위험 대비)나 고용주가 하나뿐인 지역이 그렇습니다.
 
-## 6ヶ月以上必要
+## 어디에 보관할까
 
-単一収入、自営業、扶養家族。
+비상금은 유동적이고 지루해야 합니다.
 
-## 置き場所
+- **고금리 저축계좌(HYSA)** — 2026년 기준 연 4~5% APY, FDIC 보호, 당일 인출
+- **머니마켓펀드(MMF)** — 증권사에서 비슷한 수익률, 보통 익일 결제
+- **단기 국채(T-bill, 4~13주)** — 경쟁력 있는 수익률, 주(州) 소득세 면제, 사다리 구성 용이
 
-- 高利回り貯蓄(2026年4-5% APY)
-- マネーマーケットファンド
+$15,000 기준으로 0.01% 입출금 계좌와 4.5% HYSA의 차이는 연 약 $675입니다. 의미 있지만 안전성보다는 부차적입니다. 비상금을 주식이나 암호화폐에 두지 마세요. 2022년 S&P 500은 고점 대비 약 25% 하락했는데, 바로 그 시기에 해고가 가속화됐습니다. 비상금이 실제로 쓰이는 시점이 그런 때입니다.
 
-**Educational only. Not financial advice.**`, zh: `"3-6个月支出"是应急基金规模的标准答案。
+실용적인 계층화: 필수 지출 1개월치는 청구서가 빠져나가는 계좌에, 나머지는 HYSA나 T-bill 사다리에 두세요.
 
-## 月度需求
+## 인플레이션이 갉아먹는다? 그것이 보험료다
 
-仅基本支出: 住房、水电费、食品、保险费、最低债务还款、通勤。通常月支出的60-70%。
+인플레이션이 3%이고 HYSA가 4.5%를 주면 실질 수익은 미미하고, 저금리 시기에는 마이너스일 수도 있습니다. 받아들이세요. 비상금은 보험이고, 완만한 가치 잠식은 강제 매도자가 되지 않기 위해 내는 보험료입니다.
 
-## 3个月就够
+## 흔한 실수
 
-双收入、需求技能、无抚养。
+- **신용 한도를 비상금으로 간주.** 신용 한도는 불황기에, 즉 가장 필요할 때 축소됩니다.
+- **수익률을 노리고 비상금을 투자.** 해고당한 주에 30% 하락하면 목적 자체가 무너집니다.
+- **사용 후 미보충.** 비상금을 쓴 뒤에는 투자를 잠시 멈추고 먼저 다시 채우세요.
+- **현금 과잉 보유.** 목표를 초과한 $50,000을 20년간 현금으로 두면, 분산 포트폴리오 대비 연 2.5%포인트의 실질 수익을 포기하는 셈이라 수만 달러의 성장을 잃습니다. 목표 달성 후에는 신규 저축을 투자로 돌리세요.
+- **필수 지출이 아닌 소득 기준으로 규모 산정.**
 
-## 需要6个月以上
+## 실행 순서
 
-单一收入、自雇、抚养家属。
+1. $1,000 초기 버퍼 마련
+2. 연 8% 이상 부채 상환 — 확정 비용이 기대 시장 수익률을 초과
+3. 필수 지출 1개월치 적립
+4. 401(k) 고용주 매칭 확보
+5. 3~6개월 목표까지 적립
+6. 잉여 자금은 투자로
 
-## 存放位置
+## 세금 관련 참고
 
-- 高息储蓄(2026年4-5% APY)
-- 货币市场基金
+미국에서 저축계좌와 MMF 이자는 일반 소득으로 과세됩니다. T-bill 이자는 주·지방세가 면제되어 고세율 주에서는 유의미합니다. 비상금의 세금 부담은 안전의 비용으로 받아들이되, 구체적인 상황은 세무 전문가와 상담하세요.
 
-**Educational only. Not financial advice.**` },
+이 글은 교육 목적의 콘텐츠이며 금융 자문이 아닙니다. 본인의 안정성, 부담, 위험 허용도가 올바른 숫자를 결정합니다.`, ja: `「生活費の3〜6ヶ月分」というのが、緊急資金の規模に対する定型回答です。出発点としては悪くありませんが、結論としては不十分です。正しい金額は、収入がどれだけ安定しているか、何人がその収入に依存しているか、収入が途絶えたときどれだけ早く代替できるかで決まるからです。スローガンを実際の計算に変えましょう。
+
+## 緊急資金が存在する理由: 連鎖する借金の数学
+
+現金のバッファがないと、あらゆる不意の出費が借金になります。$3,000の車の修理代を年利22%のクレジットカードに載せ、毎月$100ずつ返済すると、完済まで約41ヶ月かかり、利息だけで約$1,200。修理代が実質40%高くつく計算です。さらに悪いことに、最低返済額が貯蓄を圧迫し、次の不意の出費も同じカード行きになります。緊急資金の役割はリターンを稼ぐことではなく、この連鎖を断ち切り、失業時に弱気相場の底で投資資産を売らされる事態を防ぐことです。
+
+## ステップ1: 月々の必須支出を計算する
+
+家計を維持するために必ず払うものだけを数えます。
+
+- 住居: 家賃または住宅ローン、保険、固定資産税
+- 光熱費、インターネット、通信費
+- 食料品(外食は除く)
+- 保険料(健康、自動車)
+- 借入の最低返済額
+- 通勤交通費、保育費
+
+多くの世帯でこれは通常の月間支出の60〜70%になります。例えば月$5,500を使う家庭なら、必須支出は$3,600程度かもしれません。すると3ヶ月分は$10,800、6ヶ月分は$21,600です。「月収の3ヶ月分」とどれだけ違うか注目してください。総収入ベースで計算すると数千ドルの過剰積立になります。
+
+## 3ヶ月で十分な場合
+
+- 共働きで、両方の仕事が安定しており業種も異なる場合 — 両方の収入を同時に失う確率は、片方を失う確率よりはるかに低い
+- 需要の高いスキルがあり、転職活動が歴史的に短い場合
+- 扶養家族がおらず、固定費に柔軟性がある場合(すぐに生活を縮小できる)
+- Roth IRAの拠出元本など、実際に使える他の流動性がある場合
+
+## 6ヶ月以上必要な場合
+
+- 世帯を支える単一収入
+- 自営業、歩合制、季節性のある収入 — この場合、緊急資金は災難だけでなく通常の収入変動も平準化します
+- 同等の職を見つけるのに6〜12ヶ月かかる専門職・上級職
+- 扶養家族、慢性的な医療ニーズ、あるいは不意の出費を自ら生み出す築年数の古い家や車
+- 貯蓄に対して大きな住宅ローン — 滞納の結果が深刻
+
+12ヶ月が正当化される状況もあります。退職直前の数年間(下落相場で株を売らないため — リターン順序リスク対策)や、雇用主が一社しかない町などです。
+
+## どこに置くか
+
+緊急資金は流動的で退屈であるべきです。
+
+- **高利回り貯蓄口座(HYSA)** — 2026年時点で年4〜5% APY、FDIC保護、即日引き出し
+- **マネーマーケットファンド(MMF)** — 証券会社で同等の利回り、通常は翌営業日決済
+- **短期米国債(Tビル、4〜13週)** — 競争力のある利回り、州所得税が非課税、ラダー構成が容易
+
+$15,000の場合、0.01%の当座預金と4.5%のHYSAの差は年約$675です。意味はありますが、安全性に比べれば二次的です。緊急資金を株や暗号資産に置いてはいけません。2022年、S&P 500は高値から約25%下落し、まさにその時期にレイオフが加速しました。緊急資金が実際に使われるのはそういう時です。
+
+実用的な階層化: 必須支出1ヶ月分は請求書の引き落とし口座に、残りはHYSAかTビルのラダーに置きましょう。
+
+## インフレに削られる? それが保険料です
+
+インフレ率が3%でHYSAが4.5%なら実質リターンはわずかで、低金利の年にはマイナスにもなり得ます。受け入れましょう。緊急資金は保険であり、緩やかな目減りは「強制売却者にならない」ための保険料です。
+
+## よくある間違い
+
+- **利用可能なクレジット枠を緊急資金と見なす。** 与信枠は不況時、つまり最も必要な時に削減されます。
+- **利回りを狙って緊急資金を投資する。** 解雇された週に30%下落したら本末転倒です。
+- **使った後に補充しない。** 緊急資金を使ったら、投資を一時停止してまず再構築を。
+- **現金の持ちすぎ。** 目標を超えた$50,000を20年間現金で置くと、分散ポートフォリオ比で年2.5%ポイントの実質リターンを犠牲にし、数万ドルの成長を失います。目標達成後は新規貯蓄を投資へ。
+- **必須支出ではなく収入ベースで規模を決める。**
+
+## 実行の順序
+
+1. $1,000のスターターバッファを貯める
+2. 年利約8%超の借金を返済 — 確定コストが期待市場リターンを上回る
+3. 必須支出1ヶ月分を積み立てる
+4. 401(k)の雇用主マッチングを確保する
+5. 3〜6ヶ月の目標まで積み立てる
+6. 余剰資金は投資へ
+
+## 税金に関する注意
+
+米国では貯蓄口座とMMFの利息は通常所得として課税されます。Tビルの利息は州・地方税が非課税で、高税率の州では重要です。緊急資金の税負担は安全のコストと割り切りつつ、具体的な状況は税務専門家に相談してください。
+
+本記事は教育目的のコンテンツであり、金融アドバイスではありません。あなた自身の安定性、義務、リスク許容度が正しい金額を決めます。`, zh: `"三到六个月的生活开支"是应急基金规模的标准答案。作为起点还不错，作为终点则远远不够，因为正确的数字取决于你的收入有多稳定、有多少人依赖这份收入、以及收入中断后你能多快找到替代。让我们把口号变成真正的计算。
+
+## 应急基金为何存在: 债务连锁的数学
+
+没有现金缓冲，每一次意外都会变成债务。一笔$3,000的变速箱维修费刷在年利率22%的信用卡上，每月还$100，需要约41个月才能还清，利息约$1,200——维修实际贵了40%。更糟的是，最低还款额会挤占储蓄，于是下一次意外又落到同一张卡上。应急基金的任务不是赚取回报，而是切断这个连锁，并确保失业时你不必在熊市底部被迫抛售投资。
+
+## 第一步: 计算每月必要开支
+
+只计算维持家庭运转必须支付的项目:
+
+- 住房: 房租或房贷、保险、房产税
+- 水电、网络、通讯费
+- 食品杂货(不含外出就餐)
+- 保险费(健康、汽车)
+- 债务最低还款额
+- 通勤交通、托育费用
+
+对大多数家庭来说，这大约是正常月支出的60–70%。例如: 每月花$5,500的家庭，必要开支可能是$3,600。那么三个月就是$10,800，六个月是$21,600。注意这与"三个月收入"的差别有多大——按总收入计算会多存好几千美元。
+
+## 三个月足够的情形
+
+- 双收入家庭，两份工作都稳定且处于不同行业——同时失去两份收入的概率远低于失去一份
+- 技能供不应求，历史上求职周期短
+- 无抚养负担，固定支出灵活(可以迅速缩减)
+- 拥有确实可动用的其他流动性，例如Roth IRA的供款本金
+
+## 需要六个月以上的情形
+
+- 全家依靠单一收入
+- 自雇、佣金制或季节性收入——此时基金还要平滑正常的收入波动，而不只是应对灾难
+- 专业性强或资深职位，找到同等工作需要6–12个月
+- 有抚养对象、慢性医疗需求，或者会自己"制造"意外开支的老房子和旧车
+- 房贷相对储蓄偏大，断供后果严重
+
+某些情况值得存满12个月: 临近退休的几年(避免在下跌中卖股票——回报顺序风险)，或就业机会集中于单一雇主的城镇。
+
+## 存放在哪里
+
+应急基金必须流动且"无聊":
+
+- **高息储蓄账户(HYSA)** — 2026年约4–5% APY，FDIC保险，当天可取
+- **货币市场基金** — 券商处收益相当，通常次日到账
+- **短期美国国债(4–13周T-bill)** — 收益有竞争力，免州所得税，容易构建梯队
+
+以$15,000计，0.01%的支票账户与4.5%的HYSA相差每年约$675——有意义，但相比安全性是次要的。不要把基金放在股票或加密货币里: 2022年标普500从高点最多下跌约25%，而裁员恰恰在同一时期加速——那正是应急基金被动用的时刻。
+
+实用的分层做法: 一个月必要开支放在扣款账户里，其余放HYSA或T-bill梯队。
+
+## 是的，通胀会侵蚀它——那是保费
+
+如果通胀3%而HYSA付4.5%，实际回报很有限; 低利率年份甚至可能为负。接受它。应急基金是保险，温和的贬值就是你为"永远不做被迫卖家"支付的保费。
+
+## 常见错误
+
+- **把可用信用额度当作基金。** 信用额度会在衰退中被削减，恰恰是你最需要的时候。
+- **为收益而投资应急基金。** 被裁那周基金跌30%，就彻底违背了初衷。
+- **用掉后不补充。** 动用基金后，先暂停投资、优先重建。
+- **现金存太多。** 超出目标的$50,000放20年，相比分散投资组合每年牺牲约2.5个百分点的实际回报，损失的增长以数万美元计。达标后，把新储蓄转向投资。
+- **按收入而不是必要开支来定规模。**
+
+## 操作顺序
+
+1. 先存$1,000的起步缓冲
+2. 还清年利率约8%以上的债务——其确定成本高于预期市场回报
+3. 存满一个月必要开支
+4. 拿满雇主的401(k)匹配
+5. 存到3–6个月的目标
+6. 盈余转向投资
+
+## 关于税务
+
+在美国，储蓄账户和货币市场基金的利息按普通收入纳税; T-bill利息免州和地方税，在高税率州很有价值。把应急基金的税负视为安全的成本即可，具体情况请咨询税务专业人士。
+
+本文为教育性内容，不构成金融建议。你自己的稳定性、负担和风险承受能力决定正确的数字。` },
 		date: '2026-04-29', category: 'savings'
 	},
 	{
 		slug: 'crypto-wallet-types-explained',
 		title: { en: 'Crypto Wallet Types Explained', ko: '암호화폐 지갑 유형 설명', ja: '暗号通貨ウォレットの種類説明', zh: '加密货币钱包类型解释' },
 		description: { en: 'Hot, cold, custodial, multi-sig: which wallet matches your risk tolerance?', ko: '핫, 콜드, 커스터디, 멀티시그: 어떤 지갑이 본인 위험 허용도에 맞나?', ja: 'ホット、コールド、カストディアル、マルチシグ: あなたのリスク許容度に合うウォレットは?', zh: '热钱包、冷钱包、托管、多签: 哪种钱包符合您的风险承受能力?' },
-		content: { en: `Owning crypto means managing keys. The wallet you choose determines how secure those keys are and who actually controls them.
+		content: { en: `Owning crypto means managing keys. A "wallet" does not actually store coins — coins live on the blockchain as ledger entries. What a wallet stores is your private key, the secret number that authorizes spending from your addresses. The wallet you choose determines how secure that key is and, more fundamentally, who actually controls it.
+
+## Keys, Seed Phrases, and What a Wallet Really Is
+
+Modern wallets generate a seed phrase — 12 or 24 words drawn from a standardized 2,048-word list (the BIP-39 standard) — from which every private key and address in the wallet is mathematically derived. Two consequences follow. First, the seed phrase IS the wallet: anyone who has those words has your funds, from any device, anywhere, instantly. Second, the hardware or app itself is replaceable; lose the device, and the seed phrase restores everything.
 
 ## Custodial vs Non-Custodial
 
-- **Custodial** — exchange holds your keys (Coinbase, Binance). Convenient, recoverable, but you do not own the coins; the exchange owes them to you.
-- **Non-custodial** — you hold the keys. Full control, full responsibility.
+- **Custodial** — an exchange such as Coinbase or Binance holds the keys. Convenient, password-recoverable, familiar. But legally and practically, the exchange owes you the coins; you do not possess them.
+- **Non-custodial** — you hold the keys. Full control, full responsibility, no customer support hotline for mistakes.
 
-The crypto saying "not your keys, not your coins" is the difference.
+History explains the crypto saying "not your keys, not your coins." Mt. Gox collapsed in 2014 with roughly 850,000 BTC of customer funds missing; creditors waited a decade for partial repayment. FTX failed in 2022 with a customer shortfall measured in the billions of dollars. Custodial risk is not theoretical — it is the single largest cause of retail crypto losses.
 
-## Hot Wallets
+## Hot Wallets: Convenience With an Attack Surface
 
-Software wallets connected to the internet. Examples: MetaMask, Phantom, Rabby, Trust Wallet.
+Hot wallets are software connected to the internet: MetaMask, Phantom, Rabby, Trust Wallet. They are free, instant, and integrate with exchanges and DeFi applications.
 
-**Pros**: Easy daily use, integrates with dApps. **Cons**: Vulnerable to phishing, malware, browser extension attacks.
+The trade-off is exposure. Common attack vectors include phishing sites that imitate real dApps, malicious transaction approvals (you think you are signing a mint; you are granting unlimited spending of a token), clipboard malware that swaps the destination address as you paste it, and compromised browser extensions.
 
-Use only for amounts you would carry as cash.
+Rule of thumb: keep only what you would carry as cash in your pocket. Periodically review and revoke old token approvals with a tool such as Revoke.cash.
 
-## Cold Wallets
+## Cold Wallets: Keys That Never Touch the Internet
 
-Hardware devices that sign transactions offline. Ledger, Trezor, Keystone, Coldcard.
+Hardware wallets — Ledger, Trezor, Keystone, Coldcard — hold the private key inside a dedicated device. Transactions are prepared on your computer, but the signature happens inside the device, so the key never touches an internet-connected machine. Even a fully compromised laptop cannot extract it.
 
-**Pros**: Keys never touch an internet-connected device. **Cons**: Cost ($60-200), small learning curve.
+Costs run $60–200 — trivial insurance for meaningful holdings. Two practices matter: buy directly from the manufacturer, never second-hand or from third-party marketplace sellers (pre-tampered devices are a documented scam), and always verify the receiving address on the device's own screen, not just the computer's.
 
-For significant holdings (over a few months' income), cold storage is appropriate.
+A common threshold: once crypto holdings exceed a few months' income, hardware storage stops being optional.
 
-## Multisig
+## Multisig: Removing the Single Point of Failure
 
-Requires multiple signatures to move funds. 2-of-3 is common.
+A multisignature wallet requires M of N keys to move funds — 2-of-3 is the standard pattern:
 
-\`\`\`
-Key 1 — your phone
-Key 2 — hardware wallet at home
-Key 3 — hardware wallet in safety deposit box
-\`\`\`
+- Key 1 on your phone or laptop
+- Key 2 on a hardware wallet at home
+- Key 3 on a hardware wallet in a bank deposit box or with a trusted party
 
-Tools: Casa, Unchained, Gnosis Safe.
+One lost or stolen key is now an inconvenience rather than a catastrophe. Tools include Casa and Unchained for Bitcoin and Safe (formerly Gnosis Safe) for Ethereum. The costs are complexity and slower transactions, which is why multisig mostly suits large, long-term holdings — and estate planning, since heirs can be given key shares without any single person having unilateral control.
 
-## Seed Phrase Security
+## Seed Phrase Security: Where Most Losses Actually Happen
 
-The seed phrase (12-24 words) IS the wallet. Anyone with the phrase has the funds.
+- Never store the phrase digitally: no photos, no cloud notes, no password managers, no email drafts. Digital copies are what malware hunts for.
+- Write it on paper as a start; stamp or engrave it on stainless steel for fire and flood resistance.
+- Never type it into any website or app, ever. Legitimate software asks for it only when restoring a wallet you initiated. "Validate your wallet" messages are always scams.
+- Consider an optional BIP-39 passphrase (a "25th word") — but understand that losing the passphrase loses the funds, permanently.
 
-- Never store digitally (cloud backups, photos, password managers)
-- Engrave on stainless steel for fire/water resistance
-- Never type it into any web form ever
+## Common Mistakes
 
-**Educational only. Not financial advice. Crypto is high-risk.**`, ko: `암호화폐 보유는 키 관리를 의미합니다.
+- Sending a full balance without a small test transaction first
+- Falling for address poisoning: attackers send dust from addresses that visually resemble yours, hoping you copy the wrong one from history
+- Screenshotting the seed phrase during setup "just for now"
+- Keeping everything on one exchange because self-custody feels intimidating
+- Forgetting that inheritance needs a plan — keys die with their owner unless documented securely
+
+## A Note on Taxes
+
+In most jurisdictions, moving crypto between wallets you own is not a taxable event, but selling, swapping, or spending it usually is — and clean records of wallet-to-wallet transfers prevent your future self from misreporting cost basis. Rules differ sharply by country; consult a tax professional familiar with digital assets.
+
+This article is educational content, not financial advice. Crypto assets are volatile and largely unrecoverable when lost — size your holdings, and your security effort, accordingly.`, ko: `암호화폐를 보유한다는 것은 키를 관리한다는 뜻입니다. "지갑"은 사실 코인을 저장하지 않습니다. 코인은 블록체인 위에 장부 기록으로 존재합니다. 지갑이 저장하는 것은 프라이빗 키, 즉 당신의 주소에서 지출을 승인하는 비밀 숫자입니다. 어떤 지갑을 선택하느냐가 그 키의 보안 수준을, 더 근본적으로는 그 키를 실제로 누가 통제하는지를 결정합니다.
+
+## 키, 시드 문구, 그리고 지갑의 실체
+
+현대의 지갑은 시드 문구를 생성합니다. 표준화된 2,048개 단어 목록(BIP-39 표준)에서 뽑은 12개 또는 24개 단어이며, 지갑의 모든 프라이빗 키와 주소가 여기서 수학적으로 파생됩니다. 두 가지 결론이 따라옵니다. 첫째, 시드 문구가 곧 지갑입니다. 그 단어들을 가진 사람은 누구든, 어떤 기기에서든, 즉시 당신의 자금을 가질 수 있습니다. 둘째, 하드웨어나 앱 자체는 교체 가능합니다. 기기를 잃어버려도 시드 문구가 모든 것을 복원합니다.
 
 ## 커스터디 vs 논커스터디
 
-- 커스터디: 거래소가 키 보유
-- 논커스터디: 본인 키 보유
+- **커스터디** — Coinbase, Binance 같은 거래소가 키를 보관합니다. 편리하고 비밀번호 복구가 가능하며 익숙합니다. 하지만 법적으로나 실질적으로 거래소가 당신에게 코인을 "빚지고" 있는 것이며, 당신이 소유한 것이 아닙니다.
+- **논커스터디** — 당신이 키를 보유합니다. 완전한 통제, 완전한 책임, 실수해도 고객센터는 없습니다.
 
-## 핫 월렛
+"내 키가 아니면 내 코인이 아니다"라는 격언은 역사가 설명해 줍니다. Mt. Gox는 2014년 고객 자금 약 850,000 BTC가 사라진 채 파산했고, 채권자들은 부분 상환까지 10년을 기다렸습니다. FTX는 2022년 수십억 달러 규모의 고객 자금 부족과 함께 무너졌습니다. 커스터디 위험은 이론이 아니라 개인 투자자 암호화폐 손실의 최대 원인입니다.
 
-MetaMask, Phantom 등 인터넷 연결 소프트웨어. 일상 소액만.
+## 핫 월렛: 공격 표면을 가진 편리함
 
-## 콜드 월렛
+핫 월렛은 인터넷에 연결된 소프트웨어입니다. MetaMask, Phantom, Rabby, Trust Wallet 등이 있으며 무료이고 즉각적이며 거래소·DeFi 앱과 연동됩니다.
 
-Ledger, Trezor. 키가 인터넷 기기에 닿지 않음. 상당 보유분에 적합.
+대가는 노출입니다. 흔한 공격 경로로는 실제 dApp을 흉내 낸 피싱 사이트, 악성 트랜잭션 승인(민팅 서명인 줄 알았는데 토큰 무제한 지출 권한을 부여), 붙여넣는 순간 수신 주소를 바꿔치기하는 클립보드 악성코드, 오염된 브라우저 확장 프로그램이 있습니다.
 
-## 멀티시그
+경험칙: 주머니에 현금으로 들고 다닐 만큼만 보관하세요. Revoke.cash 같은 도구로 오래된 토큰 승인을 주기적으로 점검하고 회수하세요.
 
-2-of-3 일반. Casa, Gnosis Safe.
+## 콜드 월렛: 인터넷에 닿지 않는 키
 
-## 시드 문구
+하드웨어 지갑(Ledger, Trezor, Keystone, Coldcard)은 전용 기기 안에 프라이빗 키를 보관합니다. 트랜잭션은 컴퓨터에서 준비되지만 서명은 기기 내부에서 이루어지므로 키가 인터넷 연결 기기에 닿지 않습니다. 완전히 감염된 노트북조차 키를 추출할 수 없습니다.
 
-12-24 단어가 지갑 자체. 디지털 저장 금지, 스테인리스 스틸에 새김.
+가격은 $60~200으로, 의미 있는 보유분에 대한 보험치고는 사소한 비용입니다. 두 가지 수칙이 중요합니다. 반드시 제조사에서 직접 구매하고(중고나 제3자 마켓 판매자의 사전 조작 기기는 실제로 보고된 사기 수법입니다), 수신 주소는 컴퓨터 화면이 아니라 기기 자체 화면에서 확인하세요.
 
-**Educational only. Not financial advice.**`, ja: `暗号通貨保有はキー管理を意味します。
+일반적인 기준: 암호화폐 보유액이 몇 달치 소득을 넘어서면 하드웨어 보관은 더 이상 선택이 아닙니다.
+
+## 멀티시그: 단일 실패 지점 제거
+
+멀티시그 지갑은 자금 이동에 N개 중 M개의 키를 요구합니다. 2-of-3이 표준 패턴입니다.
+
+- 키 1: 휴대폰 또는 노트북
+- 키 2: 집에 있는 하드웨어 지갑
+- 키 3: 은행 대여금고 또는 신뢰할 수 있는 사람에게 맡긴 하드웨어 지갑
+
+키 하나를 잃어버리거나 도난당해도 재앙이 아니라 불편에 그칩니다. 비트코인은 Casa와 Unchained, 이더리움은 Safe(구 Gnosis Safe)가 대표적 도구입니다. 대가는 복잡성과 느린 트랜잭션이므로, 멀티시그는 주로 크고 장기적인 보유분에 적합합니다. 상속 설계에도 유용합니다. 어느 한 사람도 단독 통제권을 갖지 않으면서 상속인에게 키를 분배할 수 있기 때문입니다.
+
+## 시드 문구 보안: 실제 손실이 일어나는 곳
+
+- 디지털로 저장하지 마세요: 사진, 클라우드 메모, 비밀번호 관리자, 이메일 임시보관함 모두 금지. 악성코드가 노리는 것이 바로 디지털 사본입니다.
+- 우선 종이에 적고, 화재·침수에 견디도록 스테인리스 스틸에 각인하세요.
+- 어떤 웹사이트나 앱에도 절대 입력하지 마세요. 정상 소프트웨어는 당신이 직접 시작한 지갑 복원 때만 시드를 요구합니다. "지갑을 검증하세요"라는 메시지는 전부 사기입니다.
+- BIP-39 패스프레이즈("25번째 단어")도 고려할 수 있지만, 패스프레이즈를 잃으면 자금도 영구히 잃는다는 점을 이해해야 합니다.
+
+## 흔한 실수
+
+- 소액 테스트 전송 없이 전액을 한 번에 전송
+- 주소 포이즈닝에 당함: 공격자가 내 주소와 비슷하게 생긴 주소에서 소액을 보내, 거래 내역에서 잘못된 주소를 복사하게 유도
+- 설정 중 "잠깐만"이라며 시드 문구를 스크린샷
+- 셀프 커스터디가 겁난다는 이유로 전부 한 거래소에 보관
+- 상속 계획 부재 — 안전하게 문서화하지 않으면 키는 소유자와 함께 사라집니다
+
+## 세금 관련 참고
+
+대부분의 국가에서 본인 소유 지갑 간 이동은 과세 대상이 아니지만, 매도·스왑·사용은 대개 과세 대상입니다. 지갑 간 이전 기록을 깔끔하게 남겨야 미래의 내가 취득원가를 잘못 신고하는 일을 막을 수 있습니다. 규정은 나라마다 크게 다르므로 디지털 자산에 밝은 세무 전문가와 상담하세요.
+
+이 글은 교육 목적의 콘텐츠이며 금융 자문이 아닙니다. 암호화폐는 변동성이 크고 분실 시 대부분 복구 불가능합니다. 보유 규모와 보안 노력을 그에 맞게 설정하세요.`, ja: `暗号資産を保有するとは、鍵を管理するということです。「ウォレット」は実はコインを保存していません。コインはブロックチェーン上に台帳記録として存在します。ウォレットが保存しているのは秘密鍵、つまりあなたのアドレスからの支出を承認する秘密の数値です。どのウォレットを選ぶかが、その鍵の安全性と、より根本的には誰が実際に鍵を支配するのかを決めます。
+
+## 鍵、シードフレーズ、ウォレットの正体
+
+現代のウォレットはシードフレーズを生成します。標準化された2,048語のリスト(BIP-39標準)から選ばれた12語または24語で、ウォレット内のすべての秘密鍵とアドレスがここから数学的に導出されます。ここから2つの結論が導かれます。第一に、シードフレーズこそがウォレットです。その単語を持つ者は誰でも、どの端末からでも、即座にあなたの資金を手にできます。第二に、ハードウェアやアプリ自体は交換可能です。端末を失くしても、シードフレーズがすべてを復元します。
 
 ## カストディアル vs ノンカストディアル
 
-「キーがなければコインもない。」
+- **カストディアル** — CoinbaseやBinanceなどの取引所が鍵を保管。便利で、パスワード再設定もでき、馴染みがあります。しかし法的にも実質的にも、取引所があなたにコインを「負っている」だけで、あなたが所持しているわけではありません。
+- **ノンカストディアル** — 自分で鍵を保有。完全な支配、完全な責任、ミスをしてもサポート窓口はありません。
 
-## ホット/コールド
+「Not your keys, not your coins(鍵がなければコインもない)」という格言は歴史が裏付けています。Mt. Goxは2014年、顧客資金約850,000 BTCが消失した状態で破綻し、債権者は一部返済まで10年待ちました。FTXは2022年、数十億ドル規模の顧客資金不足とともに崩壊しました。カストディリスクは理論上の話ではなく、個人投資家の暗号資産損失の最大の原因です。
 
-ホット: MetaMaskなど。コールド: Ledger、Trezor。
+## ホットウォレット: 攻撃面を持つ利便性
 
-## マルチシグ
+ホットウォレットはインターネットに接続されたソフトウェアです。MetaMask、Phantom、Rabby、Trust Walletなどがあり、無料で即座に使え、取引所やDeFiアプリと連携します。
 
-2-of-3が一般的。
+代償は露出です。よくある攻撃経路には、本物のdAppを模したフィッシングサイト、悪意あるトランザクション承認(ミントの署名だと思ったらトークンの無制限支出権限を付与していた)、貼り付けた瞬間に送金先アドレスをすり替えるクリップボードマルウェア、汚染されたブラウザ拡張機能があります。
 
-## シードフレーズ
+目安: ポケットに現金として持ち歩ける額だけを入れておくこと。Revoke.cashのようなツールで古いトークン承認を定期的に確認・取り消ししましょう。
 
-12-24語がウォレット。デジタル保存禁止。
+## コールドウォレット: インターネットに触れない鍵
 
-**Educational only. Not financial advice.**`, zh: `持有加密货币意味着管理密钥。
+ハードウェアウォレット(Ledger、Trezor、Keystone、Coldcard)は専用デバイス内に秘密鍵を保管します。トランザクションはパソコンで準備されますが、署名はデバイス内部で行われるため、鍵がインターネット接続機器に触れることはありません。完全に乗っ取られたノートPCでも鍵を抜き出せません。
+
+価格は$60〜200。意味のある保有額に対する保険としては些細なコストです。重要な習慣は2つ。必ずメーカーから直接購入すること(中古や第三者マーケット出品の改造済みデバイスは実際に報告されている詐欺手口です)、そして受取アドレスはパソコンの画面ではなくデバイス自体の画面で確認することです。
+
+一般的な目安: 暗号資産の保有額が数ヶ月分の収入を超えたら、ハードウェア保管はもはや選択肢ではなく必須です。
+
+## マルチシグ: 単一障害点の排除
+
+マルチシグウォレットは資金移動にN個中M個の鍵を要求します。2-of-3が標準パターンです。
+
+- 鍵1: スマートフォンまたはノートPC
+- 鍵2: 自宅のハードウェアウォレット
+- 鍵3: 銀行の貸金庫または信頼できる相手に預けたハードウェアウォレット
+
+鍵を1つ失くしたり盗まれたりしても、大惨事ではなく不便で済みます。ビットコインならCasaやUnchained、イーサリアムならSafe(旧Gnosis Safe)が代表的なツールです。代償は複雑さとトランザクションの遅さなので、マルチシグは主に大きな長期保有に向いています。相続設計にも有用です。誰か一人が単独の支配権を持つことなく、相続人に鍵を分配できるからです。
+
+## シードフレーズのセキュリティ: 実際に損失が起きる場所
+
+- デジタル保存は厳禁: 写真、クラウドメモ、パスワードマネージャー、メールの下書き、すべて禁止。マルウェアが狙うのはまさにデジタルコピーです。
+- まず紙に書き、火災・水害に耐えるようステンレス鋼に刻印しましょう。
+- どんなウェブサイトやアプリにも絶対に入力しないこと。正規のソフトウェアがシードを求めるのは、あなた自身が開始した復元時だけです。「ウォレットを検証してください」というメッセージはすべて詐欺です。
+- BIP-39パスフレーズ(「25番目の単語」)も検討できますが、パスフレーズを失えば資金も永久に失われることを理解してください。
+
+## よくある間違い
+
+- 少額のテスト送金をせずに全額を一度に送る
+- アドレスポイズニングに引っかかる: 攻撃者が自分のアドレスと見た目が似たアドレスから少額を送りつけ、履歴から誤ったアドレスをコピーさせようとする
+- セットアップ中に「とりあえず」とシードフレーズをスクリーンショット
+- セルフカストディが怖いからと、すべてを一つの取引所に置く
+- 相続計画の欠如 — 安全に文書化しなければ、鍵は所有者とともに消えます
+
+## 税金に関する注意
+
+ほとんどの法域で、自分が所有するウォレット間の移動は課税対象ではありませんが、売却・スワップ・使用は通常課税対象です。ウォレット間移転の記録をきれいに残しておけば、将来の自分が取得原価を誤って申告するのを防げます。ルールは国によって大きく異なるため、デジタル資産に詳しい税務専門家に相談してください。
+
+本記事は教育目的のコンテンツであり、金融アドバイスではありません。暗号資産はボラティリティが高く、失えばほぼ回復不可能です。保有規模とセキュリティへの労力をそれに見合わせてください。`, zh: `持有加密货币意味着管理密钥。"钱包"其实并不存储币——币以账本记录的形式存在于区块链上。钱包存储的是你的私钥，即授权从你的地址支出的秘密数字。你选择的钱包决定了这把钥匙有多安全，更根本的是，决定了它究竟由谁控制。
+
+## 密钥、助记词，以及钱包的本质
+
+现代钱包会生成一组助记词——从标准化的2,048词表(BIP-39标准)中选出的12或24个单词，钱包中的每一个私钥和地址都由它数学推导而来。由此有两个结论。第一，助记词就是钱包本身: 任何拥有这些单词的人，在任何设备、任何地点，都能立即取走你的资金。第二，硬件或应用本身是可替换的; 设备丢了，助记词能恢复一切。
 
 ## 托管 vs 非托管
 
-"没有密钥就没有币。"
+- **托管** — Coinbase、Binance等交易所替你保管密钥。方便、可找回密码、使用熟悉。但在法律和实际层面，交易所只是"欠"你这些币，你并不真正持有它们。
+- **非托管** — 你自己持有密钥。完全的控制，完全的责任，出了错没有客服热线。
 
-## 热/冷
+历史解释了那句名言"不是你的密钥，就不是你的币"。Mt. Gox于2014年倒闭，约850,000枚客户BTC下落不明，债权人等了十年才获得部分偿付。FTX在2022年崩溃，客户资金缺口以数十亿美元计。托管风险不是理论——它是散户加密资产损失的头号原因。
 
-热: MetaMask等。冷: Ledger、Trezor。
+## 热钱包: 带攻击面的便利
 
-## 多签
+热钱包是联网的软件: MetaMask、Phantom、Rabby、Trust Wallet。免费、即时，并与交易所和DeFi应用无缝集成。
 
-2-of-3常见。
+代价是暴露。常见攻击途径包括: 仿冒真实dApp的钓鱼网站、恶意交易授权(你以为在签名铸造，实际授予了某代币的无限支出权限)、在粘贴瞬间替换收款地址的剪贴板木马，以及被入侵的浏览器扩展。
 
-## 助记词
+经验法则: 热钱包里只放你愿意像现金一样揣在兜里的金额。定期用Revoke.cash之类的工具检查并撤销旧的代币授权。
 
-12-24个词就是钱包。绝不数字存储。
+## 冷钱包: 从不触网的密钥
 
-**Educational only. Not financial advice.**` },
+硬件钱包——Ledger、Trezor、Keystone、Coldcard——把私钥保存在专用设备内。交易在电脑上构建，但签名在设备内部完成，因此密钥从不接触联网设备。即使笔记本电脑被完全攻陷，也无法提取密钥。
+
+价格$60–200，对有分量的持仓来说是微不足道的保险。两条守则很重要: 只从制造商直接购买，绝不买二手或第三方平台卖家的货(预先动过手脚的设备是有据可查的骗局); 收款地址务必在设备自身屏幕上核对，而不能只看电脑屏幕。
+
+常见门槛: 一旦加密资产超过几个月的收入，硬件存储就不再是可选项。
+
+## 多签: 消除单点故障
+
+多签钱包要求N把密钥中的M把才能动用资金——2-of-3是标准模式:
+
+- 密钥1: 手机或笔记本电脑
+- 密钥2: 家中的硬件钱包
+- 密钥3: 银行保管箱或可信任者处的硬件钱包
+
+丢失或被盗一把钥匙，从灾难降级为麻烦。比特币可用Casa、Unchained，以太坊可用Safe(原Gnosis Safe)。代价是复杂性和更慢的交易，因此多签主要适合大额长期持仓——也适合遗产规划，因为可以把密钥分给继承人，而任何单人都没有单方面的控制权。
+
+## 助记词安全: 大多数损失真正发生的地方
+
+- 绝不数字化存储: 不拍照、不存云笔记、不放密码管理器、不存邮件草稿。恶意软件猎取的正是数字副本。
+- 先写在纸上，再冲压或刻在不锈钢板上以防火防水。
+- 永远不要把它输入任何网站或应用。正规软件只在你主动发起恢复时才需要助记词。"验证您的钱包"之类的消息全是骗局。
+- 可考虑BIP-39口令("第25个词")，但要明白: 口令一丢，资金永久丢失。
+
+## 常见错误
+
+- 不先做小额测试转账就发送全部余额
+- 中了地址投毒的招: 攻击者从与你的地址外观相似的地址发来粉尘转账，诱使你从历史记录里复制错误地址
+- 设置时"先截个图"保存助记词
+- 因为自托管让人紧张，就把全部资产放在一家交易所
+- 忘记继承需要规划——不安全地留下文档，密钥会随主人一起消失
+
+## 关于税务
+
+在大多数司法辖区，在自己拥有的钱包之间转移加密货币不属于应税事件，但出售、兑换或消费通常属于——保留清晰的钱包间转账记录，能避免将来错报成本基础。各国规则差异极大，请咨询熟悉数字资产的税务专业人士。
+
+本文为教育性内容，不构成金融建议。加密资产波动剧烈且丢失后基本无法找回——请据此设定你的持仓规模和安全投入。` },
 		date: '2026-04-28', category: 'crypto'
 	},
 	{
 		slug: 'bitcoin-halving-2028-impact',
 		title: { en: 'Bitcoin Halving 2028: Expected Impact', ko: '2028년 비트코인 반감기: 예상 영향', ja: '2028年ビットコイン半減期: 予想される影響', zh: '2028年比特币减半: 预期影响' },
 		description: { en: 'How the upcoming halving could affect Bitcoin supply, miner economics, and price.', ko: '다가오는 반감기가 비트코인 공급, 채굴자 경제, 가격에 미칠 영향.', ja: '次の半減期がビットコイン供給、マイナー経済、価格に与える影響。', zh: '即将到来的减半如何影响比特币供应、矿工经济和价格。' },
-		content: { en: `Bitcoin halvings happen roughly every four years, cutting block rewards in half. The next is scheduled for 2028 at block 1,050,000.
+		content: { en: `Roughly every four years — every 210,000 blocks — Bitcoin's protocol cuts the reward paid to miners in half. The next halving is scheduled for block 1,050,000, expected in 2028. It is the most predictable event in crypto, and paradoxically one of the most speculated about. Here is what the mechanism actually does, what history shows, and why 2028 may not rhyme with the past.
 
-## What Halving Does
+## The Supply Mechanics
 
-Block reward changes:
-- 2009-2012: 50 BTC
-- 2012-2016: 25 BTC
-- 2016-2020: 12.5 BTC
-- 2020-2024: 6.25 BTC
-- 2024-2028: 3.125 BTC
-- 2028-2032: 1.5625 BTC (projected)
+Block reward by era:
 
-The supply schedule is hard-coded; only roughly 21 million BTC will ever exist.
+- 2009–2012: 50 BTC per block
+- 2012–2016: 25 BTC
+- 2016–2020: 12.5 BTC
+- 2020–2024: 6.25 BTC
+- 2024–2028: 3.125 BTC
+- 2028–2032: 1.5625 BTC (projected)
 
-## Effect on Miners
+Because the reward halves geometrically, total issuance converges toward a hard cap of roughly 21 million BTC, expected around the year 2140. The near-term arithmetic is more tangible: at 3.125 BTC per block and about 144 blocks per day, roughly 450 new BTC enter circulation daily. After 2028 that drops to about 225 BTC per day. Annualized issuance falls from roughly 0.85% of supply to about 0.4% — lower than gold's historical supply growth of 1.5–2% per year.
 
-Mining revenue per block drops by half overnight. Miners with high electricity costs become unprofitable.
+## What History Shows — With Actual Numbers
 
-## Historic Price Patterns
+- **2012 halving**: BTC traded near $12; within a year it passed $1,000.
+- **2016 halving**: around $650; by December 2017 it touched roughly $20,000.
+- **2020 halving**: about $8,700; by November 2021 it reached about $69,000.
+- **2024 halving**: around $64,000, with new all-time highs following within a year.
 
-After previous halvings, BTC reached new all-time highs within 12-18 months. This is correlation, not causation.
+Two honest caveats. First, three or four data points cannot establish a statistical pattern, and each cycle's peak multiple has shrunk — from roughly 90x (2012 cycle) to about 30x (2016) to about 8x (2020). Second, the halving date is known years in advance; in an even moderately efficient market, a fully anticipated supply change should already be priced in. The historical rallies coincided with broader adoption waves and loose monetary conditions, so attributing them to the halving alone is correlation, not proven causation.
 
-## What Could Be Different in 2028
+## Miner Economics: The Real Immediate Impact
 
-- **Spot ETF demand** — institutional flow now mediates supply shocks
-- **Lightning Network maturity**
-- **State-level holdings**
-- **Macro environment**
+The unambiguous effect is on miners: revenue per block halves overnight while electricity and hardware costs do not. If a miner's all-in cost of production is $40,000 per BTC before the halving, it is roughly $80,000 after, all else equal.
 
-## Miner Fee Dynamics
+What follows is a shakeout. High-cost miners capitulate and switch off; the network hashrate dips; and Bitcoin's difficulty adjustment — recalculated every 2,016 blocks, about two weeks — lowers the target so remaining miners earn more per unit of hash. This self-balancing loop is why previous halvings cut mining revenue in half without ever interrupting the network. The lasting result is consolidation: each cycle pushes mining further toward operators with sub-$0.05/kWh power and efficient latest-generation hardware.
 
-Block subsidies fall toward zero over time; transaction fees must eventually fund security.
+## The Fee Question: Who Pays for Security Later?
 
-## Risks
+The block subsidy is Bitcoin's security budget, and it trends toward zero by design. Transaction fees must eventually replace it. Historically fees have contributed anywhere from 1–2% of miner revenue in quiet periods to brief spikes above 40% (late 2017, and the 2023 Ordinals inscription wave). Whether organic fee demand can sustain security at a subsidy of 1.5625 BTC and below is one of the genuinely open questions in Bitcoin economics — worth watching more than any price prediction.
 
-- Mining centralization concerns post-halving
-- Regulatory shifts in major jurisdictions
-- Quantum computing threat (long-term)
+## Why 2028 Could Be Different
 
-**Educational only. Not financial advice. Cryptocurrency is highly volatile and speculative.**`, ko: `비트코인 반감기는 약 4년마다.
+- **Spot ETFs**: since January 2024, US spot Bitcoin ETFs have accumulated holdings measured in hundreds of thousands of BTC. Institutional flows now dwarf the marginal change in miner selling pressure — the halving reduces daily new supply by 225 BTC, roughly $25 million at $110,000 per coin, a rounding error next to ETF flow swings.
+- **A maturing derivatives market** makes it easier for anticipated events to be arbitraged away.
+- **Sovereign and corporate treasuries** holding BTC change the ownership structure.
+- **Macro conditions** — real interest rates and dollar liquidity — historically explain much of what halving narratives claim.
 
-## 블록 보상
+## Risks to Keep in View
 
-- 2024-2028: 3.125 BTC
-- 2028-2032: 1.5625 BTC (예상)
+- Post-halving mining consolidation raises long-run centralization concerns
+- Regulatory shifts in major jurisdictions can dominate any supply effect
+- Bitcoin's historical drawdowns of 50–80% have happened in every cycle, halving or not
 
-21M BTC만 존재.
+## Practical Takeaways
 
-## 채굴자 영향
+If you believe in Bitcoin long term, a systematic approach such as dollar-cost averaging sidesteps the temptation to time a widely known event. Position sizing matters more than timing: an asset that can drop 70% should only occupy the share of your portfolio you could watch fall that far without selling.
 
-블록당 수익이 하룻밤에 절반.
+Common mistakes around halvings: buying with leverage just before the event and getting shaken out by ordinary volatility; assuming past cycle multiples will repeat even as they demonstrably shrink; and equating miner stocks with Bitcoin itself — miners are leveraged, higher-beta bets on the same event, with equity dilution and operational risk layered on top.
 
-## 과거 가격 패턴
+Tax note: in many jurisdictions, mining rewards are taxed as ordinary income at receipt, and later disposals trigger capital gains on the difference — rules vary widely, so consult a tax professional.
 
-이전 반감기 후 12-18개월 내 신고가.
+This article is educational content, not financial advice. Bitcoin remains a highly volatile, speculative asset; never invest money you cannot afford to lose.`, ko: `비트코인 프로토콜은 약 4년마다, 정확히는 210,000블록마다 채굴자에게 지급되는 보상을 절반으로 줄입니다. 다음 반감기는 블록 1,050,000에서 예정되어 있으며 2028년으로 예상됩니다. 암호화폐에서 가장 예측 가능한 이벤트이면서, 역설적으로 가장 많은 투기적 전망의 대상이기도 합니다. 이 메커니즘이 실제로 하는 일, 역사가 보여주는 것, 그리고 2028년이 과거와 다를 수 있는 이유를 정리합니다.
 
-## 2028년 다를 점
+## 공급 메커니즘
 
-현물 ETF 수요, Lightning 성숙, 국가 보유, 거시 환경.
+시대별 블록 보상:
 
-**Educational only. Not financial advice.**`, ja: `ビットコイン半減期は約4年ごと。
+- 2009–2012: 블록당 50 BTC
+- 2012–2016: 25 BTC
+- 2016–2020: 12.5 BTC
+- 2020–2024: 6.25 BTC
+- 2024–2028: 3.125 BTC
+- 2028–2032: 1.5625 BTC (예상)
 
-## ブロック報酬
+보상이 기하급수적으로 반감되기 때문에 총 발행량은 약 2,100만 BTC라는 상한에 수렴하며, 그 시점은 2140년경으로 예상됩니다. 가까운 시기의 산수가 더 와닿습니다. 블록당 3.125 BTC, 하루 약 144블록이면 매일 약 450 BTC가 새로 유통됩니다. 2028년 이후에는 하루 약 225 BTC로 줄어듭니다. 연간 발행률은 공급량의 약 0.85%에서 약 0.4%로 떨어지는데, 이는 금의 역사적 공급 증가율(연 1.5~2%)보다 낮습니다.
 
-- 2024-2028: 3.125 BTC
-- 2028-2032: 1.5625 BTC (予想)
+## 역사가 보여주는 것 — 실제 수치와 함께
 
-## マイナーへの影響
+- **2012년 반감기**: BTC는 $12 부근에서 거래되다가 1년 안에 $1,000을 돌파
+- **2016년 반감기**: 약 $650에서 2017년 12월 약 $20,000 터치
+- **2020년 반감기**: 약 $8,700에서 2021년 11월 약 $69,000 도달
+- **2024년 반감기**: 약 $64,000, 1년 내 신고가 경신
 
-ブロックあたり収益が半減。
+솔직한 단서 두 가지. 첫째, 서너 개의 데이터 포인트로는 통계적 패턴을 입증할 수 없으며, 사이클마다 고점 배수는 축소되어 왔습니다. 2012 사이클 약 90배 → 2016 약 30배 → 2020 약 8배. 둘째, 반감기 날짜는 수년 전부터 알려져 있습니다. 어느 정도라도 효율적인 시장이라면 완전히 예고된 공급 변화는 이미 가격에 반영되어 있어야 합니다. 과거의 랠리는 광범위한 채택 물결 및 완화적 통화 환경과 겹쳤으므로, 반감기만의 효과로 돌리는 것은 인과가 아닌 상관관계입니다.
 
-## 過去のパターン
+## 채굴자 경제학: 진짜 즉각적인 영향
 
-過去半減期後12-18ヶ月以内に新高値。
+명백한 효과는 채굴자에게 나타납니다. 블록당 수익이 하룻밤 새 절반이 되는데 전기료와 하드웨어 비용은 그대로입니다. 반감기 전 채굴자의 BTC당 총생산원가가 $40,000이었다면, 다른 조건이 같을 때 반감기 후에는 약 $80,000이 됩니다.
 
-**Educational only. Not financial advice.**`, zh: `比特币减半大约每四年。
+그다음은 구조조정입니다. 고비용 채굴자는 항복하고 장비를 끄고, 네트워크 해시레이트가 하락하며, 2,016블록(약 2주)마다 재계산되는 비트코인의 난이도 조정이 목표를 낮춰 남은 채굴자들의 해시당 수익을 높입니다. 이 자기 균형 루프 덕분에 과거의 반감기들은 채굴 수익을 절반으로 줄이면서도 네트워크를 한 번도 중단시키지 않았습니다. 지속적인 결과는 통합입니다. 사이클마다 채굴은 kWh당 $0.05 미만의 전력과 최신 고효율 장비를 갖춘 사업자 쪽으로 쏠립니다.
 
-## 区块奖励
+## 수수료 문제: 나중에 보안 비용은 누가 내나
 
-- 2024-2028: 3.125 BTC
-- 2028-2032: 1.5625 BTC (预计)
+블록 보조금은 비트코인의 보안 예산이며, 설계상 0을 향해 갑니다. 결국 트랜잭션 수수료가 이를 대체해야 합니다. 역사적으로 수수료는 한산한 시기 채굴 수익의 1~2%에서, 2017년 말과 2023년 오디널스(Ordinals) 인스크립션 열풍 때처럼 일시적으로 40%를 넘기도 했습니다. 보조금이 1.5625 BTC 이하로 내려간 상태에서 자연적인 수수료 수요가 보안을 지탱할 수 있을지는 비트코인 경제학에서 진짜로 열려 있는 질문 중 하나이며, 어떤 가격 전망보다 지켜볼 가치가 있습니다.
 
-## 对矿工的影响
+## 2028년이 다를 수 있는 이유
 
-每区块收入一夜减半。
+- **현물 ETF**: 2024년 1월 이후 미국 현물 비트코인 ETF들은 수십만 BTC 단위의 보유고를 쌓았습니다. 기관 자금 흐름이 채굴자 매도 압력의 한계 변화를 압도합니다. 반감기는 일일 신규 공급을 225 BTC 줄이는데, 개당 $110,000 기준 약 $2,500만으로 ETF 자금 흐름의 변동폭에 비하면 오차 수준입니다.
+- **성숙한 파생상품 시장**은 예고된 이벤트가 차익거래로 소멸되기 쉽게 만듭니다.
+- **국가·기업 트레저리**의 BTC 보유는 소유 구조를 바꿉니다.
+- **거시 환경** — 실질 금리와 달러 유동성 — 이 반감기 서사가 주장하는 것의 상당 부분을 역사적으로 설명합니다.
 
-## 历史模式
+## 유의할 위험
 
-过去减半后12-18个月内创新高。
+- 반감기 후 채굴 통합은 장기 중앙화 우려를 키웁니다
+- 주요국의 규제 변화는 어떤 공급 효과도 압도할 수 있습니다
+- 비트코인의 50~80% 하락은 반감기와 무관하게 모든 사이클에서 발생했습니다
 
-**Educational only. Not financial advice.**` },
+## 실용적 시사점
+
+비트코인을 장기적으로 믿는다면, 널리 알려진 이벤트의 타이밍을 재려는 유혹을 피하는 적립식(DCA) 같은 체계적 접근이 낫습니다. 타이밍보다 포지션 크기가 중요합니다. 70% 하락할 수 있는 자산은, 그만큼 떨어져도 팔지 않고 버틸 수 있는 비중만큼만 담아야 합니다.
+
+반감기 관련 흔한 실수들: 이벤트 직전 레버리지로 매수했다가 평범한 변동성에 털려 나가는 것, 사이클 배수가 명백히 축소되고 있는데도 과거 배수의 반복을 가정하는 것, 채굴주를 비트코인 자체와 동일시하는 것 — 채굴 기업은 같은 이벤트에 대한 레버리지가 걸린 고베타 베팅이며, 그 위에 지분 희석과 운영 리스크가 얹혀 있습니다.
+
+세금 참고: 많은 국가에서 채굴 보상은 수령 시점에 일반 소득으로 과세되고, 이후 처분 시 차익에 양도소득세가 붙습니다. 규정이 크게 다르므로 세무 전문가와 상담하세요.
+
+이 글은 교육 목적의 콘텐츠이며 금융 자문이 아닙니다. 비트코인은 여전히 변동성이 매우 크고 투기적인 자산입니다. 잃어도 되는 돈 이상은 절대 투자하지 마세요.`, ja: `ビットコインのプロトコルは約4年ごと、正確には210,000ブロックごとに、マイナーへの報酬を半分に減らします。次の半減期はブロック1,050,000で予定され、2028年と見込まれています。暗号資産の中で最も予測可能なイベントでありながら、逆説的に最も憶測を呼ぶイベントでもあります。この仕組みが実際に何をするのか、歴史は何を示しているのか、そして2028年が過去と異なり得る理由を整理します。
+
+## 供給の仕組み
+
+時代別のブロック報酬:
+
+- 2009–2012: 1ブロックあたり50 BTC
+- 2012–2016: 25 BTC
+- 2016–2020: 12.5 BTC
+- 2020–2024: 6.25 BTC
+- 2024–2028: 3.125 BTC
+- 2028–2032: 1.5625 BTC (予測)
+
+報酬が幾何級数的に半減するため、総発行量は約2,100万BTCという上限に収束し、その到達は2140年頃と予想されます。近い将来の計算の方が実感しやすいでしょう。1ブロック3.125 BTC、1日約144ブロックなら、毎日約450 BTCが新規流通します。2028年以降は1日約225 BTCに減少。年間発行率は供給量の約0.85%から約0.4%へ低下し、金の歴史的な供給増加率(年1.5〜2%)を下回ります。
+
+## 歴史が示すもの — 実際の数字とともに
+
+- **2012年半減期**: BTCは$12前後で取引され、1年以内に$1,000を突破
+- **2016年半減期**: 約$650から、2017年12月に約$20,000に到達
+- **2020年半減期**: 約$8,700から、2021年11月に約$69,000に到達
+- **2024年半減期**: 約$64,000、1年以内に史上最高値を更新
+
+正直な注意点が2つあります。第一に、3〜4個のデータポイントでは統計的パターンを立証できず、各サイクルのピーク倍率は縮小し続けています。2012年サイクルの約90倍 → 2016年の約30倍 → 2020年の約8倍。第二に、半減期の日付は何年も前から知られています。ある程度効率的な市場であれば、完全に予告された供給変化はすでに価格に織り込まれているはずです。過去の上昇相場は幅広い普及の波と緩和的な金融環境に重なっており、半減期だけに帰するのは因果ではなく相関です。
+
+## マイナー経済学: 本当に即座に起きること
+
+明確な影響を受けるのはマイナーです。ブロックあたりの収入が一夜にして半分になる一方、電気代とハードウェアのコストはそのままです。半減期前のマイナーの全込み生産コストがBTCあたり$40,000だったなら、他の条件が同じであれば半減期後は約$80,000になります。
+
+その後に起きるのは淘汰です。高コストのマイナーは降参して装置を止め、ネットワークのハッシュレートが低下し、2,016ブロック(約2週間)ごとに再計算されるビットコインの難易度調整がターゲットを下げ、残ったマイナーのハッシュあたり収益を高めます。この自己均衡ループのおかげで、過去の半減期はマイニング収入を半減させながらもネットワークを一度も止めませんでした。長期的な帰結は集約です。サイクルごとに、マイニングはkWhあたり$0.05未満の電力と最新の高効率ハードウェアを持つ事業者へと寄っていきます。
+
+## 手数料問題: 将来のセキュリティは誰が払うのか
+
+ブロック補助金はビットコインのセキュリティ予算であり、設計上ゼロに向かいます。最終的にはトランザクション手数料がそれを置き換えなければなりません。歴史的に手数料は、静かな時期にはマイナー収入の1〜2%、2017年末や2023年のOrdinalsインスクリプションブームのような時期には一時的に40%超まで振れました。補助金が1.5625 BTC以下となった状態で、自然な手数料需要がセキュリティを支えられるのか。これはビットコイン経済学で本当に未解決の問いの一つであり、どんな価格予想よりも注視する価値があります。
+
+## 2028年が違うかもしれない理由
+
+- **現物ETF**: 2024年1月以降、米国の現物ビットコインETFは数十万BTC規模の保有を積み上げました。機関投資家の資金フローは、マイナー売り圧力の限界的変化を圧倒します。半減期は日次新規供給を225 BTC減らしますが、1枚$110,000なら約$2,500万で、ETFフローの変動幅に比べれば誤差の範囲です。
+- **成熟したデリバティブ市場**は、予告されたイベントが裁定で消えやすくします。
+- **国家・企業のBTC保有**は所有構造を変えます。
+- **マクロ環境** — 実質金利とドル流動性 — が、半減期の物語が主張することの多くを歴史的に説明します。
+
+## 念頭に置くべきリスク
+
+- 半減期後のマイニング集約は長期的な中央集権化の懸念を高める
+- 主要国の規制変更はいかなる供給効果をも圧倒し得る
+- ビットコインの50〜80%の下落は、半減期の有無にかかわらずすべてのサイクルで起きてきた
+
+## 実践的なポイント
+
+ビットコインを長期的に信じるなら、広く知られたイベントのタイミングを計る誘惑を避けられるドルコスト平均法のような体系的アプローチが賢明です。タイミングよりポジションサイズが重要です。70%下落し得る資産は、それだけ下がっても売らずに見ていられる割合だけをポートフォリオに入れるべきです。
+
+半減期にまつわるよくある間違い: イベント直前にレバレッジで買い、通常のボラティリティで振り落とされること。サイクルごとの倍率が明らかに縮小しているのに過去の倍率の再現を前提にすること。そしてマイニング株をビットコイン自体と同一視すること — マイナー企業は同じイベントに対するレバレッジのかかった高ベータの賭けであり、その上に株式の希薄化と経営リスクが重なっています。
+
+税金の注意: 多くの法域で、マイニング報酬は受取時に通常所得として課税され、その後の処分時には差額にキャピタルゲイン課税が発生します。ルールは大きく異なるため、税務専門家に相談してください。
+
+本記事は教育目的のコンテンツであり、金融アドバイスではありません。ビットコインは依然として非常にボラティリティが高く投機的な資産です。失っても構わないお金以上は決して投資しないでください。`, zh: `大约每四年——准确说每210,000个区块——比特币协议将支付给矿工的奖励减半。下一次减半定于区块1,050,000，预计在2028年。这是加密世界中最可预测的事件，却也吊诡地成为被炒作最多的事件之一。本文梳理这一机制的实际作用、历史数据的启示，以及2028年为何可能不再重复过去。
+
+## 供应机制
+
+各时代的区块奖励:
+
+- 2009–2012: 每区块50 BTC
+- 2012–2016: 25 BTC
+- 2016–2020: 12.5 BTC
+- 2020–2024: 6.25 BTC
+- 2024–2028: 3.125 BTC
+- 2028–2032: 1.5625 BTC (预计)
+
+由于奖励按几何级数减半，总发行量收敛于约2,100万BTC的硬顶，预计在2140年左右达到。近期的算术更直观: 每区块3.125 BTC、每天约144个区块，意味着每天约450枚新BTC进入流通。2028年之后降为每天约225枚。年化发行率从约占供应量的0.85%降至约0.4%——低于黄金1.5–2%的历史年供应增速。
+
+## 历史数据怎么说——附真实数字
+
+- **2012年减半**: BTC约$12，一年内突破$1,000
+- **2016年减半**: 约$650，2017年12月触及约$20,000
+- **2020年减半**: 约$8,700，2021年11月达到约$69,000
+- **2024年减半**: 约$64,000，一年内再创历史新高
+
+两点诚实的提醒。第一，三四个数据点无法构成统计规律，而且每轮周期的峰值倍数在递减: 2012年周期约90倍 → 2016年约30倍 → 2020年约8倍。第二，减半日期提前数年就已公开; 在哪怕只是中等有效的市场中，完全被预期的供应变化理应已被计入价格。历史上的大涨与更广泛的采用浪潮和宽松货币环境重叠，把涨幅只归功于减半，是相关性而非已证实的因果。
+
+## 矿工经济学: 真正立竿见影的影响
+
+最明确的影响落在矿工身上: 每区块收入一夜之间减半，而电费和硬件成本不变。若减半前某矿工的全成本为每枚BTC $40,000，其他条件不变时减半后约为$80,000。
+
+随之而来的是洗牌。高成本矿工投降关机; 全网算力下滑; 比特币的难度调整——每2,016个区块(约两周)重新计算——降低目标难度，让留下的矿工每单位算力赚得更多。正是这个自我平衡回路，使得历次减半在把挖矿收入砍半的同时从未中断过网络。持久的结果是整合: 每轮周期都把挖矿进一步推向拥有低于$0.05/kWh电力和最新高效机器的运营商。
+
+## 手续费之问: 将来谁为安全买单?
+
+区块补贴是比特币的安全预算，而它按设计趋向于零。交易手续费最终必须接棒。历史上，手续费在平静期约占矿工收入的1–2%，在2017年末和2023年Ordinals铭文热潮等时期曾短暂飙升至40%以上。当补贴降至1.5625 BTC以下时，自然的手续费需求能否撑起网络安全，是比特币经济学中真正悬而未决的问题之一——比任何价格预测都更值得关注。
+
+## 2028年可能不同的原因
+
+- **现货ETF**: 自2024年1月以来，美国现货比特币ETF已累计持有数十万枚BTC。机构资金流如今远超矿工抛压的边际变化——减半使每日新增供应减少225 BTC，按每枚$110,000计约$2,500万，与ETF资金流的波动相比只是零头。
+- **日趋成熟的衍生品市场**让被预期的事件更容易被套利抹平。
+- **主权和企业金库**持有BTC改变了所有权结构。
+- **宏观环境**——实际利率与美元流动性——在历史上解释了减半叙事所宣称的大部分内容。
+
+## 需要留意的风险
+
+- 减半后的挖矿整合加剧长期中心化担忧
+- 主要司法辖区的监管变化可能压倒任何供应效应
+- 比特币50–80%的回撤在每个周期都发生过，与减半无关
+
+## 实用要点
+
+如果你长期看好比特币，定投(DCA)之类的系统化方法可以避开"择时一个众所周知事件"的诱惑。仓位规模比时机更重要: 一个可能下跌70%的资产，只应占据你看着它跌那么多也不会卖的仓位比例。
+
+围绕减半的常见错误: 在事件前夕加杠杆买入，结果被寻常的波动震出局; 明知每轮周期的倍数在递减，仍假设过去的倍数会重演; 把矿股等同于比特币本身——矿企是对同一事件加了杠杆的高贝塔押注，上面还叠着股权稀释和运营风险。
+
+税务提示: 在许多司法辖区，挖矿奖励在收到时按普通收入纳税，之后处置时对差价征收资本利得税——各地规则差异很大，请咨询税务专业人士。
+
+本文为教育性内容，不构成金融建议。比特币仍是高波动、高投机性资产; 切勿投入你输不起的钱。` },
 		date: '2026-04-27', category: 'crypto'
 	},
 	{
 		slug: 'defi-yield-farming-risks',
 		title: { en: 'DeFi Yield Farming: Understanding the Risks', ko: 'DeFi 일드 파밍: 위험 이해', ja: 'DeFiイールドファーミング: リスクを理解する', zh: 'DeFi收益挖矿: 了解风险' },
 		description: { en: 'High APYs come with smart contract, liquidity, and impermanent loss risks.', ko: '높은 APY는 스마트 컨트랙트, 유동성, 비영구 손실 위험을 동반합니다.', ja: '高いAPYはスマートコントラクト、流動性、インパーマネントロスのリスクを伴います。', zh: '高APY伴随智能合约、流动性和无常损失风险。' },
-		content: { en: `Yield farming offers headline returns of 20%, 100%, sometimes more. The returns are real for some; so are the risks that wipe out principal.
+		content: { en: `Yield farming advertises headline returns of 20%, 100%, sometimes far more. Some of those returns are real and sustainable; many are not; and several categories of risk can erase the principal entirely. Before chasing an APY, it pays to understand exactly where the yield comes from and what can go wrong at each layer.
 
-## Sources of Yield
+## Where the Yield Actually Comes From
 
-- **Lending** — Aave, Compound: borrowers pay interest
-- **Liquidity provision** — Uniswap, Curve: traders pay swap fees
-- **Staking** — protocol pays for securing the network
-- **Liquidity mining** — protocol prints its token to bootstrap usage
+- **Lending** — on Aave or Compound, borrowers pay interest to lenders. Sustainable, usually single-digit on stablecoins.
+- **Liquidity provision** — on Uniswap or Curve, traders pay swap fees (typically 0.05%, 0.30%, or 1% per trade depending on the pool tier) to liquidity providers.
+- **Staking** — the protocol pays you for helping secure the network, funded by issuance and fees.
+- **Liquidity mining** — the protocol prints its own governance token and hands it out to attract deposits.
 
-The first three are sustainable; the fourth is essentially marketing.
+The first three are payment for a service. The fourth is marketing expenditure, and it drives most eye-popping APYs. A critical distinction follows: nominal versus real yield. A farm paying 100% APY in a token that falls 95% delivers a deeply negative real return. Always ask: paid in what, and who is buying that token?
 
 ## Smart Contract Risk
 
-Every contract is software. Bugs result in total loss:
+Every protocol is software holding money, and bugs are catastrophic, not cosmetic:
 
-- Ronin Bridge: $625M
-- Wormhole: $325M
-- Beanstalk: $182M
+- Ronin Bridge (2022): about $625 million
+- Wormhole (2022): about $325 million
+- Euler Finance (2023): about $197 million
+- Beanstalk (2022): about $182 million
 
-Audits reduce but do not eliminate risk.
+Audits reduce risk but guarantee nothing — several of the protocols above were audited. Time in production with large balances is the more honest signal.
 
-## Impermanent Loss
+## Impermanent Loss: The Formula
 
-When providing liquidity to a pool, your position rebalances as prices move. If one token rises sharply, you end up holding less of it than if you had simply held both tokens.
+Providing liquidity to a standard two-asset pool means your position is automatically rebalanced as prices move. Relative to simply holding the two assets, the loss is:
 
-## Bridge and Rollup Risk
+IL = 2 × sqrt(r) / (1 + r) − 1, where r is the price ratio change.
 
-Cross-chain yields often require bridging assets. Bridges are the highest-risk component in DeFi by historical exploit volume.
+- One asset moves 2x: IL is about 5.7%
+- 4x: about 20%
+- 10x: about 42.5%
 
-## Rug Pulls
+Worked example: you deposit $500 of ETH and $500 of USDC. ETH doubles. Holding would give you $1,500; the LP position is worth about $1,414 (before fees). The 5.7% gap is impermanent loss — "impermanent" only if prices revert. Fees must out-earn this gap for LPing to beat holding, which is why volatile-pair pools with thin volume are quietly unprofitable.
 
-New protocols on new chains advertising 1000% APY are usually deliberate exit scams.
+## Oracles, Bridges, and Flash Loans
 
-## Stablecoin De-pegs
+- **Bridge risk**: cross-chain farming requires bridges, historically the most exploited component in DeFi (see Ronin and Wormhole above).
+- **Oracle manipulation**: protocols that price collateral from a thin market can be gamed — the Mango Markets exploit (2022) extracted about $114 million by pumping a thin token and borrowing against it.
+- **Flash loans** let attackers wield enormous temporary capital, amplifying any small design flaw.
 
-Yield on USDC or DAI assumes the peg holds. Algorithmic stablecoins (UST in 2022) have collapsed entirely.
+## Stablecoins Can Break
 
-## Sensible Approach
+Stablecoin yield assumes the peg holds. TerraUSD (UST) collapsed in May 2022, erasing tens of billions of dollars, with LUNA falling from around $80 to fractions of a cent within days. Even USDC — fully reserved — briefly traded near $0.87 in March 2023 during the Silicon Valley Bank scare. Algorithmic stablecoins carry existential risk; even collateralized ones carry banking and custody risk.
 
-Limit DeFi exposure to capital you can fully lose. Stick to established protocols.
+## Rug Pulls and Tokenomics Traps
 
-**Educational only. Not financial advice. DeFi involves total loss risk.**`, ko: `일드 파밍은 20%, 100% 수익률을 제공하지만 위험도 진짜.
+A brand-new protocol on a new chain advertising 1,000% APY is, statistically, an exit scam or a token printing scheme that collapses under its own emissions. Red flags: anonymous teams, unaudited forks of other protocols, admin keys that can drain the treasury, and yield paid exclusively in the protocol's own token.
 
-## 수익 원천
+## Costs That Eat Small Positions
 
-- 대출 (Aave, Compound)
-- 유동성 공급 (Uniswap, Curve)
-- 스테이킹
-- 유동성 마이닝
+Entering and exiting a farm might involve several transactions — swaps, approvals, deposits, staking. On Ethereum mainnet during busy periods, that can total $50–100 in gas. On a $500 position, you need 10–20% yield just to break even; the same strategy on a low-fee L2 or with a $50,000 position has completely different economics. Compute round-trip cost as a percentage of position size before entering.
+
+## A Sensible Checklist
+
+- Prefer protocols with multi-year track records and large audited deposits
+- Understand the yield source; treat emissions-driven APY as temporary
+- Model impermanent loss against realistic price scenarios
+- Keep DeFi exposure to capital you can lose entirely, and diversify across protocols and chains
+- Use a dedicated wallet; revoke stale approvals
+
+A few mistakes worth naming explicitly: treating a screenshot of an APY dashboard as due diligence; concentrating in one protocol because it has been fine so far; farming with money you will need by a deadline and then meeting a withdrawal queue; and holding reward tokens that keep depreciating instead of converting them on a schedule.
+
+## Tax Treatment, Briefly
+
+In many jurisdictions, farming rewards are ordinary income at the moment of receipt, and every swap — including entering and exiting LP positions — can be a taxable disposal. Record-keeping across hundreds of small transactions is genuinely hard; specialized software helps, and a crypto-literate tax professional is strongly advisable.
+
+This article is educational content, not financial advice. DeFi combines market risk with software risk and carries a realistic possibility of total loss.`, ko: `일드 파밍은 20%, 100%, 때로는 그 이상의 수익률을 내세웁니다. 그중 일부는 실재하고 지속 가능하지만 다수는 그렇지 않으며, 몇몇 유형의 위험은 원금을 통째로 지울 수 있습니다. APY를 좇기 전에, 수익이 정확히 어디서 나오는지와 각 계층에서 무엇이 잘못될 수 있는지 이해하는 것이 남는 장사입니다.
+
+## 수익은 실제로 어디서 나오나
+
+- **대출** — Aave, Compound에서 차입자가 대출자에게 이자를 지급. 지속 가능하며 스테이블코인 기준 대개 한 자릿수.
+- **유동성 공급** — Uniswap, Curve에서 트레이더가 스왑 수수료(풀 등급에 따라 거래당 보통 0.05%, 0.30%, 1%)를 유동성 공급자에게 지급.
+- **스테이킹** — 네트워크 보안에 기여한 대가를 프로토콜이 발행량과 수수료로 지급.
+- **유동성 마이닝** — 프로토콜이 자체 거버넌스 토큰을 찍어 예치를 유인.
+
+앞의 셋은 서비스에 대한 대가입니다. 넷째는 마케팅 지출이며, 눈이 튀어나올 APY 대부분의 원천입니다. 여기서 결정적 구분이 나옵니다. 명목 수익률 대 실질 수익률. 95% 하락하는 토큰으로 100% APY를 주는 팜의 실질 수익률은 깊은 마이너스입니다. 항상 물으세요. 무엇으로 지급되며, 그 토큰은 누가 사주고 있는가?
 
 ## 스마트 컨트랙트 위험
 
-Ronin $625M, Wormhole $325M, Beanstalk $182M.
+모든 프로토콜은 돈을 쥐고 있는 소프트웨어이며, 버그는 겉치레가 아니라 재앙입니다.
 
-## 비영구 손실
+- Ronin Bridge (2022): 약 $6억 2,500만
+- Wormhole (2022): 약 $3억 2,500만
+- Euler Finance (2023): 약 $1억 9,700만
+- Beanstalk (2022): 약 $1억 8,200만
 
-가격 변동 시 재균형, 한 토큰 급등하면 손실.
+감사는 위험을 줄여줄 뿐 아무것도 보장하지 않습니다. 위 프로토콜 중 여럿은 감사를 받았습니다. 큰 잔고를 얹은 채 오래 운영된 실적이 더 정직한 신호입니다.
 
-## 브리지 위험
+## 비영구 손실: 공식
 
-역사적 익스플로잇 규모로 가장 고위험.
+표준 2자산 풀에 유동성을 공급하면 가격이 움직일 때 포지션이 자동으로 재조정됩니다. 두 자산을 단순 보유했을 때 대비 손실은 다음과 같습니다.
 
-## 합리적 접근
+IL = 2 × sqrt(r) / (1 + r) − 1, 여기서 r은 가격 비율의 변화입니다.
 
-완전히 잃을 수 있는 자본만.
+- 한 자산이 2배 이동: IL 약 5.7%
+- 4배: 약 20%
+- 10배: 약 42.5%
 
-**Educational only. Not financial advice.**`, ja: `イールドファーミングは20%、100%リターンを提供しますがリスクも本物。
+계산 예시: ETH $500과 USDC $500을 예치했는데 ETH가 2배가 됐다고 합시다. 그냥 들고 있었다면 $1,500인데, LP 포지션 가치는 (수수료 제외) 약 $1,414입니다. 그 5.7% 격차가 비영구 손실이며, 가격이 되돌아와야만 "비영구"입니다. LP가 단순 보유를 이기려면 수수료 수입이 이 격차를 넘어야 하므로, 거래량이 얇은 변동성 페어 풀은 조용히 손해를 봅니다.
 
-## 利回り源
+## 오라클, 브리지, 플래시론
 
-- 貸付 (Aave)
-- 流動性提供 (Uniswap)
-- ステーキング
+- **브리지 위험**: 크로스체인 파밍에는 브리지가 필요한데, 역사적으로 DeFi에서 가장 많이 털린 구성 요소입니다(위의 Ronin, Wormhole 참조).
+- **오라클 조작**: 얇은 시장에서 담보 가격을 가져오는 프로토콜은 조작될 수 있습니다. Mango Markets 익스플로잇(2022)은 유동성 얇은 토큰을 띄운 뒤 이를 담보로 차입해 약 $1억 1,400만을 빼갔습니다.
+- **플래시론**은 공격자에게 막대한 일시 자본을 쥐여 주어 작은 설계 결함도 증폭시킵니다.
+
+## 스테이블코인도 깨진다
+
+스테이블코인 수익률은 페그 유지를 전제합니다. TerraUSD(UST)는 2022년 5월 붕괴해 수백억 달러를 지웠고, LUNA는 며칠 만에 약 $80에서 1센트 미만으로 떨어졌습니다. 완전 준비금을 갖춘 USDC조차 2023년 3월 실리콘밸리은행 사태 때 잠시 $0.87 부근에서 거래됐습니다. 알고리즘 스테이블코인은 존립 자체의 위험을, 담보형조차 은행·수탁 위험을 안고 있습니다.
+
+## 러그풀과 토크노믹스 함정
+
+새 체인 위의 신생 프로토콜이 1,000% APY를 내세운다면 통계적으로 출구 사기이거나, 자체 발행량에 눌려 무너지는 토큰 찍어내기 구조입니다. 위험 신호: 익명 팀, 감사받지 않은 타 프로토콜 포크, 금고를 비울 수 있는 관리자 키, 오로지 자체 토큰으로만 지급되는 수익률.
+
+## 소액 포지션을 갉아먹는 비용
+
+팜 진입과 청산에는 스왑, 승인, 예치, 스테이킹 등 여러 트랜잭션이 필요할 수 있습니다. 혼잡기 이더리움 메인넷에서는 가스비 합계가 $50~100에 달합니다. $500 포지션이라면 본전을 찾는 데만 10~20% 수익률이 필요합니다. 같은 전략도 저비용 L2에서 하거나 $50,000 포지션으로 하면 경제성이 완전히 달라집니다. 진입 전에 왕복 비용을 포지션 대비 비율로 계산하세요.
+
+## 합리적 체크리스트
+
+- 수년간의 실적과 대규모 감사 예치금을 가진 프로토콜 우선
+- 수익의 원천을 이해하고, 토큰 발행 기반 APY는 일시적인 것으로 간주
+- 현실적인 가격 시나리오로 비영구 손실을 모델링
+- DeFi 노출은 전액 잃어도 되는 자본으로 한정하고, 프로토콜과 체인을 분산
+- 전용 지갑을 사용하고 오래된 승인은 회수
+
+명시적으로 짚을 만한 실수들: APY 대시보드 스크린샷을 실사로 착각하는 것, 지금까지 괜찮았다는 이유로 한 프로토콜에 집중하는 것, 기한이 정해진 돈으로 파밍하다가 출금 대기열을 만나는 것, 보상으로 받은 토큰을 일정에 따라 환전하지 않고 계속 떨어지는 채로 들고 있는 것.
+
+## 세금 처리, 간단히
+
+많은 국가에서 파밍 보상은 수령 시점에 일반 소득이며, LP 포지션 진입·청산을 포함한 모든 스왑이 과세 대상 처분이 될 수 있습니다. 수백 건의 소액 거래를 기록·관리하는 일은 정말 어렵습니다. 전문 소프트웨어가 도움이 되고, 암호화폐에 밝은 세무 전문가의 자문을 강력히 권합니다.
+
+이 글은 교육 목적의 콘텐츠이며 금융 자문이 아닙니다. DeFi는 시장 위험과 소프트웨어 위험이 결합되어 있으며 전액 손실 가능성이 현실적으로 존재합니다.`, ja: `イールドファーミングは20%、100%、時にはそれ以上のリターンを掲げます。その一部は本物で持続可能ですが、多くはそうではなく、いくつかのカテゴリーのリスクは元本を丸ごと消し去りかねません。APYを追いかける前に、利回りが正確にどこから来るのか、各レイヤーで何が起こり得るのかを理解しておくべきです。
+
+## 利回りは実際どこから来るのか
+
+- **貸付** — AaveやCompoundでは、借り手が貸し手に金利を払う。持続可能で、ステーブルコインなら通常一桁台。
+- **流動性提供** — UniswapやCurveでは、トレーダーがスワップ手数料(プールの階層により通常、取引ごとに0.05%、0.30%、1%)を流動性提供者に払う。
+- **ステーキング** — ネットワークの安全性に貢献した対価をプロトコルが発行量と手数料から支払う。
+- **流動性マイニング** — プロトコルが自前のガバナンストークンを刷って預入を呼び込む。
+
+最初の3つはサービスへの対価です。4つ目はマーケティング支出であり、目を疑うようなAPYの大半の源泉です。ここで決定的な区別が生まれます。名目利回りと実質利回りです。95%下落するトークンで100% APYを払うファームの実質リターンは大幅なマイナスです。常に問いましょう。何で支払われ、そのトークンを誰が買っているのか?
 
 ## スマートコントラクトリスク
 
-Ronin $625M、Wormhole $325M。
+すべてのプロトコルはお金を握ったソフトウェアであり、バグは軽微な傷ではなく大惨事です。
 
-## インパーマネントロス
+- Ronin Bridge (2022): 約6億2,500万ドル
+- Wormhole (2022): 約3億2,500万ドル
+- Euler Finance (2023): 約1億9,700万ドル
+- Beanstalk (2022): 約1億8,200万ドル
 
-価格変動でリバランス、片方急騰で損失。
+監査はリスクを減らしますが、何も保証しません。上記のうち複数のプロトコルは監査済みでした。大きな残高を抱えて長期間運用されてきた実績の方が、より正直なシグナルです。
 
-**Educational only. Not financial advice.**`, zh: `收益挖矿提供20%、100%回报，但风险也真。
+## インパーマネントロス: 公式
 
-## 收益来源
+標準的な2資産プールに流動性を提供すると、価格変動に応じてポジションが自動的にリバランスされます。2資産を単純保有した場合と比べた損失は次の通りです。
 
-- 借贷 (Aave)
-- 流动性供应 (Uniswap)
-- 质押
+IL = 2 × sqrt(r) / (1 + r) − 1、ここでrは価格比率の変化。
+
+- 一方の資産が2倍に: ILは約5.7%
+- 4倍: 約20%
+- 10倍: 約42.5%
+
+計算例: ETHを$500、USDCを$500預けたとします。ETHが2倍になった場合、単純保有なら$1,500ですが、LPポジションの価値は(手数料を除き)約$1,414です。この5.7%の差がインパーマネントロスで、価格が元に戻らない限り「一時的」ではありません。LPが保有に勝つには手数料収入がこの差を上回る必要があり、だからこそ出来高の薄いボラティブなペアのプールは静かに損をするのです。
+
+## オラクル、ブリッジ、フラッシュローン
+
+- **ブリッジリスク**: クロスチェーンのファーミングにはブリッジが必要ですが、歴史的にDeFiで最も攻撃されてきた部品です(上記のRoninとWormhole参照)。
+- **オラクル操作**: 流動性の薄い市場から担保価格を取得するプロトコルは操作され得ます。Mango Marketsの攻撃(2022)は、薄いトークンを吊り上げてそれを担保に借入れ、約1億1,400万ドルを引き出しました。
+- **フラッシュローン**は攻撃者に巨額の一時資本を与え、小さな設計ミスを増幅させます。
+
+## ステーブルコインも壊れる
+
+ステーブルコインの利回りはペッグの維持を前提とします。TerraUSD(UST)は2022年5月に崩壊して数百億ドルを消し、LUNAは数日で約$80から1セント未満に落ちました。完全準備型のUSDCでさえ、2023年3月のシリコンバレー銀行危機の際、一時$0.87近辺で取引されました。アルゴリズム型ステーブルコインには存続そのもののリスクがあり、担保型でも銀行・カストディのリスクを負っています。
+
+## ラグプルとトークノミクスの罠
+
+新しいチェーン上の新規プロトコルが1,000% APYを宣伝していたら、統計的には出口詐欺か、自らの発行量に押し潰されるトークン印刷スキームです。危険信号: 匿名チーム、監査されていない他プロトコルのフォーク、トレジャリーを空にできる管理者キー、プロトコル自身のトークンのみで支払われる利回り。
+
+## 小口ポジションを食い潰すコスト
+
+ファームへの出入りにはスワップ、承認、預入、ステーキングなど複数のトランザクションが必要になり得ます。混雑期のイーサリアムメインネットでは、ガス代の合計が$50〜100に達することも。$500のポジションなら、損益分岐だけで10〜20%の利回りが必要です。同じ戦略でも低手数料のL2や$50,000のポジションなら経済性はまったく異なります。参入前に、往復コストをポジションサイズ比のパーセントで計算しましょう。
+
+## 分別あるチェックリスト
+
+- 複数年の実績と大規模な監査済み預入を持つプロトコルを優先
+- 利回りの源泉を理解し、エミッション主導のAPYは一時的なものと見なす
+- 現実的な価格シナリオでインパーマネントロスをモデル化
+- DeFiへのエクスポージャーは全損しても構わない資本に限定し、プロトコルとチェーンを分散
+- 専用ウォレットを使い、古い承認は取り消す
+
+あえて名指しする価値のある間違い: APYダッシュボードのスクリーンショットをデューデリジェンスと見なすこと。これまで無事だったからと一つのプロトコルに集中すること。期限のあるお金でファーミングして出金待ち行列に遭うこと。報酬トークンを定期的に換金せず、下がり続けるまま持ち続けること。
+
+## 税制について手短に
+
+多くの法域で、ファーミング報酬は受取時点で通常所得となり、LPポジションの出入りを含むすべてのスワップが課税対象の処分になり得ます。数百件の小口取引の記録管理は本当に大変です。専門ソフトが助けになりますし、暗号資産に精通した税務専門家への相談を強くお勧めします。
+
+本記事は教育目的のコンテンツであり、金融アドバイスではありません。DeFiは市場リスクとソフトウェアリスクが組み合わさっており、全損の可能性が現実に存在します。`, zh: `收益挖矿标榜20%、100%甚至更高的回报率。其中一部分真实且可持续，很多则不然; 而且有几类风险足以把本金整个抹掉。在追逐APY之前，值得先弄清收益究竟从哪里来，以及每一层可能出什么问题。
+
+## 收益究竟从哪里来
+
+- **借贷** — 在Aave、Compound上，借款人向出借人支付利息。可持续，稳定币通常是个位数收益。
+- **流动性供应** — 在Uniswap、Curve上，交易者向流动性提供者支付兑换手续费(按池子档位，通常每笔0.05%、0.30%或1%)。
+- **质押** — 协议用增发和手续费付钱给帮助保护网络的人。
+- **流动性挖矿** — 协议印发自己的治理代币来吸引存款。
+
+前三种是服务报酬。第四种是营销开支，也是绝大多数惊人APY的来源。由此引出关键区分: 名义收益率 vs 实际收益率。一个用下跌95%的代币支付100% APY的矿场，实际回报是深度负值。永远要问: 用什么支付? 谁在买那个代币?
 
 ## 智能合约风险
 
-Ronin $625M、Wormhole $325M。
+每个协议都是握着钱的软件，漏洞不是瑕疵而是灾难:
 
-## 无常损失
+- Ronin Bridge (2022): 约$6.25亿
+- Wormhole (2022): 约$3.25亿
+- Euler Finance (2023): 约$1.97亿
+- Beanstalk (2022): 约$1.82亿
 
-价格变动重新平衡，一种代币飙升则损失。
+审计能降低风险但不保证任何事——上面好几个协议都审计过。带着大额资金长期在线运行，才是更诚实的信号。
 
-**Educational only. Not financial advice.**` },
+## 无常损失: 公式
+
+向标准双资产池提供流动性，意味着价格变动时你的头寸会被自动再平衡。相对于单纯持有两种资产，损失为:
+
+IL = 2 × sqrt(r) / (1 + r) − 1，其中r是价格比率的变化。
+
+- 一种资产变动2倍: IL约5.7%
+- 4倍: 约20%
+- 10倍: 约42.5%
+
+实例: 存入$500的ETH和$500的USDC，ETH翻倍。单纯持有价值$1,500; LP头寸(不计手续费)约值$1,414。这5.7%的差距就是无常损失——只有价格回归它才"无常"。手续费收入必须跑赢这个差距，LP才能胜过持有，这就是为什么成交量稀薄的波动币对池会悄悄亏钱。
+
+## 预言机、跨链桥与闪电贷
+
+- **跨链桥风险**: 跨链挖矿离不开桥，而桥是DeFi历史上被攻击最多的组件(见上文Ronin和Wormhole)。
+- **预言机操纵**: 从流动性稀薄的市场取价的协议可以被操纵——Mango Markets攻击(2022)通过拉抬薄流动性代币再抵押借款，卷走约$1.14亿。
+- **闪电贷**让攻击者瞬间掌握巨额临时资金，把任何小的设计缺陷放大。
+
+## 稳定币也会崩
+
+稳定币收益的前提是锚定不破。TerraUSD(UST)于2022年5月崩盘，抹去数百亿美元，LUNA几天内从约$80跌到不足1美分。就连全额储备的USDC，也在2023年3月硅谷银行危机期间短暂跌至约$0.87。算法稳定币有存亡风险; 即便抵押型稳定币也有银行和托管风险。
+
+## 貔貅盘与代币经济陷阱
+
+新链上的全新协议宣传1,000% APY，从统计上看不是出口骗局，就是会被自身增发压垮的印币游戏。危险信号: 匿名团队、未经审计的协议分叉、能掏空金库的管理员密钥、只用协议自身代币支付的收益。
+
+## 吞噬小仓位的成本
+
+进出一个矿场可能涉及多笔交易——兑换、授权、存入、质押。拥堵时期的以太坊主网,gas费合计可达$50–100。$500的仓位光回本就需要10–20%的收益; 同样的策略放在低费L2上或用$50,000的仓位，经济性完全不同。入场前先把往返成本算成仓位的百分比。
+
+## 理性清单
+
+- 优先选择有多年记录、存款规模大且经审计的协议
+- 理解收益来源; 把增发驱动的APY视为暂时现象
+- 用现实的价格情景对无常损失建模
+- DeFi敞口仅限于可以全部亏掉的资金，并跨协议、跨链分散
+- 使用专用钱包; 撤销过期授权
+
+值得点名的几个错误: 把APY仪表盘的截图当作尽职调查; 因为"到目前为止都没事"就集中在一个协议; 用有期限用途的钱去挖矿，结果撞上提款排队; 把奖励代币一直拿着任其贬值，而不是按计划定期换出。
+
+## 简谈税务
+
+在许多司法辖区，挖矿奖励在收到那一刻即为普通收入，而每一次兑换——包括进出LP头寸——都可能是应税处置。几百笔小额交易的记录工作确实繁重; 专业软件有帮助，强烈建议咨询懂加密资产的税务专业人士。
+
+本文为教育性内容，不构成金融建议。DeFi叠加了市场风险与软件风险，存在现实的全损可能。` },
 		date: '2026-04-26', category: 'crypto'
 	},
 	{
 		slug: 'nft-investment-guide',
 		title: { en: 'NFT Investment Guide: After the Hype', ko: 'NFT 투자 가이드: 과열 이후', ja: 'NFT投資ガイド: ハイプ後', zh: 'NFT投资指南: 炒作之后' },
 		description: { en: 'A sober look at NFT investing in 2026: utility, royalties, and what survived.', ko: '2026년 NFT 투자에 대한 냉정한 시선.', ja: '2026年のNFT投資の冷静な見方。', zh: '2026年NFT投资的冷静观察。' },
-		content: { en: `The NFT market crashed roughly 95% from 2021-2022 highs. What remains is a smaller, more functional market with clearer use cases.
+		content: { en: `The NFT market provides one of the cleanest boom-bust case studies in modern finance. Monthly trading volume peaked around $17 billion in January 2022 and collapsed more than 95% over the following two years. Bored Ape floor prices went from roughly 150 ETH at the April 2022 peak to single digits. What remains in 2026 is a smaller, more functional market — and a set of durable lessons about valuing assets with no cash flow.
+
+## What an NFT Technically Is
+
+An NFT is a token ID recorded on a blockchain, pointing to metadata — usually an image URL. Two implications matter for buyers. First, the artwork itself typically lives off-chain; if it sits on a centralized server rather than content-addressed storage like IPFS or Arweave, the "asset" can literally stop resolving. Second, owning the token rarely means owning the copyright; most collections grant a limited license, and terms vary wildly. Read what you are actually buying.
 
 ## What Survived the Crash
 
-- **Established blue chips** — CryptoPunks, Bored Apes still have liquidity
-- **Generative art** — Art Blocks, fxhash continue
-- **Utility NFTs** — game items, domain names (ENS), event tickets
-- **Music and creator royalties** — niche but real
+- **Established blue chips** — CryptoPunks and a handful of top collections retain liquidity and cultural cachet
+- **Generative art** — Art Blocks and fxhash built a genuine collector scene closer to the traditional art market
+- **Utility NFTs** — ENS domain names, game items, event tickets, membership passes
+- **Creator royalties in niches** — music and photography communities, smaller but real
 
-The pure-speculation collections that drove 2021 mania mostly went to zero.
+The pure-speculation profile-picture collections that defined the 2021 mania mostly went to zero. That is the base rate to remember: the median 2021 collection is worthless today.
 
 ## Royalties: The Broken Promise
 
-The early NFT pitch included perpetual royalties to creators. By 2024-2025, most marketplaces made royalties optional or removed them.
+The original pitch — creators earn a percentage of every resale, forever — quietly failed. Royalties were enforced by marketplace convention, not by the blockchain itself. When zero-royalty platforms grabbed market share in 2023, incumbents made royalties optional to compete, and creator resale income across the market collapsed. Lesson: revenue that depends on voluntary compliance is not a durable business model, for creators or for anyone valuing a collection on its royalty flow.
 
-## What to Evaluate
+## The Valuation Problem
 
-- Floor price history (12+ months)
-- Wash trading volume
-- Holder distribution
-- Real utility
-- Team transparency
+An NFT produces no cash flow, so there is nothing to discount — no P/E, no yield, no intrinsic anchor. Price rests entirely on what the next buyer will pay. If you still choose to participate, evaluate:
 
-## Use Cases That Make Sense
+- **Floor price history** over 12+ months, not weeks — and in ETH and USD terms, since ETH volatility distorts both
+- **Liquidity depth**: how many items actually sell per day near the floor? A "floor price" with two sales a week is a mirage
+- **Holder distribution**: if a few wallets hold 30–40% of supply, one seller can crater the market
+- **Wash trading**: a substantial share of reported NFT volume has historically been self-dealing to farm rewards or paint volume; blockchain analytics firms have repeatedly documented this
+- **Contract mechanics**: can the team mint more? Change metadata? Pause transfers?
 
-- Domain names (ENS)
-- Game items
-- Event tickets
-- Membership passes
+## Count the Full Cost of a Round Trip
 
-## Valuation Reality
+Buy an NFT at 1 ETH and sell it later: a 2% marketplace fee on exit, perhaps a 5% creator royalty, plus gas on mint or purchase, transfer, and listing. You need roughly 7–8% appreciation just to break even — before accounting for the bid-ask reality that the exit price near the floor is usually below the last optimistic sale. Illiquid assets punish frequent trading.
 
-Most NFTs have no cash flow, no underlying asset, and no scarcity outside the issuing contract.
+## Common Mistakes
 
-## Sensible Allocation
+- Buying into a spiking collection because of social media momentum — by the time it trends, early buyers are exiting
+- Treating manufactured scarcity ("only 10,000!") as value; scarcity without demand is just a small number
+- Signing marketplace transactions carelessly — approval-draining phishing is the single most common way collectors lose everything
+- Confusing the token with the intellectual property
+- Sizing NFT bets like investments rather than entertainment
+- Anchoring on your purchase price; the market neither knows nor cares what you paid
+- Ignoring concentration: one whale exiting can reset a thin floor by 30% in an afternoon
 
-Treat NFTs as a discretionary entertainment line item, not a portfolio allocation.
+## A Sensible Allocation
 
-**Educational only. Not financial advice. NFTs are highly illiquid and speculative.**`, ko: `NFT 시장은 2021-2022 고점 대비 약 95% 폭락.
+If you participate at all, treat NFTs as a discretionary entertainment budget: money whose complete loss would not alter your plans, generally a low single-digit percentage of investable assets at most. Buy things you would be content to keep if the market never bid again — that is the honest test of any zero-cash-flow asset. If a position doubles, consider recouping your original cost; playing with house money changes the psychology entirely.
 
-## 살아남은 것
+## Tax Notes
 
-블루칩 (CryptoPunks), 제너러티브 아트, 유틸리티 NFT, 음악/창작자 로열티.
+Tax treatment is unsettled and jurisdiction-specific. In the US, NFTs may be classified as collectibles, which face a higher maximum long-term capital gains rate (28%) than stocks. Also easy to miss: paying for an NFT with appreciated ETH is itself a taxable disposal of that ETH. Keep records of every leg and consult a tax professional who handles digital assets.
+
+This article is educational content, not financial advice. NFTs are among the most illiquid and speculative assets available; assume any given purchase can go to zero.`, ko: `NFT 시장은 현대 금융에서 가장 깔끔한 거품-붕괴 사례 연구 중 하나를 제공합니다. 월간 거래량은 2022년 1월 약 $170억으로 정점을 찍은 뒤 2년에 걸쳐 95% 이상 붕괴했습니다. Bored Ape 바닥 가격은 2022년 4월 정점의 약 150 ETH에서 한 자릿수 ETH까지 떨어졌습니다. 2026년에 남은 것은 더 작고 더 기능적인 시장, 그리고 현금흐름 없는 자산의 가치평가에 대한 오래갈 교훈들입니다.
+
+## NFT의 기술적 실체
+
+NFT는 블록체인에 기록된 토큰 ID이며, 메타데이터(보통 이미지 URL)를 가리킵니다. 구매자에게 중요한 함의가 둘 있습니다. 첫째, 작품 자체는 대개 체인 밖에 있습니다. IPFS나 Arweave 같은 콘텐츠 주소 기반 저장소가 아니라 중앙화 서버에 있다면, "자산"이 말 그대로 연결이 끊길 수 있습니다. 둘째, 토큰 소유가 저작권 소유를 의미하는 경우는 드뭅니다. 대부분의 컬렉션은 제한적 라이선스만 부여하며 조건은 제각각입니다. 실제로 무엇을 사는 것인지 읽어보세요.
+
+## 붕괴에서 살아남은 것
+
+- **확립된 블루칩** — CryptoPunks와 소수의 최상위 컬렉션은 유동성과 문화적 위상을 유지
+- **제너러티브 아트** — Art Blocks, fxhash는 전통 미술 시장에 가까운 진짜 컬렉터 씬을 구축
+- **유틸리티 NFT** — ENS 도메인, 게임 아이템, 이벤트 티켓, 멤버십 패스
+- **틈새의 창작자 로열티** — 음악·사진 커뮤니티, 규모는 작지만 실재
+
+2021년 광풍을 정의했던 순수 투기성 프로필 사진(PFP) 컬렉션들은 대부분 0이 되었습니다. 기억해야 할 기저율: 2021년 컬렉션의 중앙값은 오늘날 무가치합니다.
 
 ## 로열티: 깨진 약속
 
-대부분 마켓플레이스가 옵션화/제거.
+"창작자가 모든 재판매의 일정 비율을 영원히 받는다"는 원래의 선전은 조용히 실패했습니다. 로열티는 블록체인 자체가 아니라 마켓플레이스의 관행으로 집행되었습니다. 2023년 로열티 제로 플랫폼들이 점유율을 빼앗자 기존 마켓들도 경쟁을 위해 로열티를 선택 사항으로 바꿨고, 시장 전체의 창작자 재판매 수입은 붕괴했습니다. 교훈: 자발적 준수에 의존하는 수익은 창작자에게든, 로열티 흐름으로 컬렉션을 평가하는 누구에게든 지속 가능한 비즈니스 모델이 아닙니다.
 
-## 평가 항목
+## 가치평가 문제
 
-12개월+ 바닥, 워시 트레이딩, 홀더 분포, 유틸리티, 팀 투명성.
+NFT는 현금흐름을 만들지 않으므로 할인할 것이 없습니다. P/E도, 수익률도, 내재가치의 닻도 없습니다. 가격은 전적으로 다음 구매자가 낼 금액에 달려 있습니다. 그래도 참여하기로 했다면 다음을 평가하세요.
+
+- **12개월 이상의 바닥 가격 이력** — 몇 주가 아니라. ETH와 USD 두 기준 모두 (ETH 변동성이 둘 다 왜곡하므로)
+- **유동성 깊이**: 바닥 근처에서 하루에 실제로 몇 개나 팔리는가? 주당 2건 거래되는 "바닥 가격"은 신기루입니다
+- **홀더 분포**: 소수 지갑이 공급량의 30~40%를 쥐고 있다면 매도자 한 명이 시장을 무너뜨릴 수 있습니다
+- **워시 트레이딩**: 보고된 NFT 거래량의 상당 부분이 보상 파밍이나 거래량 부풀리기를 위한 자전거래였음을 블록체인 분석 업체들이 반복적으로 입증했습니다
+- **컨트랙트 구조**: 팀이 추가 민팅을 할 수 있는가? 메타데이터를 바꿀 수 있는가? 전송을 멈출 수 있는가?
+
+## 왕복 비용을 전부 계산하라
+
+1 ETH에 NFT를 사서 나중에 판다고 합시다. 매도 시 마켓플레이스 수수료 2%, 창작자 로열티 5% 남짓, 그리고 구매·전송·리스팅 가스비. 본전을 찾는 데만 약 7~8%의 가격 상승이 필요합니다. 게다가 바닥 근처의 실제 매도 가격은 마지막 낙관적 거래가보다 낮은 것이 보통입니다. 비유동성 자산은 잦은 매매를 응징합니다.
+
+## 흔한 실수
+
+- 소셜 미디어 모멘텀에 이끌려 급등 중인 컬렉션 매수 — 트렌드에 오를 때쯤이면 초기 매수자들이 빠져나가는 중입니다
+- 인위적 희소성("단 10,000개!")을 가치로 착각 — 수요 없는 희소성은 그냥 작은 숫자일 뿐입니다
+- 마켓플레이스 트랜잭션을 부주의하게 서명 — 승인 탈취 피싱은 컬렉터가 전부를 잃는 가장 흔한 경로입니다
+- 토큰과 지식재산권의 혼동
+- NFT 베팅을 오락이 아니라 투자처럼 사이징
+- 본인 매수가에 닻 내리기 — 시장은 당신이 얼마를 냈는지 알지도, 신경 쓰지도 않습니다
+- 집중도 무시 — 고래 한 명의 이탈이 얇은 바닥 가격을 한나절 만에 30% 끌어내릴 수 있습니다
 
 ## 합리적 배분
 
-재량적 엔터테인먼트, 포트폴리오 배분 아님.
+참여한다면 NFT를 재량적 오락 예산으로 취급하세요. 전액을 잃어도 계획이 흔들리지 않는 돈, 일반적으로 투자 가능 자산의 낮은 한 자릿수 퍼센트 이하입니다. 시장이 다시는 값을 부르지 않아도 갖고 있어서 만족스러울 것만 사세요. 그것이 현금흐름 제로 자산에 대한 정직한 시험입니다. 포지션이 2배가 되면 원금 회수를 고려하세요. 하우스 머니로 하는 게임은 심리가 완전히 달라집니다.
 
-**Educational only. Not financial advice.**`, ja: `NFT市場は2021-2022年高値から約95%下落。
+## 세금 참고
 
-## 生き延びたもの
+세금 처리는 미확정이며 국가마다 다릅니다. 미국에서 NFT는 수집품(collectible)으로 분류될 수 있는데, 이 경우 주식보다 높은 최대 장기 양도소득세율(28%)이 적용됩니다. 놓치기 쉬운 점 하나: 가격이 오른 ETH로 NFT를 결제하는 것 자체가 그 ETH의 과세 대상 처분입니다. 모든 거래 단계를 기록하고 디지털 자산을 다루는 세무 전문가와 상담하세요.
 
-ブルーチップ、ジェネラティブアート、ユーティリティNFT、ロイヤリティ。
+이 글은 교육 목적의 콘텐츠이며 금융 자문이 아닙니다. NFT는 존재하는 자산 중 가장 비유동적이고 투기적인 축에 속합니다. 어떤 구매든 0이 될 수 있다고 가정하세요.`, ja: `NFT市場は、現代金融で最も分かりやすいブームと崩壊のケーススタディの一つです。月間取引高は2022年1月に約170億ドルでピークを打ち、その後2年で95%以上崩壊しました。Bored Apeのフロア価格は2022年4月のピーク時の約150 ETHから一桁ETHまで下落。2026年に残っているのは、より小さく、より機能的な市場と、キャッシュフローを生まない資産の評価についての息の長い教訓です。
+
+## NFTの技術的な正体
+
+NFTはブロックチェーンに記録されたトークンIDで、メタデータ(通常は画像URL)を指し示します。買い手にとって重要な含意が2つあります。第一に、作品自体は通常チェーン外にあります。IPFSやArweaveのようなコンテンツアドレス型ストレージではなく中央集権的なサーバーにある場合、「資産」は文字通りリンク切れになり得ます。第二に、トークンの所有が著作権の所有を意味することはまれです。ほとんどのコレクションは限定的なライセンスを付与するだけで、条件は千差万別。自分が実際に何を買うのか読みましょう。
+
+## 崩壊を生き延びたもの
+
+- **確立されたブルーチップ** — CryptoPunksと一握りのトップコレクションは流動性と文化的地位を維持
+- **ジェネラティブアート** — Art Blocksとfxhashは、伝統的な美術市場に近い本物のコレクター文化を構築
+- **ユーティリティNFT** — ENSドメイン、ゲームアイテム、イベントチケット、メンバーシップパス
+- **ニッチでのクリエイターロイヤリティ** — 音楽・写真コミュニティ、小規模だが実在
+
+2021年の熱狂を象徴した純投機的なプロフィール画像(PFP)コレクションは、ほとんどがゼロになりました。覚えておくべき基準率: 2021年のコレクションの中央値は今日、無価値です。
 
 ## ロイヤリティ: 破られた約束
 
-ほとんどのマーケットプレイスがオプション化または削除。
+「クリエイターがすべての転売から永遠に一定割合を得る」という当初の売り文句は、静かに破綻しました。ロイヤリティはブロックチェーン自体ではなく、マーケットプレイスの慣行によって執行されていたのです。2023年にロイヤリティゼロのプラットフォームがシェアを奪うと、既存勢も競争のためロイヤリティを任意にし、市場全体のクリエイター転売収入は崩壊しました。教訓: 自発的な遵守に依存する収益は、クリエイターにとっても、ロイヤリティ収入でコレクションを評価する人にとっても、持続可能なビジネスモデルではありません。
 
-## 用途
+## 評価の問題
 
-ドメイン、ゲームアイテム、チケット、メンバーシップ。
+NFTはキャッシュフローを生まないため、割り引くものがありません。PERも利回りも本源的価値の錨もない。価格は完全に「次の買い手がいくら払うか」に懸かっています。それでも参加するなら、次を評価しましょう。
 
-**Educational only. Not financial advice.**`, zh: `NFT市场从2021-2022高点下跌约95%。
+- **12ヶ月以上のフロア価格履歴** — 数週間ではなく。またETH建てとUSD建ての両方で(ETHのボラティリティが両方を歪めるため)
+- **流動性の深さ**: フロア付近で1日に実際何点売れているか? 週2件しか売れない「フロア価格」は蜃気楼です
+- **保有者分布**: 少数のウォレットが供給の30〜40%を握っていれば、売り手一人で市場が崩れます
+- **ウォッシュトレーディング**: 報告されたNFT取引高のかなりの部分が、報酬稼ぎや出来高偽装のための自己売買だったことを、ブロックチェーン分析企業が繰り返し実証しています
+- **コントラクトの仕組み**: チームは追加ミントできるか? メタデータを変更できるか? 転送を停止できるか?
 
-## 幸存的
+## 往復コストをすべて数える
 
-蓝筹、生成艺术、实用NFT、版税。
+1 ETHでNFTを買い、後で売るとします。売却時のマーケットプレイス手数料2%、クリエイターロイヤリティ5%程度、さらに購入・転送・出品のガス代。損益分岐だけで約7〜8%の値上がりが必要です。しかもフロア付近での実際の売却価格は、直近の楽観的な約定価格を下回るのが普通です。非流動的な資産は頻繁な売買を罰します。
 
-## 版税: 破灭承诺
+## よくある間違い
 
-大多数市场使其变为可选或移除。
+- SNSの勢いで急騰中のコレクションを買う — トレンド入りする頃には初期の買い手が売り抜けています
+- 人為的な希少性(「たった10,000点!」)を価値と見なす — 需要なき希少性はただの小さい数字です
+- マーケットプレイスのトランザクションを不注意に署名する — 承認を奪うフィッシングは、コレクターが全てを失う最も一般的な経路です
+- トークンと知的財産権の混同
+- NFTへの賭けを娯楽ではなく投資のようにサイジングする
+- 自分の購入価格に錨を下ろす — 市場はあなたがいくら払ったか知らないし、気にもしません
+- 集中度の無視 — クジラ一人の売り抜けが、薄いフロア価格を半日で30%下げることもあります
 
-## 用途
+## 分別ある配分
 
-域名、游戏物品、票证、会员通行证。
+参加するなら、NFTは裁量的な娯楽予算として扱いましょう。全額失っても人生計画が変わらないお金、一般に投資可能資産のせいぜい一桁前半のパーセントです。市場が二度と値を付けなくても持っていて満足できるものだけを買うこと。それがキャッシュフローゼロ資産への正直なテストです。ポジションが2倍になったら元本の回収を検討しましょう。ハウスマネーでのゲームは心理がまったく変わります。
 
-**Educational only. Not financial advice.**` },
+## 税金の注意
+
+税務上の扱いは未確定で、法域によって異なります。米国ではNFTがコレクティブル(収集品)に分類される可能性があり、その場合は株式より高い最大長期キャピタルゲイン税率(28%)が適用されます。見落としがちな点: 値上がりしたETHでNFTを購入すること自体が、そのETHの課税対象処分になります。すべての取引記録を残し、デジタル資産を扱う税務専門家に相談してください。
+
+本記事は教育目的のコンテンツであり、金融アドバイスではありません。NFTは存在する資産の中で最も非流動的で投機的な部類です。どの購入もゼロになり得ると想定してください。`, zh: `NFT市场提供了现代金融中最典型的泡沫-崩溃案例之一。月度交易量在2022年1月达到约$170亿的峰值，随后两年崩跌超过95%。Bored Ape地板价从2022年4月峰值的约150 ETH跌至个位数。到2026年，留下来的是一个更小、更实用的市场——以及关于如何为没有现金流的资产估值的持久教训。
+
+## NFT在技术上是什么
+
+NFT是记录在区块链上的一个代币ID，指向元数据——通常是一个图片URL。对买家有两个重要含义。第一，作品本身通常存在链下; 如果它放在中心化服务器而非IPFS、Arweave这类内容寻址存储上，这个"资产"可能真的会失联。第二，拥有代币很少等于拥有版权; 大多数系列只授予有限许可，条款五花八门。请读清楚你买的到底是什么。
+
+## 崩盘后幸存的
+
+- **老牌蓝筹** — CryptoPunks和少数头部系列仍保有流动性和文化地位
+- **生成艺术** — Art Blocks、fxhash建立了接近传统艺术市场的真正藏家生态
+- **实用型NFT** — ENS域名、游戏道具、活动门票、会员通行证
+- **细分领域的创作者版税** — 音乐和摄影社区，规模小但真实
+
+定义2021年狂热的纯投机头像(PFP)系列大多归零。要记住的基准率是: 2021年系列的中位数如今一文不值。
+
+## 版税: 破灭的承诺
+
+最初的卖点——创作者永久从每次转售中抽成——悄然失败了。版税靠的是市场平台的惯例，而非区块链本身的强制。2023年零版税平台抢占份额后，老牌平台为了竞争也把版税改为可选，全市场的创作者转售收入随之崩塌。教训: 依赖自愿遵守的收入不是可持续的商业模式——无论对创作者，还是对任何以版税流估值一个系列的人。
+
+## 估值难题
+
+NFT不产生现金流，所以没有东西可以折现——没有市盈率、没有收益率、没有内在价值之锚。价格完全取决于下一个买家愿意出多少。如果你仍选择参与，请评估:
+
+- **12个月以上的地板价历史**，而不是几周——并同时看ETH和USD计价(ETH的波动会扭曲两者)
+- **流动性深度**: 地板价附近每天实际成交几件? 一周只有两笔成交的"地板价"是海市蜃楼
+- **持有人分布**: 若少数钱包持有30–40%的供应量，一个卖家就能砸穿市场
+- **刷量交易**: 区块链分析机构反复证实，历史上相当比例的NFT成交量是为了刷奖励或做量的自买自卖
+- **合约机制**: 团队能否增发? 能否修改元数据? 能否暂停转账?
+
+## 算清一个来回的全部成本
+
+以1 ETH买入NFT，之后卖出: 卖出时2%的平台费、可能5%的创作者版税，加上购买、转移、挂单的gas费。光是回本就需要约7–8%的涨幅——还没算上现实的买卖价差: 地板附近的实际成交价通常低于上一笔乐观的成交。非流动性资产会惩罚频繁交易。
+
+## 常见错误
+
+- 因社交媒体热度追进正在飙升的系列——等它上热搜时，早期买家正在出货
+- 把人为稀缺("只有10,000个!")当作价值; 没有需求的稀缺只是一个小数字
+- 随意签署平台交易——授权盗取式钓鱼是藏家血本无归的头号方式
+- 混淆代币与知识产权
+- 把NFT下注当投资来定仓位，而不是当娱乐
+- 锚定自己的买入价——市场既不知道也不关心你付了多少
+- 无视集中度——一条巨鲸出货，就能让单薄的地板价一下午重挫30%
+
+## 理性的配置
+
+如果参与，就把NFT当作可自由支配的娱乐预算: 全部亏光也不影响人生计划的钱，一般最多占可投资资产的低个位数百分比。只买那些即使市场再也无人出价、你依然乐意留着的东西——这是对任何零现金流资产的诚实检验。若某个头寸翻倍，考虑先收回本金; 用庄家的钱玩，心态会完全不同。
+
+## 税务提示
+
+税务处理尚无定论且因司法辖区而异。在美国，NFT可能被归类为收藏品(collectible)，其长期资本利得最高税率(28%)高于股票。还有一点容易忽略: 用已升值的ETH购买NFT，本身就构成对该ETH的应税处置。保留每一步的记录，并咨询处理数字资产的税务专业人士。
+
+本文为教育性内容，不构成金融建议。NFT属于现存流动性最差、投机性最强的资产之列; 请假设任何一笔购买都可能归零。` },
 		date: '2026-04-25', category: 'crypto'
 	},
 	{
 		slug: 'robo-advisors-vs-self-directed',
 		title: { en: 'Robo-Advisors vs Self-Directed Investing', ko: '로보어드바이저 vs 직접 투자', ja: 'ロボアドバイザー vs 自己主導投資', zh: '机器人顾问 vs 自主投资' },
 		description: { en: 'When automation pays off and when DIY beats the algorithm.', ko: '자동화가 효과적일 때와 DIY가 알고리즘을 이길 때.', ja: '自動化が効果を発揮する時と、DIYがアルゴリズムに勝る時。', zh: '何时自动化有效以及DIY何时胜过算法。' },
-		content: { en: `Robo-advisors automate portfolio management for an annual fee, typically 0.25-0.50%. Self-directed investing means you handle allocation and rebalancing yourself.
+		content: { en: `Robo-advisors automate portfolio management for an annual fee, typically 0.25–0.50% of assets. Self-directed investing means you choose funds, allocate, and rebalance yourself for close to nothing. The marketing on both sides obscures the actual trade: a robo charges you for discipline and convenience; DIY pays you for supplying those yourself. Let's put numbers on it.
 
-## What Robo-Advisors Do
+## What a Robo-Advisor Actually Does
 
-- Build a diversified portfolio based on your risk tolerance
-- Automatic rebalancing
-- Tax-loss harvesting (in taxable accounts)
-- Direct deposits and dividend reinvestment
+- Assigns you a diversified ETF portfolio based on a risk questionnaire, built on standard portfolio theory
+- Rebalances automatically when allocations drift
+- Harvests tax losses in taxable accounts
+- Handles deposits, dividend reinvestment, and fractional shares
 
-Major providers: Wealthfront, Betterment, Schwab Intelligent Portfolios, Vanguard Digital Advisor.
+Major providers include Wealthfront and Betterment (around 0.25%), Vanguard Digital Advisor (roughly 0.15–0.20%), and Schwab Intelligent Portfolios (no advisory fee — more on that catch below).
 
-## The Cost
+## The Fee Math Over 30 Years
 
-A 0.25% management fee on $100,000 is $250/year. Over 30 years at 7% returns, paying 0.25% vs 0% costs roughly $30,000 in foregone returns.
+A 0.25% fee sounds negligible. Compounded, it is not. Invest $500 per month for 30 years: at a 7% net return you end with roughly $610,000; at 6.75% — the same portfolio minus the robo fee — about $581,000. The convenience cost is roughly $29,000, and it scales with wealth because the fee is charged on assets, not on results. On a $1 million portfolio, 0.25% is $2,500 every year. Underlying ETF expense ratios (typically 0.03–0.15%) apply in both scenarios, so they do not differentiate the options.
 
-## What DIY Requires
+Also read the fine print on "free" offerings: Schwab's robo charges no advisory fee but historically kept 6–10% of portfolios in cash earning below-market rates — an implicit fee. The SEC fined Schwab $187 million in 2022 over how this was disclosed.
 
-- Research basic asset allocation
-- Pick low-cost index funds
-- Set up automated contributions
-- Rebalance once or twice yearly
-- Tax-loss harvest manually
-- Resist panic-selling in downturns
+## What Tax-Loss Harvesting Is Worth
 
-A 3-fund portfolio outperforms many sophisticated strategies over decades.
+TLH sells positions at a loss to offset realized gains, plus up to $3,000 of ordinary income per year in the US, replacing the sold fund with a similar-but-not-identical one to respect the 30-day wash-sale rule. Robo marketing claims annual benefits of 0.2–0.5% or more; the honest answer is that the value depends on market volatility, regular new deposits, and your tax bracket — and it is deferral, not elimination, since harvesting lowers your cost basis. In tax-advantaged accounts like IRAs, TLH is worth exactly zero, which removes the robo's strongest argument.
 
-## When Robo Wins
+## What DIY Actually Requires
 
-- You haven't built a portfolio yet
-- Tax-loss harvesting in a large taxable account
-- You panic-sell every downturn
+The classic three-fund portfolio: a total US stock market fund, a total international fund, and a bond fund — for example 60/20/20 — at expense ratios of 0.03–0.07%. The tasks:
 
-## When DIY Wins
+- Set up automatic monthly contributions
+- Rebalance on a calendar (once or twice yearly) or when an asset drifts 5 percentage points from target
+- In taxable accounts, harvest losses manually in big drawdowns if you wish
+- Do nothing else, especially during crashes
 
-- Modest portfolio sizes where 0.25% fees matter
-- You enjoy learning the basics
-- You hold tax-advantaged accounts only
+A simpler alternative inside retirement accounts: a target-date index fund at roughly 0.08–0.15% does everything a robo does, including gradual de-risking.
 
-## Hybrid
+## The Behavior Variable That Swamps Everything
 
-Many investors do both: robo for taxable harvesting, DIY in 401(k) and IRAs.
+Fee arithmetic assumes identical behavior, and behavior is where real money is lost. Morningstar's "Mind the Gap" studies consistently find investors earn roughly 1 percentage point per year less than the funds they own, because they buy after rallies and sell after crashes. Concrete case: the S&P 500 fell about 34% in five weeks in February–March 2020, then recovered to new highs by August. An investor who panic-sold in March and re-entered "when things calmed down" months later permanently locked in the loss. If paying 0.25% is what keeps you from being that investor, it is the cheapest insurance you will ever buy. If you genuinely leave things alone, it buys you nothing.
 
-**Educational only. Not financial advice.**`, ko: `로보어드바이저는 연 0.25-0.50% 수수료로 포트폴리오 자동화.
+## When Each Side Wins
 
-## 비용
+**Robo wins:** you have no portfolio and keep postponing; you hold a large taxable account where automated TLH has real value; you know from history that you tinker or panic.
 
-$100,000의 0.25% = 연 $250. 30년에 약 $30,000 차이.
+**DIY wins:** your investing happens mostly in a 401(k) and IRA (no TLH value); you are comfortable with a three-fund or target-date approach; you want the 0.25% compounding for you instead.
 
-## DIY가 요구하는 것
+**Hybrid** is common and reasonable: DIY index funds inside retirement accounts, robo for a taxable account. Whichever route you choose, remember that the allocation itself — your stock-to-bond split and savings rate — will drive far more of the outcome than the 0.25% fee ever will.
 
-- 기본 자산 배분 조사
-- 저비용 인덱스 펀드 선택
-- 자동 기여 설정
-- 연 1-2회 리밸런싱
+## Common Mistakes
 
-## 로보 승리
+- Paying a robo fee inside an IRA to hold what a target-date fund does for a fraction of the cost
+- Running a robo and a self-directed account with overlapping funds — your own trades can trigger wash-sale violations against the robo's harvesting
+- Answering the risk questionnaire aggressively in a bull market, then discovering your true risk tolerance in the next crash
+- Comparing providers on fee alone while ignoring cash-drag allocations
 
-미구축, 큰 과세 계좌, 패닉 매도 성격.
+## Tax Note
 
-## DIY 승리
+Harvested losses, wash-sale rules across accounts (including spousal and IRA accounts), and state taxes make individual situations genuinely different — consult a tax professional before building a strategy around TLH.
 
-적당한 크기, 학습 즐김, 세금 우대 계좌만.
+This article is educational content, not financial advice. Costs, discipline, and your own behavior — not product marketing — determine which route compounds better for you.`, ko: `로보어드바이저는 연간 자산의 0.25~0.50% 수수료로 포트폴리오 관리를 자동화합니다. 직접 투자는 펀드 선택, 배분, 리밸런싱을 거의 공짜로 본인이 하는 것입니다. 양쪽의 마케팅이 가리는 실제 거래는 이렇습니다. 로보는 규율과 편의에 대해 요금을 받고, DIY는 그것을 스스로 공급하는 대가를 당신에게 지불합니다. 숫자로 따져 봅시다.
 
-**Educational only. Not financial advice.**`, ja: `ロボアドバイザーは年0.25-0.50%手数料で自動化。
+## 로보어드바이저가 실제로 하는 일
 
-## コスト
+- 위험 성향 설문을 바탕으로 표준 포트폴리오 이론에 기반한 분산 ETF 포트폴리오 배정
+- 배분이 틀어지면 자동 리밸런싱
+- 과세 계좌에서 세금 손실 수확(TLH)
+- 입금, 배당 재투자, 소수점 주식 처리
 
-$100,000の0.25% = 年$250。
+주요 업체로는 Wealthfront와 Betterment(약 0.25%), Vanguard Digital Advisor(약 0.15~0.20%), Schwab Intelligent Portfolios(자문 수수료 없음 — 함정은 아래에서)가 있습니다.
 
-## DIY要件
+## 30년 수수료 수학
 
-資産配分、低コストインデックス、自動拠出、年次リバランス。
+0.25%는 사소해 보이지만 복리로는 그렇지 않습니다. 30년간 매달 $500을 투자한다고 합시다. 순수익률 7%면 약 $610,000, 로보 수수료를 뺀 6.75%면 약 $581,000으로 끝납니다. 편의의 비용은 약 $29,000이고, 수수료는 성과가 아닌 자산에 부과되므로 부와 함께 커집니다. $100만 포트폴리오에서 0.25%는 매년 $2,500입니다. 기초 ETF 보수(보통 0.03~0.15%)는 양쪽 모두에 적용되므로 비교 변수가 아닙니다.
 
-## ロボの勝ち
+"무료" 상품의 약관도 읽어야 합니다. Schwab의 로보는 자문 수수료가 없지만 역사적으로 포트폴리오의 6~10%를 시중 금리보다 낮은 이율의 현금으로 보유했습니다. 암묵적 수수료입니다. SEC는 이 공시 방식과 관련해 2022년 Schwab에 $1억 8,700만의 제재금을 부과했습니다.
 
-未構築、大きな課税口座、パニック傾向。
+## 세금 손실 수확의 실제 가치
 
-**Educational only. Not financial advice.**`, zh: `机器人顾问以年费0.25-0.50%自动化。
+TLH는 손실 포지션을 팔아 실현 이익을 상쇄하고, 미국 기준 연간 최대 $3,000의 일반 소득도 상쇄하며, 30일 워시세일 규칙을 지키기 위해 판 펀드를 "비슷하지만 동일하지 않은" 펀드로 교체합니다. 로보 마케팅은 연 0.2~0.5% 이상의 효과를 주장하지만, 정직한 답은 시장 변동성, 정기 신규 입금, 세율 구간에 따라 다르다는 것입니다. 그리고 수확은 취득원가를 낮추므로 세금의 제거가 아니라 이연입니다. IRA 같은 세금 우대 계좌에서 TLH의 가치는 정확히 0이며, 이는 로보의 가장 강력한 논거를 제거합니다.
 
-## 成本
+## DIY가 실제로 요구하는 것
 
-$100,000的0.25% = 每年$250。
+고전적인 3펀드 포트폴리오: 미국 전체 주식 펀드, 전체 해외 주식 펀드, 채권 펀드 — 예컨대 60/20/20 — 보수율 0.03~0.07%. 할 일은:
 
-## DIY要求
+- 매월 자동 납입 설정
+- 캘린더 기준(연 1~2회) 또는 목표에서 5%포인트 이탈 시 리밸런싱
+- 과세 계좌라면 큰 하락장에서 원한다면 수동으로 손실 수확
+- 그 외에는 아무것도 하지 않기, 특히 폭락장에서
 
-资产配置、低成本指数、自动供款、年度再平衡。
+은퇴 계좌 안에서는 더 간단한 대안이 있습니다. 보수율 약 0.08~0.15%의 타깃데이트 인덱스 펀드는 점진적 위험 축소를 포함해 로보가 하는 일을 전부 합니다.
 
-## 机器人胜出
+## 모든 것을 압도하는 변수: 행동
 
-未建立、大型应税账户、恐慌倾向。
+수수료 산수는 동일한 행동을 전제하는데, 진짜 돈을 잃는 곳이 바로 행동입니다. Morningstar의 "Mind the Gap" 연구는 투자자들이 자기가 보유한 펀드보다 연간 약 1%포인트 낮은 수익을 얻는다는 사실을 일관되게 확인합니다. 랠리 뒤에 사고 폭락 뒤에 팔기 때문입니다. 구체적 사례: 2020년 2~3월 S&P 500은 5주 만에 약 34% 급락한 뒤 8월에 신고가로 회복했습니다. 3월에 패닉 매도하고 몇 달 뒤 "진정되면" 재진입한 투자자는 손실을 영구히 확정했습니다. 0.25%를 내는 것이 당신을 그런 투자자가 되지 않게 해준다면 그것은 인생에서 가장 싼 보험입니다. 정말로 손대지 않고 둘 수 있는 사람이라면, 그 돈은 아무것도 사주지 않습니다.
 
-**Educational only. Not financial advice.**` },
+## 각자가 이기는 경우
+
+**로보 승리:** 아직 포트폴리오가 없고 계속 미루는 경우, 자동 TLH가 실질 가치를 갖는 큰 과세 계좌 보유, 과거 이력상 만지작거리거나 패닉하는 성향.
+
+**DIY 승리:** 투자가 주로 401(k)와 IRA에서 이뤄지는 경우(TLH 가치 없음), 3펀드나 타깃데이트 접근이 편한 경우, 0.25%가 남 대신 나를 위해 복리로 굴러가길 원하는 경우.
+
+**하이브리드**도 흔하고 합리적입니다. 은퇴 계좌는 DIY 인덱스 펀드, 과세 계좌는 로보. 어느 길을 택하든, 결과를 좌우하는 것은 0.25% 수수료가 아니라 자산 배분 자체 — 주식·채권 비율과 저축률 — 라는 사실을 기억하세요.
+
+## 흔한 실수
+
+- 타깃데이트 펀드가 훨씬 싸게 해주는 일을 IRA 안에서 로보 수수료를 내며 시키는 것
+- 로보 계좌와 직접 투자 계좌에 겹치는 펀드를 두는 것 — 본인의 매매가 로보의 수확과 충돌해 워시세일 위반을 유발할 수 있습니다
+- 강세장에서 위험 설문에 공격적으로 답하고, 다음 폭락장에서 진짜 위험 허용도를 발견하는 것
+- 현금 비중(캐시 드래그)은 무시한 채 수수료만으로 업체를 비교하는 것
+
+## 세금 참고
+
+수확된 손실, 계좌 간(배우자·IRA 계좌 포함) 워시세일 규칙, 주(州) 세금 때문에 개인별 상황은 정말로 다릅니다. TLH 중심의 전략을 세우기 전에 세무 전문가와 상담하세요.
+
+이 글은 교육 목적의 콘텐츠이며 금융 자문이 아닙니다. 어느 길이 더 잘 복리로 굴러갈지는 상품 마케팅이 아니라 비용, 규율, 그리고 당신 자신의 행동이 결정합니다.`, ja: `ロボアドバイザーは年間で資産の0.25〜0.50%の手数料を取り、ポートフォリオ管理を自動化します。自己主導投資とは、ファンド選び、配分、リバランスをほぼ無料で自分で行うことです。双方のマーケティングが覆い隠している実際の取引はこうです。ロボは規律と利便性に課金し、DIYはそれらを自分で供給する対価をあなたに支払う。数字で見てみましょう。
+
+## ロボアドバイザーが実際にすること
+
+- リスク許容度の質問票に基づき、標準的なポートフォリオ理論で組んだ分散ETFポートフォリオを割り当てる
+- 配分がずれたら自動でリバランス
+- 課税口座でタックスロス・ハーベスティング(TLH)を実行
+- 入金、配当再投資、端株の処理
+
+主要プロバイダーは、WealthfrontとBetterment(約0.25%)、Vanguard Digital Advisor(約0.15〜0.20%)、Schwab Intelligent Portfolios(顧問料なし — この落とし穴は後述)。
+
+## 30年間の手数料の数学
+
+0.25%は取るに足らないように聞こえますが、複利では違います。30年間毎月$500を投資するとします。正味リターン7%なら約$610,000。ロボ手数料を差し引いた6.75%なら約$581,000。利便性のコストは約$29,000で、手数料は成果ではなく資産に課されるため、資産が増えるほど膨らみます。$100万のポートフォリオでは0.25%は毎年$2,500です。基礎となるETFの経費率(通常0.03〜0.15%)は両シナリオに共通なので、比較の決め手にはなりません。
+
+「無料」の商品は約款を読みましょう。Schwabのロボは顧問料ゼロですが、歴史的にポートフォリオの6〜10%を市場金利以下の現金で保有してきました。暗黙の手数料です。SECはこの開示方法をめぐり、2022年にSchwabに1億8,700万ドルの制裁金を科しました。
+
+## タックスロス・ハーベスティングの実際の価値
+
+TLHは含み損のポジションを売って実現益を相殺し、米国では年間最大$3,000の通常所得も相殺し、30日のウォッシュセール規則を守るため売却ファンドを「似ているが同一ではない」ファンドに置き換えます。ロボのマーケティングは年0.2〜0.5%以上の効果を謳いますが、正直な答えは、市場のボラティリティ、定期的な新規入金、税率区分に依存する、です。しかもハーベスティングは取得原価を下げるため、税の消滅ではなく繰延べです。IRAのような税制優遇口座ではTLHの価値は正確にゼロで、ロボ最強の論拠が消えます。
+
+## DIYが実際に要求すること
+
+古典的な3ファンド・ポートフォリオ: 米国株式全体ファンド、国際株式全体ファンド、債券ファンド — 例えば60/20/20 — 経費率0.03〜0.07%。やることは:
+
+- 毎月の自動積立を設定
+- カレンダー基準(年1〜2回)、または資産が目標から5%ポイントずれたらリバランス
+- 課税口座なら、大きな下落時に望めば手動で損失をハーベスト
+- それ以外は何もしない。特に暴落時には
+
+退職口座の中ではもっと簡単な代替があります。経費率約0.08〜0.15%のターゲットデート・インデックスファンドは、段階的なリスク低減も含めてロボがすることを全部やってくれます。
+
+## すべてを飲み込む変数: 行動
+
+手数料の計算は同一の行動を前提としますが、本当にお金が失われるのは行動です。Morningstarの「Mind the Gap」調査は、投資家が自分の保有ファンドより年約1%ポイント低いリターンしか得ていないことを一貫して示しています。上昇後に買い、暴落後に売るからです。具体例: 2020年2〜3月、S&P 500は5週間で約34%下落し、8月には史上最高値まで回復しました。3月に狼狽売りし、数ヶ月後「落ち着いてから」再参入した投資家は、損失を永久に確定させました。0.25%を払うことであなたがそういう投資家にならずに済むなら、それは人生で最も安い保険です。本当に放置できる人なら、その支払いは何ももたらしません。
+
+## それぞれが勝つ場面
+
+**ロボの勝ち:** まだポートフォリオがなく先延ばしを続けている。自動TLHが実際の価値を持つ大きな課税口座がある。過去の実績からして、いじったりパニックしたりする性格だと分かっている。
+
+**DIYの勝ち:** 投資が主に401(k)とIRAの中で行われる(TLHの価値なし)。3ファンドやターゲットデート方式で十分快適。0.25%を他人ではなく自分のために複利で回したい。
+
+**ハイブリッド**も一般的で合理的です。退職口座はDIYのインデックスファンド、課税口座はロボ。どちらの道を選ぶにせよ、結果を左右するのは0.25%の手数料ではなく、配分そのもの — 株式と債券の比率、そして貯蓄率 — であることを忘れないでください。
+
+## よくある間違い
+
+- ターゲットデートファンドがはるかに安くやってくれることを、IRAの中でロボ手数料を払ってやらせる
+- ロボ口座と自己運用口座で重複するファンドを持つ — 自分の売買がロボのハーベスティングと衝突し、ウォッシュセール違反を引き起こし得ます
+- 強気相場でリスク質問票に強気に答え、次の暴落で本当のリスク許容度を発見する
+- 現金比率(キャッシュドラッグ)を無視して手数料だけでプロバイダーを比較する
+
+## 税金の注意
+
+ハーベストした損失、口座間(配偶者口座やIRAを含む)のウォッシュセール規則、州税により、個々の状況は本当に異なります。TLHを軸にした戦略を組む前に税務専門家に相談してください。
+
+本記事は教育目的のコンテンツであり、金融アドバイスではありません。どちらの道がより良く複利で増えるかを決めるのは、商品のマーケティングではなく、コスト、規律、そしてあなた自身の行動です。`, zh: `机器人顾问以每年资产的0.25–0.50%的费用自动管理投资组合; 自主投资则意味着你自己挑基金、做配置、做再平衡，成本几乎为零。双方的营销都掩盖了真实的交易: 机器人顾问向你收取"纪律与便利"的费用; DIY则把这笔钱付给自己。我们用数字说话。
+
+## 机器人顾问实际做什么
+
+- 根据风险问卷，基于标准投资组合理论为你配置分散的ETF组合
+- 配置偏离时自动再平衡
+- 在应税账户中执行税损收割(TLH)
+- 处理入金、股息再投资和碎股
+
+主要提供商包括Wealthfront和Betterment(约0.25%)、Vanguard Digital Advisor(约0.15–0.20%)、Schwab Intelligent Portfolios(不收顾问费——陷阱见下文)。
+
+## 30年的费用数学
+
+0.25%听起来微不足道，复利之下并非如此。每月投资$500、持续30年: 净回报7%时最终约$610,000; 扣掉机器人费用后的6.75%，约$581,000。便利的代价约$29,000，而且费用按资产而非按成果收取，随财富增长而放大。$100万的组合，0.25%就是每年$2,500。底层ETF费用率(通常0.03–0.15%)两种方案都要付，因此不构成差异。
+
+"免费"产品要读细则: Schwab的机器人顾问不收顾问费，但历史上把组合的6–10%放在利率低于市场水平的现金上——这是隐性收费。SEC在2022年就其披露方式对Schwab罚款$1.87亿。
+
+## 税损收割值多少钱
+
+TLH卖出亏损头寸以抵消已实现收益，在美国每年还可抵扣最多$3,000的普通收入，并用"相似但不相同"的基金替换卖出的基金，以遵守30天洗售规则。机器人顾问的营销宣称每年有0.2–0.5%甚至更高的收益; 诚实的答案是: 其价值取决于市场波动、持续的新入金和你的税率档——而且收割降低了成本基础，所以是延税而非免税。在IRA等税收优惠账户里，TLH的价值恰好为零，这也拆掉了机器人顾问最有力的卖点。
+
+## DIY实际需要做什么
+
+经典三基金组合: 美国全市场股票基金、国际全市场基金、债券基金——例如60/20/20——费用率0.03–0.07%。要做的事:
+
+- 设置每月自动定投
+- 按日历(每年一两次)或当某资产偏离目标5个百分点时再平衡
+- 应税账户中，大跌时可自行手动收割损失
+- 除此之外什么都不做，尤其是崩盘时
+
+退休账户内还有更简单的替代: 费用率约0.08–0.15%的目标日期指数基金，能完成机器人顾问的全部工作，包括逐步降低风险。
+
+## 压倒一切的变量: 行为
+
+费用算术假设行为完全相同，而真正亏大钱的正是行为。Morningstar的"Mind the Gap"系列研究一再发现: 投资者的实际回报比其持有的基金每年低约1个百分点，因为他们涨后买、跌后卖。具体案例: 2020年2–3月，标普500五周内下跌约34%，8月即收复失地创新高。3月恐慌卖出、几个月后"等平静了"再进场的投资者，把亏损永久锁定了。如果付0.25%能让你不变成那样的投资者，这是你能买到的最便宜的保险; 如果你真能做到放着不动，这笔钱什么也买不来。
+
+## 各自的胜场
+
+**机器人顾问胜出:** 你还没有组合且一直拖延; 你有大额应税账户，自动TLH有实际价值; 历史证明你爱折腾或容易恐慌。
+
+**DIY胜出:** 你的投资主要在401(k)和IRA里(TLH无价值); 你对三基金或目标日期方案感到自在; 你想让那0.25%为自己而不是为别人复利。
+
+**混合方案**常见且合理: 退休账户里DIY指数基金，应税账户交给机器人顾问。无论选哪条路，请记住: 真正决定结果的是配置本身——股债比例和储蓄率——其影响远大于那0.25%的费用。
+
+## 常见错误
+
+- 在IRA里付机器人顾问费，去做目标日期基金用零头成本就能做的事
+- 同时运行机器人账户和自营账户且持仓重叠——你自己的交易可能与机器人的收割冲突，触发洗售违规
+- 牛市里把风险问卷答得很激进，到下一次崩盘才发现真实的风险承受力
+- 只比费率、无视现金拖累(cash drag)配置
+
+## 税务提示
+
+收割的损失、跨账户(包括配偶账户和IRA)的洗售规则、州税，使每个人的情况确实不同——围绕TLH搭建策略前请咨询税务专业人士。
+
+本文为教育性内容，不构成金融建议。决定哪条路为你复利更快的，不是产品营销，而是成本、纪律和你自己的行为。` },
 		date: '2026-04-24', category: 'investing'
 	},
 	{
 		slug: 'options-vs-futures-basics',
 		title: { en: 'Options vs Futures: Derivatives Basics', ko: '옵션 vs 선물: 파생상품 기초', ja: 'オプション vs 先物: デリバティブの基礎', zh: '期权 vs 期货: 衍生品基础' },
 		description: { en: 'How options and futures contracts differ, and which fits which strategy.', ko: '옵션과 선물 계약의 차이와 어떤 전략에 맞는지.', ja: 'オプションと先物の違いと、どの戦略に合うか。', zh: '期权和期货的区别以及哪种适合哪种策略。' },
-		content: { en: `Both options and futures are derivative contracts — their value derives from an underlying asset.
+		content: { en: `Options and futures are both derivatives — contracts whose value derives from an underlying asset such as a stock index, a commodity, or a currency. They solve related problems in very different ways, and the differences in obligation, time decay, and maximum loss determine which instrument fits which job.
 
-## Futures: The Obligation
+## Futures: A Binding Obligation
 
-A futures contract is an agreement to buy or sell at a set price on a set future date. Both parties are obligated.
+A futures contract commits both parties to transact at a set price on a set date. Contracts are standardized by exchanges (CME being the largest), which is what makes them liquid.
 
-\`\`\`
-Buy 1 ES futures at 5,000 expiring March 2027
-- If S&P at expiration is 5,200: profit ~$10,000
-- If S&P at expiration is 4,800: loss ~$10,000
-\`\`\`
+Worked example with the S&P 500 E-mini (ES), which has a $50 multiplier per index point. Buy one ES contract at 5,000:
 
-Highly leveraged.
+- Notional exposure: 5,000 × $50 = $250,000
+- Index at expiration 5,200: gain of 200 points × $50 = $10,000
+- Index at expiration 4,800: loss of $10,000
 
-## Options: The Right, Not Obligation
+You did not pay $250,000. You posted initial margin — roughly $15,000–20,000 — meaning leverage of about 13–17x. Futures are marked to market daily: losses are debited from your account every evening, and if the balance falls below maintenance margin, you must top up immediately or be liquidated. Micro contracts (MES, at one-tenth size) exist precisely so smaller accounts can size sanely.
 
-A call option gives the right (not obligation) to buy at a set price. A put gives the right to sell. You pay a premium upfront.
+## Options: A Right, Not an Obligation
 
-Maximum loss is the premium paid.
+A call option gives the right to buy the underlying at a strike price before expiration; a put gives the right to sell. The buyer pays a premium upfront; the seller collects it and takes on the obligation.
 
-## Cost Structure
+Worked example: a stock trades at $100. A one-month call with a $105 strike costs $2 per share, or $200 per contract (contracts cover 100 shares).
 
-| | Futures | Options |
-|--|---------|---------|
-| Upfront cost | Margin | Premium |
-| Time decay | Minimal | Significant |
-| Leverage | Very high | Moderate to very high |
-| Max loss | Theoretically unlimited | Premium paid (long) |
+- Stock at $112 at expiration: intrinsic value $7; profit $5 per share = $500, a 250% return on the $200 premium
+- Stock at $105 or below: the option expires worthless; you lose $200, i.e. 100% of the premium
+- Breakeven: $107 — the stock must rise 7% before you make anything
 
-## Use Cases
+That asymmetry is the essence of long options: strictly limited loss, leveraged upside, and a low probability of profit on any single out-of-the-money bet.
 
-**Futures**: Hedge commodities, index speculation, 24-hour markets.
-**Options**: Define max loss, generate income (covered calls), hedge downside (protective puts), express volatility views.
+## The Core Differences
 
-## The Greeks
+- **Obligation**: futures bind both sides; long options bind only the seller
+- **Upfront cost**: futures require margin; options require the full premium
+- **Time decay**: options lose value daily as expiration nears (theta); futures have essentially none
+- **Maximum loss**: long option — the premium; futures and short options — potentially far more than your initial outlay
+- **Path sensitivity**: futures P&L is linear in price; options depend on price, time, and implied volatility simultaneously
 
-Options pricing depends on five factors: delta, gamma, theta, vega, rho.
+The Greeks quantify option sensitivities: delta (price), gamma (rate of change of delta), theta (time), vega (volatility), rho (rates). A position can lose money even when the direction call was right — for example, buying calls before earnings and watching implied volatility collapse after the announcement.
 
-## Risk
+## What Each Is Actually For
 
-Beginners selling naked options or oversizing futures positions can lose multiples of their account in a single day.
+**Futures**: hedging commodity and rate exposure (farmers, airlines, banks), index exposure with capital efficiency, and nearly 24-hour liquid markets.
 
-**Educational only. Not financial advice. Derivatives carry high risk.**`, ko: `옵션과 선물 모두 파생상품.
+**Options**: defining maximum loss in advance, generating income by selling covered calls against stock you own, insuring a portfolio with protective puts, and expressing views on volatility itself.
 
-## 선물: 의무
+## Costs and Fee Structure
 
-설정 가격으로 미래 매수/매도 합의. 양측 의무.
+Options typically cost around $0.65 commission per contract at major US brokers, but the larger cost is the bid-ask spread — an illiquid strike quoted 1.80/2.20 costs you 10% of the position just to enter and exit. Futures run roughly $1–3 per contract round trip plus exchange fees. Always compute total friction as a percentage of realistic profit before trading.
 
-## 옵션: 권리
+## Cautionary History
 
-콜 매수 권리, 풋 매도 권리. 프리미엄 선납. 최대 손실 = 프리미엄.
+Leverage plus obligation has produced spectacular losses. In February 2018, the short-volatility product XIV lost over 90% in a single session and was terminated. On April 20, 2020, the expiring WTI crude futures contract settled at −$37.63 — negative — and retail traders holding long positions lost more than their entire account balances. Selling "safe" naked options harvests small premiums until one gap move erases years of gains.
 
-## 비용 구조
+## Common Mistakes
 
-| | 선물 | 옵션 |
-|--|----|----|
-| 선납 | 마진 | 프리미엄 |
-| 시간 감쇠 | 최소 | 큼 |
+- Position sizing by margin requirement instead of notional exposure
+- Buying short-dated out-of-the-money options as lottery tickets (most expire worthless)
+- Selling naked options without understanding tail risk
+- Ignoring assignment: short American-style options can be exercised early
+- Trading illiquid strikes where the spread consumes the edge
 
-## 위험
+## Practical Path
 
-네이키드 옵션 매도/오버사이즈 선물은 하루에 계좌 수배 손실 가능.
+Paper trade for at least three months. Start with defined-risk structures — long calls or puts, or spreads — sized so a total loss costs no more than 1–2% of the account. Treat futures as a professional tool that demands daily attention to margin.
 
-**Educational only. Not financial advice.**`, ja: `両方ともデリバティブ。
+Tax note: in the US, many futures fall under Section 1256 with blended 60/40 long/short-term capital gains treatment and annual mark-to-market, while equity options follow regular capital gains rules with quirks around assignment and covered calls. The details are genuinely intricate — consult a tax professional.
 
-## 先物: 義務
+This article is educational content, not financial advice. Derivatives can lose more than your initial investment and are unsuitable for money you cannot afford to lose.`, ko: `옵션과 선물은 모두 파생상품입니다. 주가지수, 원자재, 통화 같은 기초자산에서 가치가 파생되는 계약이라는 뜻입니다. 둘은 비슷한 문제를 매우 다른 방식으로 풀며, 의무·시간 가치 소멸·최대 손실의 차이가 어떤 상황에 어떤 도구가 맞는지를 결정합니다.
 
-設定価格で売買する合意。
+## 선물: 구속력 있는 의무
 
-## オプション: 権利
+선물 계약은 양 당사자가 정해진 날짜에 정해진 가격으로 거래하도록 구속합니다. 계약은 거래소(최대는 CME)가 표준화하며, 그 덕분에 유동성이 풍부합니다.
 
-最大損失 = プレミアム。
+S&P 500 E-mini(ES)로 계산해 봅시다. 지수 1포인트당 $50의 승수를 갖습니다. ES 1계약을 5,000에 매수하면:
 
-## リスク
+- 명목 노출: 5,000 × $50 = $250,000
+- 만기 지수 5,200: 200포인트 × $50 = $10,000 이익
+- 만기 지수 4,800: $10,000 손실
 
-ペーパートレードを3ヶ月以上。
+$250,000을 낸 것이 아닙니다. 개시증거금 약 $15,000~20,000을 예치했을 뿐이므로 레버리지는 약 13~17배입니다. 선물은 일일 정산(마크 투 마켓)됩니다. 손실은 매일 저녁 계좌에서 차감되고, 잔고가 유지증거금 아래로 떨어지면 즉시 추가 납입하지 않으면 청산됩니다. 소형 계좌가 무리 없이 사이징할 수 있도록 10분의 1 크기의 마이크로 계약(MES)이 존재합니다.
 
-**Educational only. Not financial advice.**`, zh: `两者都是衍生品。
+## 옵션: 의무가 아닌 권리
 
-## 期货: 义务
+콜옵션은 만기 전에 행사가격으로 기초자산을 살 권리를, 풋옵션은 팔 권리를 줍니다. 매수자는 프리미엄을 선지급하고, 매도자는 그것을 받는 대신 의무를 떠안습니다.
 
-约定在未来日期以设定价格买卖。
+계산 예시: 주가가 $100인 종목. 행사가 $105, 만기 1개월짜리 콜이 주당 $2, 즉 계약당 $200(계약은 100주 단위)이라고 합시다.
 
-## 期权: 权利
+- 만기 주가 $112: 내재가치 $7, 주당 이익 $5 = $500, 프리미엄 $200 대비 250% 수익
+- 만기 주가 $105 이하: 옵션은 휴지 조각, $200 즉 프리미엄의 100% 손실
+- 손익분기점: $107 — 뭐라도 벌려면 주가가 7% 올라야 합니다
 
-最大损失 = 已付溢价。
+이 비대칭이 옵션 매수의 본질입니다. 엄격히 제한된 손실, 레버리지가 걸린 상방, 그리고 외가격 단일 베팅의 낮은 승률.
 
-## 风险
+## 핵심 차이
 
-先纸面交易至少三个月。
+- **의무**: 선물은 양쪽 모두를 구속, 옵션 매수는 매도자만 구속
+- **선납 비용**: 선물은 증거금, 옵션은 프리미엄 전액
+- **시간 가치 소멸**: 옵션은 만기가 가까워질수록 매일 가치를 잃음(세타), 선물은 사실상 없음
+- **최대 손실**: 옵션 매수는 프리미엄, 선물과 옵션 매도는 초기 투입액을 훨씬 넘을 수 있음
+- **경로 민감도**: 선물 손익은 가격에 선형, 옵션은 가격·시간·내재변동성에 동시에 좌우됨
 
-**Educational only. Not financial advice.**` },
+그릭스(Greeks)는 옵션의 민감도를 수치화합니다. 델타(가격), 감마(델타의 변화율), 세타(시간), 베가(변동성), 로(금리). 방향을 맞히고도 돈을 잃을 수 있습니다. 예컨대 실적 발표 전에 콜을 샀는데 발표 후 내재변동성이 붕괴하는 경우가 그렇습니다.
+
+## 각각의 실제 용도
+
+**선물**: 원자재·금리 노출 헤지(농가, 항공사, 은행), 자본 효율적인 지수 노출, 거의 24시간 열리는 유동성 있는 시장.
+
+**옵션**: 최대 손실의 사전 확정, 보유 주식에 커버드콜을 팔아 수익 창출, 보호 풋으로 포트폴리오 보험, 변동성 자체에 대한 견해 표현.
+
+## 비용과 수수료 구조
+
+미국 주요 증권사에서 옵션 수수료는 계약당 약 $0.65이지만, 더 큰 비용은 호가 스프레드입니다. 1.80/2.20으로 호가되는 비유동성 행사가는 들어갔다 나오는 것만으로 포지션의 10%를 잃습니다. 선물은 왕복 계약당 대략 $1~3에 거래소 수수료가 붙습니다. 거래 전에 총 마찰 비용을 현실적인 기대 이익 대비 비율로 계산하세요.
+
+## 경고가 되는 역사
+
+레버리지에 의무가 더해지면 극적인 손실이 발생해 왔습니다. 2018년 2월, 변동성 매도 상품 XIV는 단 하루 만에 90% 넘게 폭락해 상장폐지됐습니다. 2020년 4월 20일, 만기를 앞둔 WTI 원유 선물은 −$37.63, 즉 마이너스로 결제됐고 매수 포지션을 들고 있던 개인 트레이더들은 계좌 전액 이상을 잃었습니다. "안전해 보이는" 네이키드 옵션 매도는 갭 하나가 수년치 이익을 지울 때까지 잔돈을 줍는 전략입니다.
+
+## 흔한 실수
+
+- 명목 노출이 아닌 증거금 기준으로 포지션 사이징
+- 단기 외가격 옵션을 복권처럼 매수(대부분 휴지 조각이 됩니다)
+- 꼬리 위험을 이해하지 못한 채 네이키드 옵션 매도
+- 배정(assignment) 무시: 미국식 옵션 매도 포지션은 조기 행사될 수 있습니다
+- 스프레드가 우위를 다 잡아먹는 비유동성 행사가 거래
+
+## 실용적 경로
+
+최소 3개월 모의투자를 하세요. 손실이 계좌의 1~2%를 넘지 않도록 사이징한 위험 확정 구조 — 콜·풋 매수 또는 스프레드 — 부터 시작하세요. 선물은 증거금을 매일 챙겨야 하는 전문가용 도구로 취급하세요.
+
+세금 참고: 미국에서 다수의 선물은 섹션 1256에 따라 장기 60%/단기 40% 혼합 양도소득 취급과 연말 시가평가가 적용되고, 주식 옵션은 배정·커버드콜 관련 특례가 있는 일반 양도소득 규정을 따릅니다. 세부 사항이 정말 복잡하므로 세무 전문가와 상담하세요.
+
+이 글은 교육 목적의 콘텐츠이며 금융 자문이 아닙니다. 파생상품은 초기 투자금 이상을 잃을 수 있으며, 잃으면 안 되는 돈으로는 부적합합니다.`, ja: `オプションと先物はどちらもデリバティブです。株価指数、コモディティ、通貨といった原資産から価値が派生する契約という意味です。両者は似た問題をまったく異なる方法で解決し、義務・時間的減価・最大損失の違いが、どの仕事にどの道具が合うかを決めます。
+
+## 先物: 拘束力のある義務
+
+先物契約は、両当事者を「決められた日に決められた価格で取引する」ことに拘束します。契約は取引所(最大手はCME)によって標準化されており、それが高い流動性の源泉です。
+
+S&P 500 E-mini(ES)で計算してみましょう。指数1ポイントあたり$50の乗数を持ちます。ESを5,000で1枚買うと:
+
+- 想定元本: 5,000 × $50 = $250,000
+- 満期時に指数5,200: 200ポイント × $50 = $10,000の利益
+- 満期時に指数4,800: $10,000の損失
+
+$250,000を払ったわけではありません。預けたのは当初証拠金の約$15,000〜20,000で、レバレッジは約13〜17倍です。先物は日々値洗い(マーク・トゥ・マーケット)されます。損失は毎晩口座から引き落とされ、残高が維持証拠金を下回れば直ちに追加入金しなければ強制決済されます。小さな口座でも無理なくサイズ調整できるよう、10分の1サイズのマイクロ契約(MES)が存在します。
+
+## オプション: 義務ではなく権利
+
+コールオプションは満期前に権利行使価格で原資産を買う権利を、プットは売る権利を与えます。買い手はプレミアムを前払いし、売り手はそれを受け取る代わりに義務を負います。
+
+計算例: 株価$100の銘柄。権利行使価格$105、満期1ヶ月のコールが1株あたり$2、つまり1契約$200(契約は100株単位)とします。
+
+- 満期時に株価$112: 本源的価値$7、1株あたり利益$5 = $500、プレミアム$200に対して250%のリターン
+- 株価$105以下: オプションは無価値で消滅、$200すなわちプレミアムの100%を失う
+- 損益分岐点: $107 — 何かを得るには株価が7%上がる必要があります
+
+この非対称性こそがオプション買いの本質です。厳密に限定された損失、レバレッジの効いた上値、そしてアウト・オブ・ザ・マネーの単発の賭けの低い勝率。
+
+## 核心的な違い
+
+- **義務**: 先物は両側を拘束、オプションの買いは売り手だけを拘束
+- **前払いコスト**: 先物は証拠金、オプションはプレミアム全額
+- **時間的減価**: オプションは満期が近づくにつれ毎日価値を失う(セータ)、先物には実質的にない
+- **最大損失**: オプションの買いはプレミアム、先物とオプションの売りは当初の投入額をはるかに超え得る
+- **経路依存性**: 先物の損益は価格に線形、オプションは価格・時間・インプライドボラティリティに同時に左右される
+
+グリークスはオプションの感応度を数値化します。デルタ(価格)、ガンマ(デルタの変化率)、セータ(時間)、ベガ(ボラティリティ)、ロー(金利)。方向を当てても損をすることがあります。例えば決算前にコールを買い、発表後にインプライドボラティリティが崩壊するケースです。
+
+## それぞれの実際の用途
+
+**先物**: コモディティや金利エクスポージャーのヘッジ(農家、航空会社、銀行)、資本効率の良い指数エクスポージャー、ほぼ24時間の流動的な市場。
+
+**オプション**: 最大損失の事前確定、保有株に対するカバードコール売りによる収入、プロテクティブプットによるポートフォリオ保険、ボラティリティそのものへの見解の表明。
+
+## コストと手数料構造
+
+米国の主要ブローカーでオプションの手数料は1契約あたり約$0.65ですが、より大きなコストは買値と売値のスプレッドです。1.80/2.20で気配が出ている流動性の低い行使価格では、出入りするだけでポジションの10%を失います。先物は往復で1契約あたりおよそ$1〜3に取引所手数料が加わります。取引前に、総摩擦コストを現実的な期待利益に対する割合で計算しましょう。
+
+## 戒めとなる歴史
+
+レバレッジに義務が加わると、壮絶な損失が生まれてきました。2018年2月、ボラティリティ売り商品のXIVはたった1セッションで90%以上下落し、償還終了となりました。2020年4月20日、期近のWTI原油先物は−$37.63というマイナス価格で清算され、買いポジションを持っていた個人トレーダーは口座残高以上を失いました。「安全そうな」ネイキッドオプションの売りは、一度のギャップが数年分の利益を消すまで小銭を拾い続ける戦略です。
+
+## よくある間違い
+
+- 想定元本ではなく証拠金要件でポジションサイズを決める
+- 短期のアウト・オブ・ザ・マネーのオプションを宝くじのように買う(大半は無価値で消滅)
+- テールリスクを理解せずにネイキッドオプションを売る
+- 割当て(アサインメント)の無視: アメリカンタイプの売りポジションは早期行使され得ます
+- スプレッドがエッジを食い潰す流動性の低い行使価格での取引
+
+## 実践的な道筋
+
+最低3ヶ月はペーパートレードを。全損しても口座の1〜2%以内で収まるサイズの、リスク確定型の構造 — コールやプットの買い、またはスプレッド — から始めましょう。先物は証拠金に毎日目を配る必要のあるプロ向けの道具として扱ってください。
+
+税金の注意: 米国では多くの先物がセクション1256の対象で、長期60%/短期40%のブレンド課税と年末の時価評価が適用されます。一方、株式オプションは割当てやカバードコールにまつわる特則を持つ通常のキャピタルゲイン規則に従います。詳細は本当に入り組んでいるため、税務専門家に相談してください。
+
+本記事は教育目的のコンテンツであり、金融アドバイスではありません。デリバティブは当初投資額以上を失う可能性があり、失ってはいけないお金には不向きです。`, zh: `期权和期货都是衍生品——其价值来源于股指、大宗商品或货币等标的资产的合约。它们用截然不同的方式解决相关的问题，而"义务、时间损耗、最大亏损"这三点差异，决定了哪种工具适合哪种任务。
+
+## 期货: 具约束力的义务
+
+期货合约约束双方在设定日期以设定价格成交。合约由交易所(最大的是CME)标准化，这正是其流动性的来源。
+
+以标普500 E-mini(ES)为例，每个指数点乘数为$50。以5,000买入1手ES:
+
+- 名义敞口: 5,000 × $50 = $250,000
+- 到期指数5,200: 获利200点 × $50 = $10,000
+- 到期指数4,800: 亏损$10,000
+
+你并没有付$250,000，而是缴纳了约$15,000–20,000的初始保证金，即约13–17倍杠杆。期货每日盯市结算: 亏损每天晚上从账户扣除，余额跌破维持保证金必须立即补足，否则被强平。市面上有十分之一规模的微型合约(MES)，正是为了让小账户能理性定仓位。
+
+## 期权: 权利而非义务
+
+看涨期权(call)赋予在到期前以行权价买入标的的权利; 看跌期权(put)赋予卖出的权利。买方预付权利金; 卖方收取权利金并承担义务。
+
+实例: 某股票价格$100。一个月后到期、行权价$105的call每股$2，即每张合约$200(一张合约对应100股)。
+
+- 到期股价$112: 内在价值$7，每股获利$5 = $500，相对$200权利金回报250%
+- 股价$105或以下: 期权作废，损失$200，即权利金的100%
+- 盈亏平衡点: $107——股价必须上涨7%你才开始赚钱
+
+这种不对称就是买入期权的本质: 严格封顶的亏损、带杠杆的上行空间，以及单次价外押注的低胜率。
+
+## 核心差异
+
+- **义务**: 期货约束双方; 买入期权只约束卖方
+- **预付成本**: 期货交保证金; 期权付全额权利金
+- **时间损耗**: 期权随到期临近每天贬值(theta); 期货基本没有
+- **最大亏损**: 买入期权=权利金; 期货和卖出期权=可能远超初始投入
+- **路径敏感性**: 期货盈亏与价格线性相关; 期权同时取决于价格、时间和隐含波动率
+
+希腊字母量化期权的敏感度: delta(价格)、gamma(delta的变化率)、theta(时间)、vega(波动率)、rho(利率)。方向看对也可能亏钱——比如财报前买call，公告后隐含波动率坍塌。
+
+## 各自的真正用途
+
+**期货**: 对冲商品和利率敞口(农户、航空公司、银行)、资本效率高的指数敞口、近乎24小时的流动市场。
+
+**期权**: 预先锁定最大亏损、对持有的股票卖出备兑看涨(covered call)赚取收入、用保护性看跌(protective put)为组合上保险、直接表达对波动率本身的观点。
+
+## 成本与费用结构
+
+美国主要券商的期权佣金约为每张合约$0.65，但更大的成本是买卖价差——报价1.80/2.20的冷门行权价，仅进出一趟就吞掉仓位的10%。期货每手来回约$1–3外加交易所费用。交易前，务必把总摩擦成本算成现实预期利润的百分比。
+
+## 警世的历史
+
+杠杆叠加义务曾造成惨烈损失。2018年2月，做空波动率产品XIV单日暴跌逾90%后被清盘。2020年4月20日，即将到期的WTI原油期货以−$37.63的负价格结算——持有多头的散户亏掉了超过全部账户余额的钱。卖出"看似安全"的裸期权，是在捡硬币，直到一次跳空抹掉多年的收益。
+
+## 常见错误
+
+- 按保证金要求而不是名义敞口来定仓位
+- 把短期价外期权当彩票买(绝大多数作废归零)
+- 不理解尾部风险就卖裸期权
+- 忽视行权指派(assignment): 美式期权空头可能被提前行权
+- 交易价差吞噬全部优势的冷门行权价
+
+## 务实的路径
+
+先纸面交易至少三个月。从风险确定的结构入手——买入call或put、或价差组合——仓位大小以全损不超过账户1–2%为限。把期货当作需要每天盯保证金的专业工具。
+
+税务提示: 在美国，许多期货适用第1256节规则——不论持有期限，按60%长期/40%短期混合税率征收资本利得税并年末盯市; 股票期权则遵循常规资本利得规则，且在行权指派和备兑看涨方面另有细则。细节确实繁复——请咨询税务专业人士。
+
+本文为教育性内容，不构成金融建议。衍生品可能令你亏损超过初始投入，不适合投入你输不起的钱。` },
 		date: '2026-04-23', category: 'investing'
 	},
 	{
