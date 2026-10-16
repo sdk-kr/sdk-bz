@@ -28,8 +28,8 @@
 		<meta name="twitter:image" content="https://sdk.bz/og-image.png" />
 
 		<!-- SEO -->
-		<meta name="robots" content="index, follow" />
-		<meta name="googlebot" content="index, follow" />
+		<!-- robots 메타는 +layout.svelte 에서 동적 처리한다 (ja/zh 로케일·blog 섹션 noindex).
+		     여기에 하드코딩하면 동적 값과 중복 출력되어 충돌한다. -->
 
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />

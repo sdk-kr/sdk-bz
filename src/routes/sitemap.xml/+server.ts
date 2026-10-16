@@ -1,8 +1,10 @@
 import type { RequestHandler } from './$types';
-import { getAllBlogPosts } from '$lib/data/blog-posts';
 
 const SITE = 'https://sdk.bz';
-const LANGS = ['en', 'ko', 'ja', 'zh'];
+// 색인 대상 로케일. ja/zh 번역본이 en/ko 대비 크게 짧아 품질 기준에 미달한다.
+// 2026-10-16 전수 측정: /ja 중앙값 157~481단어, /zh 158~589단어 (en 은 446~1,994).
+// 번역이 보강되면 다시 추가한다. (layout 에서 noindex 도 함께 처리)
+const LANGS = ['en', 'ko'];
 
 const PAGES = [
 	'',
@@ -31,9 +33,7 @@ const PAGES = [
 	'/guide/profit',
 	'/guide/dca',
 	'/guide/staking',
-	'/guide/mining',
-	'/blog',
-	...getAllBlogPosts().map(p => `/blog/${p.slug}`)
+	'/guide/mining'
 ];
 
 export const GET: RequestHandler = async () => {

@@ -13,6 +13,16 @@
 	$: currentLang = $page.params.lang as Locale || 'en';
 	$: basePath = `/${currentLang}`;
 
+	// 색인 대상 로케일. ja/zh 번역본은 en/ko 대비 크게 짧아 품질 기준에 미달한다.
+	// (2026-10-16 전수 측정: /ja 68%, /zh 68% 가 400단어 미만) 번역 보강 시 다시 추가.
+	const indexedLocales: Locale[] = ['en', 'ko'];
+	$: isNoindexLocale = !indexedLocales.includes(currentLang);
+
+	// blog 244편은 2026-07 라운드에서 최신 8편만 확장했고 나머지는 얇다(중앙값 212단어).
+	// 사용자에게는 그대로 제공하되 색인 대상에서만 제외한다. sitemap.xml 에서도 같은 범위를 뺀다.
+	$: pathWithoutLocale = $page.url.pathname.replace(/^\/(en|ko|ja|zh)/, '');
+	$: isNoindexSection = pathWithoutLocale === '/blog' || pathWithoutLocale.startsWith('/blog/');
+
 	let showLangMenu = false;
 
 	onMount(() => {
@@ -44,7 +54,10 @@
 	<meta property="og:site_name" content="SDK.bz" />
 	<meta property="og:locale" content={currentLang === 'ko' ? 'ko_KR' : currentLang === 'ja' ? 'ja_JP' : currentLang === 'zh' ? 'zh_CN' : 'en_US'} />
 	<meta name="twitter:card" content="summary" />
-	{#each locales as loc}
+	{#if isNoindexLocale || isNoindexSection}
+		<meta name="robots" content="noindex, follow" />
+	{/if}
+	{#each indexedLocales as loc}
 		<link rel="alternate" hreflang={loc} href="https://sdk.bz/{loc}{$page.url.pathname.replace(/^\/(en|ko|ja|zh)/, '')}" />
 	{/each}
 	<link rel="alternate" hreflang="x-default" href="https://sdk.bz/en{$page.url.pathname.replace(/^\/(en|ko|ja|zh)/, '')}" />
