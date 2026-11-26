@@ -152,7 +152,7 @@
 			</div>
 			<div class="border-t border-gray-200 dark:border-dark-700 pt-4 text-xs text-gray-500 dark:text-dark-500 leading-relaxed">
 				<p>SDK.bz — Free finance & crypto calculators for educational purposes only. Not financial advice.</p>
-				<p>Operated by SDK Co., Ltd. · Contact: <a href="mailto:contact@sdk.bz" class="hover:underline">contact@sdk.bz</a></p>
+				<p>Operated by SDKLabs Co., Ltd. · Contact: <a href="mailto:contact@sdklabs.org" class="hover:underline">contact@sdklabs.org</a></p>
 			</div>
 		</div>
 	</footer>
